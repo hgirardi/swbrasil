@@ -1,0 +1,174 @@
+User:
+  options:
+    type: MyISAM
+    collate: utf8_unicode_ci
+    charset: utf8
+  columns:
+    name:
+      type: string(100)
+      notnull: true
+    username:
+      unique: true
+      type: string(50)
+      notnull: true
+    email:
+      type: string(100)
+      notnull: true
+    password:
+      type: string(40)
+      notnull: true
+    level:
+      type: enum
+      values: [administrador]
+      notnull: true
+
+News:
+  options:
+    type: MyISAM
+    collate: utf8_unicode_ci
+    charset: utf8
+  actAs:
+    Timestampable: ~
+  columns:
+    title:
+      type: string(100)
+      notnull: true
+    content:
+      type: string
+      notnull: true
+    picture:
+      type: string(50)
+      notnull: false
+
+Download:
+  options:
+    type: MyISAM
+    collate: utf8_unicode_ci
+    charset: utf8
+  columns:
+    description:
+      type: string(100)
+      notnull: false
+    type:
+      type: string(10)
+      notnull: true
+    path:
+      type: string(50)
+      notnull: true
+
+Professional:
+  options:
+    type: MyISAM
+    collate: utf8_unicode_ci
+    charset: utf8
+  actAs:
+    Timestampable: ~
+  columns:
+    name:
+      type: string(150)
+      notnull: true
+    speciality:
+      type: string(150)
+      notnull: true
+    address:
+      type: string(200)
+      notnull: true
+    email:
+      type: string(500)
+      notnull: true
+
+Guestbook:
+  options:
+    type: MyISAM
+    collate: utf8_unicode_ci
+    charset: utf8
+  actAs:
+    Timestampable: ~
+  columns:
+    name:
+      type: string(150)
+      notnull: true
+    email:
+      type: string(100)
+      notnull: true
+    city:
+      type: string(100)
+      notnull: true
+    state:
+      type: string(2)
+      notnull: true
+    country:
+      type: string(50)
+      notnull: true
+    comment:
+      type: string
+      notnull: true
+
+Partner:
+  options:
+    type: MyISAM
+    collate: utf8_unicode_ci
+    charset: utf8
+  columns:
+    name:
+      type: string(100)
+      notnull: true
+    url:
+      type: string(50)
+      notnull: true
+    path:
+      type: string(50)
+      notnull: true
+
+Link:
+  options:
+    type: MyISAM
+    collate: utf8_unicode_ci
+    charset: utf8
+  columns:
+    name:
+      type: string(100)
+      notnull: true
+    url:
+      type: string(50)
+      notnull: true
+    description:
+      type: string
+      notnull: true
+
+Category:
+  options:
+    type: MyISAM
+    collate: utf8_unicode_ci
+    charset: utf8
+  columns:
+    name:
+      type: string(50)
+      notnull: true
+
+Page:
+  options:
+    type: MyISAM
+    collate: utf8_unicode_ci
+    charset: utf8
+  actAs:
+    Timestampable: ~
+  columns:
+    category_id:
+      type: integer
+      notnull: true
+    title:
+      type: string(100)
+      notnull: true
+    slug:
+      type: string(100)
+      notnull: true
+    content:
+      type: string
+      notnull: true
+  relations:
+    Category:
+      onDelete: CASCADE
+      local: category_id
+      foreign: id
+      foreignAlias: Categories
