@@ -1,0 +1,34 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           professional
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:
+    route_prefix:          professional
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        name:
+          label: Nome
+        speciality:
+          label: Especialidade
+        email:
+          label: E-mail
+        address:
+          label: Endereço
+      list:
+        display: [name, speciality, email]
+        title: Lista de Profissionais
+      filter:
+        class: false
+      form: ~
+      edit:
+        title: Alterar Profissional
+      new:
+        title: Criar Profissional

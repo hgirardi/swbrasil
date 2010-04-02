@@ -1,0 +1,32 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           download
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:
+    route_prefix:          download
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        description:
+          label: Descrição
+        type:
+          label: Tipo
+        path:
+          label: Arquivo
+      list:
+        display: [description, type]
+        title: Lista de Arquivos para Download
+      filter:
+        class: false
+      form: ~
+      edit:
+        title: Alterar Arquivo para Download
+      new:
+        title: Criar Arquivo para Download

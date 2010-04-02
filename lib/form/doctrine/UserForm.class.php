@@ -10,7 +10,12 @@
  */
 class UserForm extends BaseUserForm
 {
-  public function configure()
-  {
-  }
+    public function configure()
+    {
+        $this->widgetSchema['level']    = new sfWidgetFormChoice(array('choices' => array('' => 'Selecione', 'administrador' => 'Administrador')));
+        $this->widgetSchema['password'] = new sfWidgetFormInputPassword();
+
+        $this->validatorSchema['password'] = new sfValidatorString(array('required' => true, 'min_length' => 6));
+        $this->validatorSchema['email']    = new sfValidatorEmail(array('required' => true));
+    }
 }

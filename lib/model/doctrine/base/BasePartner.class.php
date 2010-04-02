@@ -19,7 +19,7 @@
  * @package    swbrasil
  * @subpackage model
  * @author     Your name here
- * @version    SVN: $Id: Builder.php 7294 2010-03-02 17:59:20Z jwage $
+ * @version    SVN: $Id: Builder.php 7490 2010-03-29 19:53:27Z jwage $
  */
 abstract class BasePartner extends sfDoctrineRecord
 {

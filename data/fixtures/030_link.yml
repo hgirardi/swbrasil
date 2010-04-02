@@ -1,0 +1,9 @@
+Link:
+  Link_1:
+    name: 'Link 1'
+    url: 'http://www.link1.com'
+    description: 'Descrição do link 1'
+  Link_2:
+    name: 'Link 2'
+    url: 'http://www.link2.com'
+    description: 'Descrição do link 2'

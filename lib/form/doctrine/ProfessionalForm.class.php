@@ -10,7 +10,20 @@
  */
 class ProfessionalForm extends BaseProfessionalForm
 {
-  public function configure()
-  {
-  }
+    public function configure()
+    {
+        unset(
+            $this['created_at'],
+            $this['updated_at']
+        );
+
+        $this->validatorSchema['email'] = new sfValidatorEmail();
+
+        $this->useFields(array(
+            'name',
+            'speciality',
+            'email',
+            'address'
+        ));
+    }
 }

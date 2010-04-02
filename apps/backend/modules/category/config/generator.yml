@@ -1,0 +1,27 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           category
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:
+    route_prefix:          category
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        name:
+          label: Nome
+      list:
+        title: Lista de Categorias
+      filter:
+        class: false
+      form: ~
+      edit:
+        title: Alterar Categoria
+      new:
+        title: Criar Categoria

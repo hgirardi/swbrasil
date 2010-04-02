@@ -19,7 +19,7 @@ abstract class BaseProfessionalForm extends BaseFormDoctrine
       'name'       => new sfWidgetFormInputText(),
       'speciality' => new sfWidgetFormInputText(),
       'address'    => new sfWidgetFormInputText(),
-      'email'      => new sfWidgetFormTextarea(),
+      'email'      => new sfWidgetFormInputText(),
       'created_at' => new sfWidgetFormDateTime(),
       'updated_at' => new sfWidgetFormDateTime(),
     ));
@@ -29,7 +29,7 @@ abstract class BaseProfessionalForm extends BaseFormDoctrine
       'name'       => new sfValidatorString(array('max_length' => 150)),
       'speciality' => new sfValidatorString(array('max_length' => 150)),
       'address'    => new sfValidatorString(array('max_length' => 200)),
-      'email'      => new sfValidatorString(array('max_length' => 500)),
+      'email'      => new sfValidatorString(array('max_length' => 50)),
       'created_at' => new sfValidatorDateTime(),
       'updated_at' => new sfValidatorDateTime(),
     ));

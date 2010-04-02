@@ -1,0 +1,13 @@
+User:
+  User_1:
+    name: 'Henrique Boaventura'
+    username: kidh0
+    email: hboaventura@gmail.com
+    password: 05eeb87d0f76e372dd4dce45d5184b2483290e40
+    level: administrador
+  User_2:
+    name: 'Denilson Trespach'
+    username: denit
+    email: denit@litoralmania.com.br
+    password: df0b6c410fc70ceeb16c10880a3d0a573ca26631
+    level: administrador

@@ -22,7 +22,7 @@
  * @package    swbrasil
  * @subpackage model
  * @author     Your name here
- * @version    SVN: $Id: Builder.php 7294 2010-03-02 17:59:20Z jwage $
+ * @version    SVN: $Id: Builder.php 7490 2010-03-29 19:53:27Z jwage $
  */
 abstract class BaseProfessional extends sfDoctrineRecord
 {
@@ -44,10 +44,10 @@ abstract class BaseProfessional extends sfDoctrineRecord
              'notnull' => true,
              'length' => '200',
              ));
-        $this->hasColumn('email', 'string', 500, array(
+        $this->hasColumn('email', 'string', 50, array(
              'type' => 'string',
              'notnull' => true,
-             'length' => '500',
+             'length' => '50',
              ));
 
         $this->option('type', 'MyISAM');

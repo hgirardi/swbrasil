@@ -1,0 +1,36 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           user
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:
+    route_prefix:          user
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        name:
+          label: Nome
+        username:
+          label: Usuário
+        email:
+          label: E-mail
+        password:
+          label: Senha
+        level:
+          label: Nivel
+      list:
+        display: [name, username, email, level]
+        title: Lista de Usuários
+      filter:
+        class: false
+      form: ~
+      edit:
+        title: Alterar Usuário
+      new:
+        title: Criar Usuário

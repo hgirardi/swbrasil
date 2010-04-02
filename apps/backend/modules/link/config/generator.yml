@@ -1,0 +1,32 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           link
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:
+    route_prefix:          link
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        name:
+          label: Nome
+        url:
+          label: URL
+        description:
+          label: Descrição
+      list:
+        display: [name, url]
+        title: Lista de Links
+      filter:
+        class: false
+      form: ~
+      edit:
+        title: Alterar Link
+      new:
+        title: Criar Link

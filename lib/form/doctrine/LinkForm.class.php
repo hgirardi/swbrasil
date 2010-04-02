@@ -10,7 +10,8 @@
  */
 class LinkForm extends BaseLinkForm
 {
-  public function configure()
-  {
-  }
+    public function configure()
+    {
+        $this->validatorSchema['url'] = new sfValidatorUrl(array('required' => true));
+    }
 }

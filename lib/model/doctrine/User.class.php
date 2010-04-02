@@ -11,5 +11,11 @@
  * @version    SVN: $Id: Builder.php 7294 2010-03-02 17:59:20Z jwage $
  */
 class User extends BaseUser
-{
+{    
+    
+    public function setPassword($password)
+    {
+        return $this->_set('password', sha1($password));
+    }
+
 }

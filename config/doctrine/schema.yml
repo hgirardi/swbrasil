@@ -74,7 +74,7 @@ Professional:
       type: string(200)
       notnull: true
     email:
-      type: string(500)
+      type: string(50)
       notnull: true
 
 Guestbook:
