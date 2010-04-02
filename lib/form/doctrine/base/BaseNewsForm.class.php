@@ -17,6 +17,7 @@ abstract class BaseNewsForm extends BaseFormDoctrine
     $this->setWidgets(array(
       'id'         => new sfWidgetFormInputHidden(),
       'title'      => new sfWidgetFormInputText(),
+      'slug'       => new sfWidgetFormInputText(),
       'content'    => new sfWidgetFormTextarea(),
       'picture'    => new sfWidgetFormInputText(),
       'created_at' => new sfWidgetFormDateTime(),
@@ -26,11 +27,16 @@ abstract class BaseNewsForm extends BaseFormDoctrine
     $this->setValidators(array(
       'id'         => new sfValidatorDoctrineChoice(array('model' => $this->getModelName(), 'column' => 'id', 'required' => false)),
       'title'      => new sfValidatorString(array('max_length' => 100)),
+      'slug'       => new sfValidatorString(array('max_length' => 100)),
       'content'    => new sfValidatorString(),
       'picture'    => new sfValidatorString(array('max_length' => 50, 'required' => false)),
       'created_at' => new sfValidatorDateTime(),
       'updated_at' => new sfValidatorDateTime(),
     ));
+
+    $this->validatorSchema->setPostValidator(
+      new sfValidatorDoctrineUnique(array('model' => 'News', 'column' => array('slug')))
+    );
 
     $this->widgetSchema->setNameFormat('news[%s]');
 

@@ -11,19 +11,22 @@
  * @property string $state
  * @property string $country
  * @property string $comment
+ * @property boolean $approved
  * 
- * @method string    getName()    Returns the current record's "name" value
- * @method string    getEmail()   Returns the current record's "email" value
- * @method string    getCity()    Returns the current record's "city" value
- * @method string    getState()   Returns the current record's "state" value
- * @method string    getCountry() Returns the current record's "country" value
- * @method string    getComment() Returns the current record's "comment" value
- * @method Guestbook setName()    Sets the current record's "name" value
- * @method Guestbook setEmail()   Sets the current record's "email" value
- * @method Guestbook setCity()    Sets the current record's "city" value
- * @method Guestbook setState()   Sets the current record's "state" value
- * @method Guestbook setCountry() Sets the current record's "country" value
- * @method Guestbook setComment() Sets the current record's "comment" value
+ * @method string    getName()     Returns the current record's "name" value
+ * @method string    getEmail()    Returns the current record's "email" value
+ * @method string    getCity()     Returns the current record's "city" value
+ * @method string    getState()    Returns the current record's "state" value
+ * @method string    getCountry()  Returns the current record's "country" value
+ * @method string    getComment()  Returns the current record's "comment" value
+ * @method boolean   getApproved() Returns the current record's "approved" value
+ * @method Guestbook setName()     Sets the current record's "name" value
+ * @method Guestbook setEmail()    Sets the current record's "email" value
+ * @method Guestbook setCity()     Sets the current record's "city" value
+ * @method Guestbook setState()    Sets the current record's "state" value
+ * @method Guestbook setCountry()  Sets the current record's "country" value
+ * @method Guestbook setComment()  Sets the current record's "comment" value
+ * @method Guestbook setApproved() Sets the current record's "approved" value
  * 
  * @package    swbrasil
  * @subpackage model
@@ -63,6 +66,10 @@ abstract class BaseGuestbook extends sfDoctrineRecord
         $this->hasColumn('comment', 'string', null, array(
              'type' => 'string',
              'notnull' => true,
+             ));
+        $this->hasColumn('approved', 'boolean', null, array(
+             'type' => 'boolean',
+             'default' => false,
              ));
 
         $this->option('type', 'MyISAM');

@@ -44,6 +44,7 @@ abstract class BasePage extends sfDoctrineRecord
         $this->hasColumn('slug', 'string', 100, array(
              'type' => 'string',
              'notnull' => true,
+             'unique' => true,
              'length' => '100',
              ));
         $this->hasColumn('content', 'string', null, array(

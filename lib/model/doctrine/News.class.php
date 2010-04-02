@@ -12,4 +12,12 @@
  */
 class News extends BaseNews
 {
+    public function getHasPicture()
+    {
+        if($this->picture != ''){
+            return 'Sim';
+        }
+
+        return 'Não';
+    }
 }

@@ -2,7 +2,8 @@
 
 class backendConfiguration extends sfApplicationConfiguration
 {
-  public function configure()
-  {
-  }
+    public function configure()
+    {
+        //$this->dispatcher->connect('admin.save_object', array('swImageTransform', 'listenToAdminSaveObject'));
+    }
 }

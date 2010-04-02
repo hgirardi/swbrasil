@@ -34,6 +34,10 @@ abstract class BasePageForm extends BaseFormDoctrine
       'updated_at'  => new sfValidatorDateTime(),
     ));
 
+    $this->validatorSchema->setPostValidator(
+      new sfValidatorDoctrineUnique(array('model' => 'Page', 'column' => array('slug')))
+    );
+
     $this->widgetSchema->setNameFormat('page[%s]');
 
     $this->errorSchema = new sfValidatorErrorSchema($this->validatorSchema);

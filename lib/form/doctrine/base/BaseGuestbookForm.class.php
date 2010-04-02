@@ -22,6 +22,7 @@ abstract class BaseGuestbookForm extends BaseFormDoctrine
       'state'      => new sfWidgetFormInputText(),
       'country'    => new sfWidgetFormInputText(),
       'comment'    => new sfWidgetFormTextarea(),
+      'approved'   => new sfWidgetFormInputCheckbox(),
       'created_at' => new sfWidgetFormDateTime(),
       'updated_at' => new sfWidgetFormDateTime(),
     ));
@@ -34,6 +35,7 @@ abstract class BaseGuestbookForm extends BaseFormDoctrine
       'state'      => new sfValidatorString(array('max_length' => 2)),
       'country'    => new sfValidatorString(array('max_length' => 50)),
       'comment'    => new sfValidatorString(),
+      'approved'   => new sfValidatorBoolean(array('required' => false)),
       'created_at' => new sfValidatorDateTime(),
       'updated_at' => new sfValidatorDateTime(),
     ));
