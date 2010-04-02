@@ -1,0 +1,34 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           page
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:
+    route_prefix:          page
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        category_id:
+          label: Categoria
+        category:
+          label: Categoria
+        title:
+          label: Titulo
+        content:
+          label: Conteúdo
+      list:
+        display: [title, category]
+        title: Lista de Páginas
+      filter:
+        class: false
+      form: ~
+      edit:
+        title: Alterar Página "%%title%%"
+      new:
+        title: Criar Página

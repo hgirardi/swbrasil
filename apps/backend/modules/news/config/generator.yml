@@ -1,0 +1,34 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           news
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:
+    route_prefix:          news
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        title:
+          label: Título
+        content:
+          label: Conteúdo
+        picture:
+          label: Imagem
+        has_picture:
+          label: Imagem
+      list:
+        display: [title, has_picture]
+        title: Lista de Notícias
+      filter:
+        class: false
+      form: ~
+      edit:
+        title: Alterar Notícia
+      new:
+        title: Criar Notícia

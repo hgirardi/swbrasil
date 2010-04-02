@@ -1,0 +1,15 @@
+Guestbook:
+  Message1:
+    name: Henrique Boaventura
+    email: hboaventura@gmail.com
+    city: Porto Alegre
+    state: RS
+    country: Brasil
+    comment: Teste de comentário
+  Message2:
+    name: Denilson Trespach
+    email: denit@litoralmania.com.br
+    city: Osório
+    state: RS
+    country: Brasil
+    comment: Teste de comentário

@@ -1,0 +1,15 @@
+News:
+  News_1:
+    title: 'Notícia 1'
+    slug: 'noticia-1'
+    content: '<p>Teste de noticia 1</p>'
+    picture: dcd08bcf9cf3b017be6ebe12504c0dbd258fef11.jpg
+    created_at: '2010-04-02 15:01:01'
+    updated_at: '2010-04-02 15:19:52'
+  News_2:
+    title: 'Noticia 2'
+    slug: 'noticia-2'
+    content: '<p>Teste da noticia 2</p>'
+    picture: 0afadcb43f14c67305b45d9d9310d5352fde85b4.jpg
+    created_at: '2010-04-02 15:41:36'
+    updated_at: '2010-04-02 15:41:36'

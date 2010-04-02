@@ -1,0 +1,32 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           partner
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:
+    route_prefix:          partner
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        name:
+          label: Nome
+        url:
+          label: URL
+        path:
+          label: Imagem
+      list:
+        display: [name, url]
+        title: Lista de Parceiros
+      filter:
+        class: false
+      form: ~
+      edit:
+        title: Alterar Parceiro "%%name%%"
+      new:
+        title: Criar Parceiro

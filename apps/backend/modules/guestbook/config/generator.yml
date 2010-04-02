@@ -1,0 +1,49 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           guestbook
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:
+    route_prefix:          guestbook
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        name:
+          label: Nome
+        email:
+          label: E-mail
+        city:
+          label: Cidade
+        state:
+          label: Estado
+        country:
+          label: País
+        comment:
+          label: Comentário
+        approved:
+          label: Aprovado
+        created_at:
+          label: Data
+          date_format: dd/MM/yy
+      list:
+        display: [name, email, comment, approved]
+        title: Lista de Mensagens
+        sort: [approved, asc]
+        batch_actions:
+          _delete: ~
+          aprovar: ~
+        object_actions:
+#          _edit: false
+          _delete:  ~
+          aprovar:
+            params: confirm=Aprovar mensagem?
+
+      filter:
+        class: false
+      form: ~
