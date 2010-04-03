@@ -1,0 +1,2 @@
+all:
+  stylesheets:    [gallery_admin.css]

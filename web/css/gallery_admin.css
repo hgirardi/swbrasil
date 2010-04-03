@@ -1,0 +1,18 @@
+ul#images-list li{
+    border:1px solid #c0c0c0;
+    clear:none;
+    float:left;
+    list-style:none;
+    padding:5px;
+    margin:5px;
+    width:auto;
+}
+ul#images-list li a{
+    background-image:none;
+    padding:0px;
+    margin:0px;
+    width:20px;
+}
+ul#images-list li img{
+    margin-bottom:-2px;
+}

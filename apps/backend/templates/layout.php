@@ -12,6 +12,9 @@
         <div class="container">
             <div id="header" class="span-24">
                 <h1>Área Administrativa - SWBrasil</h1>
+                <?php
+                    if($sf_user->isAuthenticated()){
+                ?>
                 <ul id="menu">
                     <li <?php echo ($sf_request->getParameter('module') == 'user') ? 'class="selected"' : ''; ?>><?php echo link_to('Usuários','@user');?></li>
                     <li <?php echo ($sf_request->getParameter('module') == 'news') ? 'class="selected"' : ''; ?>><?php echo link_to('Notícias','@news');?></li>
@@ -22,7 +25,12 @@
                     <li <?php echo ($sf_request->getParameter('module') == 'category') ? 'class="selected"' : ''; ?>><?php echo link_to('Categorias','@category');?></li>
                     <li <?php echo ($sf_request->getParameter('module') == 'page') ? 'class="selected"' : ''; ?>><?php echo link_to('Páginas','@page');?></li>
                     <li <?php echo ($sf_request->getParameter('module') == 'partner') ? 'class="selected"' : ''; ?>><?php echo link_to('Parceiros','@partner');?></li>
+                    <li <?php echo ($sf_request->getParameter('module') == 'gallery') ? 'class="selected"' : ''; ?>><?php echo link_to('Álbum','@gallery');?></li>
+                    <li class="logout"><?php echo link_to('Sair','login/logout'); ?></li>
                 </ul>
+                <?php
+                    }
+                ?>
             </div>
             <div id="content">
                 <?php echo $sf_content ?>

@@ -31,8 +31,17 @@ all:
     escaping_strategy:      true
     escaping_method:        ESC_SPECIALCHARS
 
+    login_module:           login
+    login_action:           index
+
+    secure_module:          login
+    secure_action:          index
+
     # Enable the database manager
     use_database:           true
     i18n:                   true
     default_culture:        pt_BR
     charset: utf-8
+    
+    jquery_web_dir:      false
+    jquery_core:        jquery-1.4.2.min.js
