@@ -11,5 +11,5 @@
  * @version    SVN: $Id: Builder.php 7294 2010-03-02 17:59:20Z jwage $
  */
 class Category extends BaseCategory
-{
+{    
 }

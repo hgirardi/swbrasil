@@ -152,6 +152,12 @@ Category:
     name:
       type: string(50)
       notnull: true
+  relations:
+    Pages:
+      type: many
+      class: Page
+      local: id
+      foreign: category_id
 
 Page:
   options:

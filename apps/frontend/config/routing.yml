@@ -1,0 +1,24 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+# default rules
+homepage:
+  url:   /
+  param: { module: capa, action: index }
+  
+news_view:
+  url: /noticia/:slug
+  param: { module: news, action: view }
+  
+page_view:
+  url: /:slug_category/:slug_page
+  param: { module: page, action: view }
+
+# generic rules
+# please, remove them by adding more specific rules
+default_index:
+  url:   /:module
+  param: { action: index }
+
+default:
+  url:   /:module/:action/*

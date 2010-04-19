@@ -23,4 +23,17 @@ class guestbookActions extends autoGuestbookActions
 
         return sfView::NONE;
     }
+    
+    public function executeBatchAprovar(sfWebRequest $request)
+    {
+        foreach($request->getParameter('ids') as $id){
+            $guestbook = Doctrine::getTable('Guestbook')->find($id);
+            $guestbook->approved = true;
+            $guestbook->save();
+        }
+        
+        $this->redirect('@guestbook');
+
+        return sfView::NONE;        
+    }
 }

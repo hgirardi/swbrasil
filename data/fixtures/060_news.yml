@@ -2,14 +2,14 @@ News:
   News_1:
     title: 'Notícia 1'
     slug: 'noticia-1'
-    content: '<p>Teste de noticia 1</p>'
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
     picture: dcd08bcf9cf3b017be6ebe12504c0dbd258fef11.jpg
     created_at: '2010-04-02 15:01:01'
     updated_at: '2010-04-02 15:19:52'
   News_2:
     title: 'Noticia 2'
     slug: 'noticia-2'
-    content: '<p>Teste da noticia 2</p>'
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
     picture: 0afadcb43f14c67305b45d9d9310d5352fde85b4.jpg
     created_at: '2010-04-02 15:41:36'
     updated_at: '2010-04-02 15:41:36'

@@ -58,7 +58,7 @@ class NewsForm extends BaseNewsForm
             $img->setQuality(95);
             $img->save();
 
-            $img->resize(120,90)->saveAs($uploadDir . 'thumb_' . $image);
+            $img->resize(180,128)->saveAs($uploadDir . 'thumb_' . $image);
         }
         return $return;
     }
