@@ -3,7 +3,7 @@
 ?>
 <h2>Página Inicial</h2>
 <div id="ads_700">
-    Publicidade
+    <a href="#"><img src="/images/colabora_absw700x130.jpg" /></a>
 </div>
 <div id="newsBox">
     <h3>Notícia</h3>
@@ -28,8 +28,12 @@
     <?php echo image_tag('/images/skype_logo.png',array('title' => 'Skype - absw-secretaria', 'alt' => 'Logo do Skype - absw-secretaria')); ?>
     <?php echo link_to(image_tag('/images/grupos_logo.png',array('title' => 'Grupos', 'alt' => 'Logo do Grupos')),'http://www.grupos.com.br/group/absw/SpreadingBox.html?id_grupo=243733&action=subscribe&email='); ?>
 </div>
-<div class="ads_125">Publicidade</div>
-<div class="ads_125">Publicidade</div>
+<div class="ads_125">
+    <a href="#"><img src="/images/doemedula125x125.jpg" /></a>
+</div>
+<div class="ads_125">
+    <a href="#"><img src="/images/onconguia_125x125.jpg" /></a>
+</div>
 <div id="caracteristicas">
     <h3>Características</h3>
     <p><?php echo strip_tags($caracteristicas->content); ?></p>
@@ -41,7 +45,7 @@
     <?php echo link_to('Leia mais...', '@page_view?slug_category=geral&slug_page=caracteristicas'); ?>
 </div>
 <div id="ads_160">
-    Publicidade
+    <a href="#"><img src="/images/banner160x320.jpg" /></a>
 </div>
 <div id="guestbook">
     <h3>Livro de Visita</h3>

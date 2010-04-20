@@ -11,5 +11,14 @@ class NewsTable extends Doctrine_Table
 
         return $q->fetchOne();
     }
+    
+    public function listNewsByDate()
+    {
+        $q = $this->createQuery()
+           ->from('News n')
+           ->orderBy('n.created_at DESC');
+
+        return $q;
+    }
 
 }

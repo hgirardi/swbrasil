@@ -14,8 +14,8 @@
             <div id="header" class="clear">
                 <h1>Website Oficial Da Associação Brasileira da Sínfrome de Williams</h1>
                 <ul id="topMenu">
-                    <li><a href="#">Sobre a ABSW</a></li>
-                    <li><a href="#">Sobre o Site</a></li>
+                    <li><?php echo link_to('Sobre a ABSW','@page_view?slug_category=geral&slug_page=sobre-a-absw');?></a></li>
+                    <li><?php echo link_to('Sobre o Site','@page_view?slug_category=geral&slug_page=sobre-o-site');?></a></li>
                     <li class="last"><a href="#">Fale Conosco</a></li>
                 </ul>
                 <form method="post" action="#">
@@ -27,6 +27,7 @@
                 </form>
             </div>
             <div id="sideBar" class="span-6">
+                <h2>Menu</h2>
                 <?php
                     include_component('capa','menu');
                 ?>
@@ -35,8 +36,13 @@
                 <?php echo $sf_content ?>
             </div>
             <div id="footer" class="clear">
-                Site desenvolvido e atualizado por www.litoralmania.com.br <http://www.litoralmania.com.br> - Criado em 09/2001
-                links do topo
+                Site desenvolvido e atualizado por <a href="http://www.litoralmania.com.br">www.litoralmania.com.br</a> - Criado em 09/2001
+                <ul
+                <ul id="bottomMenu">
+                    <li><?php echo link_to('Sobre a ABSW','@page_view?slug_category=geral&slug_page=sobre-a-absw');?></a></li>
+                    <li><?php echo link_to('Sobre o Site','@page_view?slug_category=geral&slug_page=sobre-o-site');?></a></li>
+                    <li class="last"><a href="#">Fale Conosco</a></li>
+                </ul>
             </div>
         </div>
     </body>

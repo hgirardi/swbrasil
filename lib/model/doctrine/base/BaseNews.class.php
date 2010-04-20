@@ -9,15 +9,18 @@
  * @property string $slug
  * @property string $content
  * @property string $picture
+ * @property string $source
  * 
  * @method string getTitle()   Returns the current record's "title" value
  * @method string getSlug()    Returns the current record's "slug" value
  * @method string getContent() Returns the current record's "content" value
  * @method string getPicture() Returns the current record's "picture" value
+ * @method string getSource()  Returns the current record's "source" value
  * @method News   setTitle()   Sets the current record's "title" value
  * @method News   setSlug()    Sets the current record's "slug" value
  * @method News   setContent() Sets the current record's "content" value
  * @method News   setPicture() Sets the current record's "picture" value
+ * @method News   setSource()  Sets the current record's "source" value
  * 
  * @package    swbrasil
  * @subpackage model
@@ -48,6 +51,11 @@ abstract class BaseNews extends sfDoctrineRecord
              'type' => 'string',
              'notnull' => false,
              'length' => '50',
+             ));
+        $this->hasColumn('source', 'string', 100, array(
+             'type' => 'string',
+             'notnull' => false,
+             'length' => '100',
              ));
 
         $this->option('type', 'MyISAM');

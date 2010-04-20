@@ -5,7 +5,8 @@ Guestbook:
     city: Porto Alegre
     state: RS
     country: Brasil
-    comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
+    comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit.
+    approved: true
   Message2:
     name: Denilson Trespach
     email: denit@litoralmania.com.br
@@ -13,13 +14,15 @@ Guestbook:
     state: RS
     country: Brasil
     comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit.
+    approved: true
   Message3:
     name: Henrique Boaventura
     email: hboaventura@gmail.com
     city: Porto Alegre
     state: RS
     country: Brasil
-    comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
+    comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit.
+    approved: true
   Message4:
     name: Denilson Trespach
     email: denit@litoralmania.com.br

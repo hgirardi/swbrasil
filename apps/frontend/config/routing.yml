@@ -10,6 +10,14 @@ news_view:
   url: /noticia/:slug
   param: { module: news, action: view }
   
+news_list_blank:
+  url: /noticias
+  param: { module: news, action: list }
+  
+news_list:
+  url: /noticias/pg/:page
+  param: { module: news, action: list }  
+  
 page_view:
   url: /:slug_category/:slug_page
   param: { module: page, action: view }

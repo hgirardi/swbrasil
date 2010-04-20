@@ -43,6 +43,9 @@ News:
     picture:
       type: string(50)
       notnull: false
+    source:
+      type: string(100)
+      notnull: false
 
 Download:
   options:

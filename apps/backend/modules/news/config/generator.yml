@@ -20,6 +20,8 @@ generator:
           label: Conteúdo
         picture:
           label: Imagem
+        source:
+          label: Fonte
         has_picture:
           label: Imagem
       list:

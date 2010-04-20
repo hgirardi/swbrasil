@@ -10,13 +10,13 @@
  */
 class pageActions extends sfActions
 {
- /**
-  * Executes index action
-  *
-  * @param sfRequest $request A request object
-  */
-  public function executeIndex(sfWebRequest $request)
-  {
-    $this->forward('default', 'module');
-  }
+    /**
+     * Executes index action
+     *
+     * @param sfRequest $request A request object
+     */
+    public function executeView(sfWebRequest $request)
+    {
+        $this->page = Doctrine::getTable('Page')->findOneBySlug($request->getParameter('slug_page')); 
+    }
 }

@@ -20,15 +20,29 @@ a:hover{
     text-decoration:underline;
 }
 
+div.pagination{
+    
+    text-align:center;
+}
+    div.pagination img{
+        vertical-align: text-top;
+    }
+    div.pagination a, div.pagination span.unlinkedPage{
+        margin:0px 2px;
+    }
+    div.pagination span.unlinkedPage{
+        color:#369;
+    }
+
 /**
  * estrutura
  **/
 
 div.container{
     background:#9CC url(/images/fundo.png) repeat-y left top;
-    border: 1px solid #000;    
-}
-    div.container h2{
+    border: 1px solid #000;
+}    
+    div.capa h2{
         left:-9999em;
         position:absolute;
     }
@@ -37,18 +51,25 @@ div.container{
         height:95px;
     }
     
-    div#content{ 
-        padding:10px 10px 10px 0px;
-        width:700px;
+    div#content{
+        background-color:#fff;
+        margin:10px 10px 0px 0px;
+        padding:0px 10px 10px 10px;
+        text-align:justify;
+        width:680px;
     }
     div#sideBar{
         margin-left:15px;
         padding:5px 15px 5px 10px;
         width:190px;
     }
+        div#sideBar h2{
+            position: absolute;
+            left:-9999em;
+        }
     div#footer{
         background: transparent url(/images/rodape.png) no-repeat left top;
-        height:60px;
+        height:55px;
     }
     
 /**
@@ -121,119 +142,181 @@ div#sideBar ul{
             color:#000;
             font-size:15px;
         }
+/**
+ * gerais
+ **/
+div#content{
+    
+}
+    div#content h2{
+        border-bottom:1px dotted #369;
+        color:#369;
+        font-size:18px;
+        text-transform: uppercase;
+    }
     
 /**
  * capa
  **/
-div.capa div{
-    background-color:#fff;
-    border-radius: 5px;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    padding:5px;
-    text-align:justify;
-    overflow: hidden;
+div.capa{
+    background-color:transparent!important;
+    padding-left:0px!important;
+    width:690px!important;
 }
-    div.capa div h3{
-        border-bottom:1px dotted #369;
-        color:#369;
-        font-size:18px;
-        margin-bottom:5px;
-        text-transform:uppercase;
+    div.capa div{
+        background-color:#fff;
+        border-radius: 5px;
+        -moz-border-radius: 5px;
+        -webkit-border-radius: 5px;
+        padding:5px;
+        text-align:justify;
+        overflow: hidden;
     }
-div.capa div#ads_700{
-    clear:both;
-    float:left;
-    height:130px;
-    margin-bottom:10px;
-    width:690px;
+        div.capa div h3{
+            border-bottom:1px dotted #369;
+            color:#369;
+            font-size:18px;
+            margin-bottom:5px;
+            text-transform:uppercase;
+        }
+    div.capa div#ads_700{
+        background-color:transparent;
+        clear:both;
+        float:left;
+        height:130px;
+        margin-bottom:10px;
+        padding:0px;
+        width:700px;
+    }
+    div.capa div#newsBox{
+        clear:both;
+        float:left;
+        height:230px;
+        margin-bottom:10px;
+        width:690px;
+    }
+        div.capa div#newsBox p{
+            height:186px;
+            overflow:hidden;
+            margin-bottom:0px;
+        }
+        div.capa div#newsBox a.leiamais{
+            float:right;
+        }
+        div.capa div#newsBox span.picture{
+            background-color:#9cc;
+            float:right;
+            margin:0px 0px 5px 5px;
+            padding:5px;
+        }
+            div.capa div#newsBox span.picture h4{
+                font-size:1em;
+                margin-bottom:0px;
+            }
+    div.capa div#socialMedia{
+        float:left;
+        height:115px;
+        margin:0px 10px 10px 0px;
+        width: 250px;
+    }
+        div.capa div#socialMedia img{
+            margin:10px 1px;
+        }
+    div.capa div.ads_125{
+        background-color:transparent;
+        float:left;
+        height:125px;
+        margin:0px 10px 10px 0px;
+        padding:0px;
+        width: 125px;
+    }
+    div.capa div#caracteristicas, div.capa div#cuidados{
+        float:left;
+        height:172px;
+        margin:0px 10px 10px 0px;
+        text-align:right;
+        width:250px;
+    }
+        div.capa div#caracteristicas p, div.capa div#cuidados p{
+            height:125px;
+            margin:5px 0px;
+            overflow:hidden;
+            text-align:justify;
+        }
+        div.capa div#caracteristicas a, div.capa div#cuidados a{
+            
+        }
+    div.capa div#ads_160{
+        background-color:transparent;
+        float:left;
+        height:320px;
+        margin: -135px -10px 0px 0px;
+        padding:0px;
+        width:160px;
+    }
+    div.capa div#guestbook{
+        clear:both;
+        float:left;
+        height:220px;    
+        width:690px;
+    }
+        div.capa div#guestbook a{
+            float:right;
+        }
+        div.capa div#guestbook ul{
+            padding-left:0px;
+            margin:0px;
+        }
+            div.capa div#guestbook ul li{
+                list-style:none;
+                margin-bottom:10px;
+            }
+            div.capa div#guestbook ul li:last-child{
+                margin-bottom:0px;
+            }
+                div.capa div#guestbook ul li p{
+                    height:31px;
+                    line-height:1.1em;
+                    margin:0px;
+                    overflow:hidden;
+                    
+                }
+                
+/**
+ * news
+ **/
+div.news{
+    
 }
-div.capa div#newsBox{
-    clear:both;
-    float:left;
-    height:230px;
-    margin-bottom:10px;
-    width:690px;
-}
-    div.capa div#newsBox p{
-        height:186px;
-        overflow:hidden;
+    div.news ul{
+        padding-left:20px;
         margin-bottom:0px;
     }
-    div.capa div#newsBox a.leiamais{
-        float:right;
+    div.news ul li{
+        margin-bottom:10px;
     }
-    div.capa div#newsBox span.picture{
-        background-color:#9cc;
-        float:right;
-        margin:0px 0px 5px 5px;
-        padding:5px;
-    }
-        div.capa div#newsBox span.picture h4{
-            font-size:1em;
-            margin-bottom:0px;
-        }
-div.capa div#socialMedia{
-    float:left;
-    height:115px;
-    margin:0px 10px 10px 0px;
-    width: 250px;
-}
-    div.capa div#socialMedia img{
-        margin:10px 1px;
-    }
-div.capa div.ads_125{
-    float:left;
-    height:115px;
-    margin:0px 10px 10px 0px;
-    width: 115px;
-}
-div.capa div#caracteristicas, div.capa div#cuidados{
-    float:left;
-    height:172px;
-    margin:0px 10px 10px 0px;
-    text-align:right;
-    width:250px;
-}
-    div.capa div#caracteristicas p, div.capa div#cuidados p{
-        height:125px;
-        margin:5px 0px;
-        overflow:hidden;
-        text-align:justify;
-    }
-    div.capa div#caracteristicas a, div.capa div#cuidados a{
-        
-    }
-div.capa div#ads_160{
-    float:left;
-    height:310px;
-    margin-top: -135px;
-    width:150px;
-}
-div.capa div#guestbook{
-    clear:both;
-    float:left;
-    height:220px;    
-    width:690px;
-}
-    div.capa div#guestbook a{
-        float:right;
-    }
-    div.capa div#guestbook ul{
-        padding-left:0px;
-        margin:0px;
-    }
-        div.capa div#guestbook ul li{
-            list-style:none;
-            margin-bottom:10px;
-        }
-        div.capa div#guestbook ul li:last-child{
-            margin-bottom:0px;
-        }
-            div.capa div#guestbook ul li p{
-                height:31px;
-                line-height:1.1em;
-                margin:0px;
-                overflow:hidden;
                 
-            }
+/**
+ * footer
+ **/
+div#footer{
+    color:#fff;
+    padding:5px 0px 0px 250px;
+    text-align:center;
+    width:
+}
+    div#footer a{
+        color:#fff;
+    }
+    div#footer ul{
+        list-style:none;
+    }
+    div#footer ul li{
+        border-right:1px solid #fff;
+        display:inline-block;
+        list-style:none;
+        padding:0px 7px 0px 3px;
+    }
+    div#footer ul li.last{
+        border:0;
+    }

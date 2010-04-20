@@ -6,7 +6,8 @@ class CategoryTable extends Doctrine_Table
     {
         $q = $this->createQuery()
            ->from('Category c')
-           ->innerJoin('c.Pages p');
+           ->innerJoin('c.Pages p')
+           ->where("p.slug NOT IN ('sobre-a-absw','sobre-o-site')");
 
         return $q->execute();
     }

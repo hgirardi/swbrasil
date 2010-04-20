@@ -7,6 +7,7 @@
             if($category->name == 'Geral'){
         ?>
         <li><?php echo link_to('Capa','homepage'); ?></li>
+        <li><?php echo link_to('Notícias','news_list_blank'); ?></li>
         <?php
             }
             foreach($category->Pages as $page){
