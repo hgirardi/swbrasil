@@ -49,7 +49,7 @@ class NewsForm extends BaseNewsForm
 
             $image = $this->getObject()->getPicture();
 
-            $img = new sfImage($uploadDir . $image, mime_content_type($uploadDir . $image));
+            $img = new sfImage($uploadDir . $image, swImageTransform::mime_content_type($uploadDir . $image));
             if($img->getWidth() > $img->getHeight()){
                 $img->resize(480,null);
             } else {

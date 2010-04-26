@@ -10,7 +10,31 @@
  */
 class GuestbookForm extends BaseGuestbookForm
 {
-  public function configure()
-  {
-  }
+    public function configure()
+    {
+        unset(
+            $this['created_at'],
+            $this['updated_at'],
+            $this['approved']
+        );
+        
+        $this->widgetSchema['captcha'] = new sfAnotherWidgetFormReCaptcha();
+        
+        $this->widgetSchema->setLabels(array(
+            'name'      => 'Nome',
+            'email'     => 'E-mail', 
+            'city'      => 'Cidade', 
+            'state'     => 'Estado', 
+            'country'   => 'País', 
+            'comment'   => 'Comentário', 
+            'captcha'   => 'Digite as palavras abaixo', 
+        ));
+        
+        $this->validatorSchema->setPostValidator(
+            new sfAnotherValidatorSchemaReCaptcha($this, 'captcha')
+        );
+
+        
+        //parent::configure();
+    } 
 }

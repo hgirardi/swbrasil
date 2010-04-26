@@ -17,6 +17,7 @@ class newsActions extends sfActions
      */
     public function executeView(sfWebRequest $request)
     {
+        $this->new = Doctrine::getTable('News')->findOneBySlug($request->getParameter('slug'));
     }
     
     public function executeList(sfWebRequest $request)

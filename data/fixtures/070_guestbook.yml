@@ -1,47 +1,3091 @@
 Guestbook:
-  Message1:
-    name: Henrique Boaventura
-    email: hboaventura@gmail.com
-    city: Porto Alegre
+  Guestbook_627:
+    name: 'Rosângela Cunha'
+    email: ''
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: "  \nÉ bom ver mais uma família na luta pela divulgação de uma síndrome. Parabéns pelo site. Também tenho um filho com uma síndrome rara, Apert.Um abraço!"
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_628:
+    name: 'Carla Graziadio'
+    email: carlagr@fffcmpa.tche.br
+    city: 'Porto Alegre'
     state: RS
     country: Brasil
-    comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit.
+    comment: 'Querido Rafa, Que alegria ver as tuas fotos neste lindo site! Este trabalho que vocês estão fazendo tem um valor inestimável para todos aqueles que desejam saber mais sobre a síndrome de Williams. Além disso, ao ver como tu estás cada vez mais lindo e feliz! '
     approved: true
-  Message2:
-    name: Denilson Trespach
-    email: denit@litoralmania.com.br
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_629:
+    name: 'Gilmar Trespach'
+    email: gtres@zaz.com.br
     city: Osório
     state: RS
     country: Brasil
-    comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit.
+    comment: 'Cada dia de resistência representa uma vitória até o momento da glória total.  '
     approved: true
-  Message3:
-    name: Henrique Boaventura
-    email: hboaventura@gmail.com
-    city: Porto Alegre
-    state: RS
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_630:
+    name: 'Ana Maria/Djailson Rocha'
+    email: mineiros@.escelsa.com.br
+    city: Vitória
+    state: ES
     country: Brasil
-    comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit.
+    comment: "É muito bom que pessoas estejam lendo, escrevendo, falando sobre SW. Torná-la conhecida de todos, em especial dos profissionais das áreas médica e da educação. Parabéns e obrigado em nosso nome e em nome de nossa filha Victória (3anos) também portadora de Sindrome dew Williams.  \n"
     approved: true
-  Message4:
-    name: Denilson Trespach
-    email: denit@litoralmania.com.br
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_631:
+    name: 'Tia Raquel'
+    email: ''
     city: Osório
     state: RS
     country: Brasil
-    comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit.
-  Message5:
-    name: Henrique Boaventura
-    email: hboaventura@gmail.com
-    city: Porto Alegre
-    state: RS
-    country: Brasil
-    comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
-  Message6:
-    name: Denilson Trespach
-    email: denit@litoralmania.com.br
+    comment: 'Que bom ver este &quot;projeto&quot; se tornando realidade. Parabéns ao Denilson e a Claudia pelo lindo site e também àqueles que ajudaram a construí-lo. Sei que este é só o começo, e torço por nós,pois já me sinto &quot;colaboradora&quot; nesta caminhada. Com carinho.  '
+    approved: true
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_632:
+    name: 'Júlio Ribas'
+    email: cesarribas@bol.com.br
     city: Osório
     state: RS
     country: Brasil
-    comment: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
-  
+    comment: 'Denilson As vezes caminhar por trajetos difíceis, nos abrem novos horizontes para que possamos ver o quanto é importante nossas vidas.  '
+    approved: true
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_633:
+    name: 'Ana Maria/ Fernando'
+    email: analoss@bol.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Ana Maria/ Fernando É muito importante saber que tem pessoas divulgando a SW. Também temos dois filhos gemeos Enzo e Fernando com a SW. Parabéns pelo site e sucesso. Com carinho. '
+    approved: true
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_634:
+    name: 'Norma Trespach'
+    email: Ntrespach@gln.com.br
+    city: Osório
+    state: RS
+    country: Brasil
+    comment: 'Cada dia mais tenho a certeza de que nada nesta vida é por acaso. A dificuldade fez tu levantar uma bandeira e ir em busca de ajuda e distribuir tuas incertezas,medos e acertos com outros pais que também estão tateando no escuro.  '
+    approved: true
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_635:
+    name: 'Nivaldo Guirra'
+    email: 'af-i-conselheiro-pena@penasite.com.br &gt;'
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Parabéns pelo excelente trabalho de divulgação da SW. Tenho um filho, Victor (10 anos), também Williams, operado para corrigir uma Estenose Supra Valvar, e graças a Deus está muito bem.  '
+    approved: true
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_636:
+    name: Sandra
+    email: sandrapio@zipmail
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Parabéns pelo site. Me interesso muito e sempre é bom conhecer um pouco mais da SW. Sou psicopedagoga e acredito no progresso e crescimento das crianças que são bem acompanhadas.'
+    approved: true
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_637:
+    name: 'Lucieli Dá-Pieve'
+    email: dapieve@gpsnet.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Que Deus ilumine vocês e que o Rafa sejas muito, mas muito, feliz! '
+    approved: true
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_638:
+    name: 'Norma Trespach'
+    email: ntrespach@gln.com.br
+    city: Osório
+    state: RS
+    country: Brasil
+    comment: 'Denilson, teu pai acabou de ver teu site e gostou muito. Parabéns.  '
+    approved: true
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_639:
+    name: Michele
+    email: kperesslva@aol.com
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Foi um prazer imenso poder utilizar o site de vocês, para pesquisa da escola. Vocês fazem um belíssimo trabalho  '
+    approved: true
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_640:
+    name: Andreia
+    email: andreia.f.s@bol.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'ME EMOCIONEI MUITO AO LER SOBRE ESSA HISTÓRIA, POIS NÃO CONHECIA A SW. DESEJO TODA A FELICIDADE DO MUNDO PARA O RAFA E PARA TODOS OS PORTADORES DESSA SÍNDROME.  '
+    approved: true
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_641:
+    name: 'Gilson de Barros Bergamim'
+    email: gilsondebarros@bol.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: "\nMuito legal!!!  "
+    approved: true
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_642:
+    name: 'Rogerio Bastos de Quadros'
+    email: familiaquadros@aol.com.br
+    city: Capivari
+    state: SP
+    country: Brasil
+    comment: 'SOU DA CIDADE DE CAPIVARI-SP INTERIOR, SOU ORTOPEDISTA E CONHECI UM CASO DESTA SINDROME, E SEU IRMAO TAMBEM APRESENTA ALTERAÇOES A NIVEL OSSEO. APENAS DIGO-LHES MANTENHAM-SE NA LUTA QUE É ARDUA MAS PROFINCUA.  '
+    approved: true
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_643:
+    name: 'Roberto Cohen'
+    email: cohen@plug-in.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Parabéns pelo site. ele é muito muito bem feito e bastante ilustrativo sobre este problema. acho que uma dos grandes benefícios é compartilhar os problemas, vivências e alegrias para outros pais também. Baita abraço Cordialmente Cohen  '
+    approved: true
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_644:
+    name: Aline
+    email: alinemfigueira@bol.com.br
+    city: 'Juiz de Fora'
+    state: MG
+    country: Brasil
+    comment: 'Sou estudante de fonoaudiologia em Juiz de Fora - MG e estava procurando uma patologia para apresentação de um trabalho de genética .... achei vcs ! valeu pelo site . Achei mto interessante a síndrome .  '
+    approved: true
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_645:
+    name: Denise
+    email: deni.ch@bol.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: "É maravilhoso saber que não estamos sozinhos. Sou mãe de Roberta,22anos,e ela é uma vencedora,pois depois que descobrimos que ela era SW,tocamos a vida para frente contra todos os obstáculos que nossa família enfrentou,por parte da sociedade.  \n"
+    approved: true
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_646:
+    name: 'Ednei Gonçalves Pereira'
+    email: edneigp@ig.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Oi, até que enfim encontrei um site em português sobre SW. Meu filho, &quot;minha vida&quot; Mateus, de 10 anos é portador da mesma, pretendo escrever sua história e enviá-la a vocês. Parabéns pela iniciativa. Foi mais uma benção de Deus em Minha vida.  '
+    approved: true
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_647:
+    name: Gilsenira
+    email: cmoresco@ufpel.tche.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Denilson e Cláudia, Deus dá filhos especiais a pais também especiais! Que Ele os abençõe sempre, como nos tem abençoada com a Luíza (Down). '
+    approved: true
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_648:
+    name: Sara
+    email: lizydana@hotmail.com
+    city: Argentina
+    state: AC
+    country: ''
+    comment: " \nSoy mama de una beba con SW y me gustaria saber sus experiencias y los logros que Rafael y ustedes consiguieron.Un beso a ustedes.  "
+    approved: true
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_649:
+    name: 'Michael Lennertz bastos'
+    email: morningstar@jedi.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Finalmente encontrei Meu cunhado tem 15 anos, chama-se Gustavo, e é portador da SW. fiquei muito feliz em encontrar um site com informações em portugues. espero que cada vez mais as pessoas se juntem essa corrente, para promover o bem estar dessas pessoas.  '
+    approved: true
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_650:
+    name: 'Alice Regina'
+    email: iansp@ig.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Fiquei muito emocionada em visitar esse site e ver que o Rafael é uma criança feliz por que ele possui o maior tesouro de todos &quot;O AMOR&quot;.  '
+    approved: true
+    created_at: '2005-08-26 00:00:00'
+    updated_at: '2005-08-26 00:00:00'
+  Guestbook_651:
+    name: 'Rudimar Riesgo'
+    email: rcriesgo@zaz.com.br
+    city: 'Porto Alegre'
+    state: RS
+    country: Brasil
+    comment: 'Parabéns. O site está muito bonito e instrutivo. Desculpem, mas ainda não consegui enviar texto. Logo enviarei. Um abraço. Rudimar Riesgo'
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_652:
+    name: 'Elvira Inez de Andrade Kimura'
+    email: kimuras@ig.com.br
+    city: 'Santo André'
+    state: SP
+    country: Brasil
+    comment: "\nOh!!! Meu DEUS, que bom que voces existem..., Sou mãe do Rodrigo, &quot;MEU MUNDO&quot;, 14 anos, portador da SW desde o nascimento, porém com diagnóstico há apenas 4 meses. Obrigada pelo Site, encontrei exatamente o que procurava para ajudar a orientar o pessoal do Colégio dele.É muito bom saber que não estamos tão sós, agora creio que teremos amigos para contar.....aqueles que nunca encontramos na SOCIEDADE E ACREDITEM...NA FAMÍLIA, mas tudo bem, o importante é que o Rodrigo existe e é maior que tudo isto..., O Rodrigo é uma benção divina, uma lição de vida.  "
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_653:
+    name: 'Priscilla Pereira Scaroni'
+    email: jscaroni@sti.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Parabenizo pela força dedicada ao filho lindo que vocês tem. O amor, dedicação e empenho destinado à ele é com muita certeza retribuído a cada dia. Sou estudante de Fonoaudiologia e com orgulho vou atendender um menino com SW, o atendimento está por começar no estágio que a facudade nos oferece. Gostaria de manter contato, se possível. Um grande abraço. Priscilla S.P.  '
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_654:
+    name: 'Letícia Ferreira'
+    email: zilmo@terra.com.br
+    city: Ijuí
+    state: RS
+    country: Brasil
+    comment: 'Sou professora e trabalho com educação infantil na minha cidade. Neste ano recebemos um aluno com SW , como estamos pesquisando a respeito e ainda não havíamos encontrado nada muito claro, fiquei muito feliz por encontrar as informações contidas no site, assim poderei ajudar minha colega que está acompanhando mais diretamente a criança; e ela conseguirá auxiliá-la melhor durante o processo de aprendizagem e desenvolvimento.Valeu!!!'
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_655:
+    name: 'Luiz Pinto'
+    email: luiz.pinto@clix.pt
+    city: 'Porto Alegre'
+    state: RS
+    country: Brasil
+    comment: 'Sou familiar de uma criança com sw,desejava saber mais experiências sobre com outras famílais '
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_656:
+    name: Dagmar
+    email: xereta17.ok@zipmail.com.br
+    city: 'Juiz de Fora'
+    state: MG
+    country: Brasil
+    comment: 'OBRIGADA por esta página!!! Estou no primeiro período de fonoaudiologia e precisava de achar um jeito de fazer meu trabalho sobre a síndrome. Quando menos esperei, acho essa história m-a-r-a-v-i-l-h-o-s-a e esse menino lindo: o Rafael. Isso me ajudou de várias formas: meu trabalho ficou ótimo e eu entendi o que é essa SW. Eu e meu grupo estamos AGRADECIDAS!.  '
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_657:
+    name: Juelina
+    email: jjonunes@ig.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: " \nAdorei visitar o site e espero estarmos trocando sempre informações.Em breve estarei lhe enviando mais novidades ... Abraço Jô presidente da ABSW  "
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_658:
+    name: 'Miriam Rute Ribeiro'
+    email: creuzotoni@uol.com.br
+    city: Paulinia
+    state: SP
+    country: Brasil
+    comment: 'Sou professora de 1ª série e recebi um aluno SW. No site encontrei as informações necessárias para entendê - lo melhor. O trabalho é difícil, mas estou tentando de todas as formas, ajudá - lo. Estou aprendendo muito com ele. Um abraço a todos que têm o privilégio de conviver com alguém portador da SW. '
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_659:
+    name: 'Silvana Souza de Nascimento'
+    email: silvana.sn@bol.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Tenho um filho que se chama Alan que tem 4 anos e tem síndrome de williams faz acompanhamento com os médicos dra Sofia Miura geneticista e dr Zein mohamed urologista . Faço parte da ABSW como tesoureira e gostaria de manter contatos com pais e interessados . obrigada Silvana . Valeu pela iniciativa  '
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_660:
+    name: Elvira
+    email: kimuras@ig.com.br
+    city: 'Santo André'
+    state: SP
+    country: Brasil
+    comment: " \n \nOlá Denilson, gostaria de agradecer pelo espaço, através de voce soube do Encontro Nacional, participei e tenho a grande alegria de dizer-lhe que faço parte Associação Bras.SW como Fiscal, obrigada. "
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_661:
+    name: 'Márcia M. N.'
+    email: marcianascer@bol.com.br
+    city: 'Rio de Janeiro'
+    state: RJ
+    country: Brasil
+    comment: " \nFaz tempo procuro informações sobre outras crianças com sw, e estou muito feliz em encontrar este site.Tenho um filho que completará 12 anos em julho (Pedro)e, é um presente maravilhoso que Deus me deu. Espero poder trocar experiências com todos. Também sou especialista em educação especial, espero poder contribuir com todos. Um abraço, e até breve.  "
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_662:
+    name: 'ANA PAULA DE OLIVEIRA'
+    email: anapaula2410@hotmail.com
+    city: barcelona
+    state: OE
+    country: Brasil
+    comment: "\nsou mae de uma menina com sindrome de williams ela tem 5 anos e chamase raquel gostava de ter contacto con outros papas para intercambiar informaçao.peso disculpas por escrever mal o portugues,un abraço. "
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_663:
+    name: 'LUCI MARINA RIBEIRO OLINTO'
+    email: ocarlosolinto@aol.com
+    city: CAMPINAS
+    state: SP
+    country: Brasil
+    comment: 'Sou aluna de Educacao Especial da PUC e tenho que apresentar um trabalho sobre a SW e neste site encontrei muitas informacoes.Parabens pelo site e Obrigada.  '
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_664:
+    name: 'Gonzalo e Ana Cristina'
+    email: ctq@uol.com.br
+    city: 'São Paulo'
+    state: SP
+    country: ''
+    comment: " \nA página está muito boa. Temos certeza que, a exemplo de outras associações similares no Brasil e em outros países, esta também terá um enorme sucesso, e será de grande valia para todos os brasileiros portadores da SW.  "
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_665:
+    name: 'Alcione de Oliveira'
+    email: alcimusic@zipmail.com.br
+    city: Curitiba
+    state: PR
+    country: Brasil
+    comment: " \n \nFique extremamente feliz , pois após conviver durante 5 anos com um portador SW, como aluno na APAE, ´so agora tive acesso a informações tão importantes. Sou estudante de Musicoterapia e muito me interesso pelo SW, , principalmente pela sua musicalidade. Gostaria de ser informada sobre uma maneira de inserir a história desse meu aluno ao Site. Parabéns!  "
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_666:
+    name: 'Marcelo L. L.'
+    email: sem@mail.com
+    city: 'Porto Alegre'
+    state: RS
+    country: Brasil
+    comment: " \n \nMuito bom o site... eu estava a procura de SW para fazer um trabalho para a faculdade de psicologia e o site forneceu informações importantes para o desenvolvimento do mesmo. É muito bom saber que existam tantas maneiras para o bom desenvolvimento do portador de SW. "
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_667:
+    name: 'Iracema Francisca da Silva'
+    email: cema_fran@uol.com.br
+    city: Brasília
+    state: DF
+    country: Brasil
+    comment: 'enho um sobrinho que tem a símdrome,ele chama-se Nicolas, tem 7 anos e mora com seus pais em bebedouro SP, faz tratamento no hospital universitário de Ribeirão Preto,em São Paulo. Seus pais não tem como fazer contato através da Internent, por isso eu estou fazendo. Brevemente colocarei um album dele na internent com seus dados. Atualmente ele estuda na APE de Bededouro. Gostariamos como conduzir o tratamento neste momento que ele tem 7 anos? Atenciosamente, Iracema (Tia) (61) 233-2932 (Brasília)  '
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_668:
+    name: 'Miriam Rute Ribeiro'
+    email: creuzotoni@uol.com.br
+    city: Paulinia
+    state: SP
+    country: Brasil
+    comment: " \nÉ com enorme alegria que volto a escrever. Hoje, em julho, meu aluno já está no nível silábico. O trabalho com ele é especial, com jogos, no computador,( pois ele não tem coordenação motora, para escrever), atendimento individualizado e tudo mais que descobrimos que posso ajudálo. Nesse trabalho, a Jussara, profissional da educação especial, nos ajuda muito. Em resumo, estou super feliz pelos avanços que ELE conseguiu em apenas um semestre. Abraços a todos Miriam Rute  "
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_669:
+    name: 'Leila Maria Schiavetto'
+    email: 'leila.sbo@ibest.com.br ou leila@ppa.com.br&gt;'
+    city: 'Sta.Bárbara d´Oeste'
+    state: SP
+    country: Brasil
+    comment: " \nExcelente esse site. Agora posso trocar informações. Tenho minha filha, agora com 9 anos, e desde 20 dias a Unicamp já começou a investigar e diagnosticou a SW com 8 meses. Desde os 2 anos ela faz APAE e isso ajudou muito. Preciso trocar informações sobre puberdade precoce, pois é o que ocorreu com ela. E tbém sobre o comprometimento da fala, pois são falantes e minha filha não lida bem com palavras apesar de fazer fono desde 2 anos. Parabéns pelo site.  "
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_670:
+    name: 'Marcia Tolosa'
+    email: mtolosa@corfo.cl
+    city: Santiago
+    state: OE
+    country: Chile
+    comment: 'Mi hija Manuela, de 11 años ha sido diagnosticada hace unos meses con el SW. En Chile no es muy conocido. Me gustaría poder contactar otros padres y saber de las nuevas actividades y posibilidades que hay para hacer más felices a nuestros niños  '
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_671:
+    name: 'Aline Rossoni'
+    email: aline_saoleo@hotmail.com
+    city: Osório
+    state: RS
+    country: ''
+    comment: "\n \nGostaria de parabenlizar, em especial, aos pais de Rafael, pelo apoio e incentivo às descobertas, aprendizagem e vivências que compartilham com as demais famílias e profissionais que estão interligados com a Síndrome de Williams. A força e a coragem de vocês é digna de imensa admiração, não apenas pela dedicação com o filho, mas principalmente pela aceitação, respeito e vontade de compartilhar...Parabéns! Aline Rossoni  \n"
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_672:
+    name: 'Lenita Arruda Boechat'
+    email: boechat@mdbrasil.com.br
+    city: Bebedouro
+    state: SP
+    country: Brasil
+    comment: " \nSomos pais da Isabel, 19 anos,e tivemos o diagnostico da Sindrome de Williams, no depto de genetica da USP em Ribeirão Preto quando ela estava com 8 meses. Ela é a caçula de 4 irmãos com idades muito proximas e acreditamos que conhecimento precoce estimulo e ajuda de profissionais foram fundamentais para as conquistas que ela fez. Ficamos emocionados com a atitude dos pais do Rafael (Denilson e Claudia)- exemplo para todos nós de busca e partilha - e esperamos que essa associação cresça, se fortaleça, promova encontros. Estaremos lá com toda a nossa familia. Placido e Lenita "
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_673:
+    name: 'Silvia Fernandes Pinto'
+    email: silfer@curitiba.org.br
+    city: Curitiba
+    state: PR
+    country: Brasil
+    comment: " \nSou estudante de Musicoterapia e a pouco tempo tomei conhecimento sobre a SW, e o que despertou em mim muito interesse foi a característica de aptidão musical que o portador da SW apresenta. Gostaria de aprofundar meus conhecimentos nesse aspecto, recebendo mais informações. Gostei muito deste site, é muito interessante e contém informações sobre a síndrome que não tinha visto até então.  \n"
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_674:
+    name: 'Clarice Santos'
+    email: ciranosm@bol.com.br
+    city: 'Taboão da Serra'
+    state: SP
+    country: Brasil
+    comment: " \n \nAchei muito legal a pagina e é através desta que podemos estabelecer contatos com outras pessoas,sou mãe da Carolaine com 9 anos com SW,e sei como é importante dividir o mesmo problema com outras familias,gostaria de ter contato com outras mães que estão no mesmo barco Abraço Clarice  "
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_675:
+    name: 'Lina Sousa'
+    email: sousalina@megamail.pt
+    city: 'Ilha de S.Miguel'
+    state: OE
+    country: Portugal
+    comment: " \nOlá eu chamo-me Lina Sousa e sou técnica de comunicação social no Portal do Cidadão com Deficiência www.pcd.pt e estava a fazer uma pesquisa sobre este sindroma e fiquei muito contente por ver a vossa página, pois está completa. Parabéns.Visitem o Portal do Cidadão com Deficiência www.pcd.pt  "
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_676:
+    name: 'Eder Clauber'
+    email: eder@mtv.com.br
+    city: Caieiras
+    state: SP
+    country: Brasil
+    comment: " \nGostei muito do site... pesquisei esse site por causa da Sabrina...ela é linda e portadora da SW. Ela tem 4 anos e faz tratamento na Unicamp. Obrigado pelas informações "
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_677:
+    name: 'Iara de Jesus'
+    email: iaradejesus@hotmail.com
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Gostaria de parabenizar a todos os pais que participam da associação, estive na Chacara na festa no dia das crianças,convidada pela Jô, e pude ver como as crianças com SW são espertas alegres e bem cuidadas, foi muito divertido aquele dia. Admiro muito a tarabalho de voces, desejo que Deus continue abençõando a todos voces  '
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_678:
+    name: 'Norma Olivera'
+    email: ''
+    city: 'salta argentina'
+    state: OE
+    country: Argentina
+    comment: 'muy interesante, tengo una nena de tres año con el ws, la verdad no se mucho al respecto, me gustaria contactarme con madres que tienen el mismo problema para intercambiar experiencias. chau gracias  '
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_679:
+    name: 'Alicia Urien'
+    email: aliciaurien@bigfoot.com
+    city: 'San Isidro'
+    state: OE
+    country: Argentina
+    comment: 'Pertenezco a la Asociación Argentina de SW y me alegré mucho cuando me enteré de esta otra. Me gustaría compartir experiencias desde lo personal como madre y desde lo institucional. Muchos saludos y sigan adelante.  '
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_680:
+    name: 'Marilene Rocha'
+    email: mari.kraj@uol.com.br
+    city: Curitiba
+    state: PR
+    country: Brasil
+    comment: 'Vamos procurar uma forma de estarmos mais bem informados, com a ajuda de vcs. Marilene  '
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_681:
+    name: 'Solange Avila'
+    email: sol.avila@bol.com.br
+    city: Mairipora
+    state: SP
+    country: Brasil
+    comment: 'Sou mae do Paulinho(14 anos)com SW,foi diagnosticado aos 7 anos pela a dra Sofia Miura,nos corredores do hospital conheci outras maes e a partir disto foi nascendo um ideal,hoje uma realidade(ABSW) que compartilhamos com todos. E importante ter este espaço para trocar experiencias e dificuldades Parabens pelo o site,esta otimo  '
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_682:
+    name: 'Lucia Mello'
+    email: luheme@ig.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: ' O que dizer para um grupo tão unido e amoroso como este, só desejo que cada um tenha muita luz, amor e fé'
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_683:
+    name: 'Édna F. Vieira'
+    email: ednapedagogapop.com.br
+    city: 'Porto Alegre'
+    state: RS
+    country: Brasil
+    comment: " \nPor gentileza enviar maiores informações sobre a síndrome,pois sou Psicopedagoga e necessito maiores informações sobre o assunto.obrigado  "
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_684:
+    name: 'NIVALDO DE OLIVEIRA GUIRRA'
+    email: af-i-conselheiro-pena@penasite.com.br
+    city: 'CONSELHEIRO PENA'
+    state: MG
+    country: Brasil
+    comment: " \nCONHEÇO O SITE DESDE A SUAS PRIMEIRAS PÁGINAS E SÓ TENHO A PARABENIZAR PELHO EMPENHO E O TRABALHO REALIZADO INCANSAVELMENTE POR VOCÊ DENILSON. GRAÇAS A VOCÊ MUITOS TEM CONSEGUIDO RESPOSTAS PARA QUESTÕES IMPOSSÍVEIS E OBTIDO INFORMAÇÕES PRECIOSAS. TENHO UM FILHO (VICTOR) COM 11 ANOS, PORTADOR DA SW E MUITAS MATÉRIAS OBTIDAS AQUI FORAM PRECIOSAS PARA A MELHORIA DA SUA QUALIDADE DE VIDA. QUE DEUS CONTINUE A TE ABENÇOAR. ABRAÇO, "
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_685:
+    name: 'Jessica Nunes Herculano'
+    email: pe.jessica@bol.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Tenho 12anos enaci com sw adoro receber emaio das pessouas espero que todo mundo me mande mensagen gosto de ver a minhas fotos aqui beijo jessica  '
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_686:
+    name: 'Eliete Pereira dos Santos'
+    email: elips.santos@bol.com.br
+    city: S.Paulo
+    state: SP
+    country: Brasil
+    comment: 'Tive o oportunidade de ver nascer e estou vendo crescer a ABSW. Hoje que vcs comemoram o primeiro aniversario. Quero Homenagear a todos que colaboram diretamente e indiretamente com ABSW. Vcs fazen um trabalho maravilhoso,que Deus continuem dando coragem,forca,audacia para enfrentar estas barreiras que enfrentamos nonosso dia a dia.  '
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_687:
+    name: 'BENÊ SILVA'
+    email: ongprojetobemviver@ig.com.br
+    city: 'SÃO PAULO'
+    state: SP
+    country: Brasil
+    comment: "\nÉ PRECISO QUE MAIS PESSOAS SE PREOCUPEM COM OS DIVERSOS MALES QUE AFLIGEM A HUMANIDADE, SÃO VÁRIAS AS &quot;SINDROMES&quot; EXITENTES E OS INVESTIMENTOS EM PESQUISAS E PREVENÇÃO SÃO INSUFICIENTES. MAS UM DIA ESTAS MAZELAS PODERÃO SER MINIMIZADAS. BENÊ SILVA  "
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_688:
+    name: Eduardo
+    email: ek13@bol.com.br
+    city: 'Porto Alegre'
+    state: RS
+    country: Brasil
+    comment: 'Alguém sabe de algum tipo de ajuda financeira, do governo ou não, para crianças com sindrome? Não temos condições de dar um tratamento adequado ao nosso filho, e qualquer ajuda seria bem vinda. Obrigado. Parabéns pelo site, é muito bom saber que existem mais pessoas lutando por seus filhos.'
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_689:
+    name: 'Luciana Paz'
+    email: franpaz@uol.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Fico muito feliz a cada vez que visito este site. Tem sido uma luta muito grande conquistar tudo que conseguimos até agora, e sabemos que temos muito ainda pela frente. Agradecemos a participação de todos e contamos com vocês. Sou màe de Camila (08 anos) e Gabriela (SW - 5 anos), vivemos em SP e estamos à disposição para torcar experiências.  '
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_690:
+    name: 'Diogo Oliveira Pereira'
+    email: chundato@bol.com.br
+    city: 'Governador Valadares'
+    state: MG
+    country: Brasil
+    comment: 'Eu sou acadêmico de odontologia da Faculdade de Ciências da Saúde da Universidade Vale do Rio Doce, e queria parabenizar os criadores e orgonaizadores do site pelos amplos conteúdos existentes no site.  '
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_691:
+    name: 'Edivane de Oliveira'
+    email: EdivaneOliveira@.hotmail.com.br
+    city: Caiçara
+    state: RS
+    country: Brasil
+    comment: " \nfiquei muito contente em visitar esse site, pois ele á muito interresante e me ajudou muito na minha pesquisa. Valeu!  "
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_692:
+    name: 'Renato Almeida Ribeiro'
+    email: rar@via-rs.net
+    city: Pelotas
+    state: RS
+    country: Brasil
+    comment: 'Parabéns pelo ótimo trabalho. Apenas não consegui fazer downloads do arquivo &quot;Diretrizes para professores - (176Kb - arquivo do word com 28 páginas)- Escrito pelo Dr Orlee Udwin e Professor William Yule&quot;. Agradeço ajuda.'
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_693:
+    name: 'Luz Mougan Mediavilla'
+    email: mouganvilla@yahoo.es
+    city: Espanha
+    state: OE
+    country: ESpanha
+    comment: " \nEse livro está a ter gran acollida no meu pais e foi asim que sabemos do SW.Yo soy profesora de niños pequeñitos y me sentí interesada por saber de ésto.  \n\n"
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_694:
+    name: 'Elizabeth Teixeira Castro'
+    email: ruibeth225@hotmail.com
+    city: 'Santa Maria'
+    state: RS
+    country: Brasil
+    comment: 'Sou a mae da Edinara, que tem 17 anos e ate pouco NUNCA tinha ouvido falar em tal síndrme, mas SEMPRE esteve se trataando pois nao sabiamos exatamente o que ele tinha. O diagnotico da psiquiatra e neurologista diz que ela é debil mental. Por eles ela não teria ido ao colegio. Mas está na sétima série. Também tenho qu lutar com os professores pois dizem que ela: não vai mais adiante... MAS EU JAMAIS DESISTI, e agora ela está fazendo uma nova avaliação, foi quando ouvi por primeira vez sobre sw. Agora ao ler aqui sinto que não estou sozinha. AMEI, AMEI e estou agradecendo a Deus por haver encontrado este artigo. Muito obrigado!!! Por favor entrem em contato comigo!!! meu e-mail é: ruibeth225@bol.com.br  '
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_695:
+    name: 'flavia pinto cardoso'
+    email: flapcardoso@bol.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: " \n \nSou fonoaudióloga e atendo uma criança que foi a poucos meses diagnosticada como portadora de SW. Até então não conhecia esta síndrome e suas características, gostaria de manter contato pois tenho certeza de que o trabalho de vocês enriquecerá muito o meu também. Parabéns pelo lindo trabalho!!!  "
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_696:
+    name: 'Manoela da Rocha'
+    email: ''
+    city: 'Porto Alegre'
+    state: RS
+    country: Brasil
+    comment: "Tenho 18 anos,sou professora da Educação Infantil em uma escola particular.Neste ano recebi uma aluna portadora da SW.Foi ótimo para mim ler os textos deste site,pois ainda não conhecia a SW.Parabéns e obrigado!!!  \n"
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_697:
+    name: 'Eduardo Vieira Guimarães'
+    email: claudete@abyarazm.com.br
+    city: Ubiratã
+    state: PR
+    country: Brasil
+    comment: 'Somos pais de 02 crianças (Thamíris c/ 04 e Eduardo c/ 09 anos), sendo que o Eduardo é portador de SW. Diagnosticado qdo tinha 02 anos a partir daí temos feito tudo que podemos para ajudar nosso filho a ter melhor desenvolvimento possível mas acima de tudo ser uma criança feliz. Hoje ele estuda pela 2ª vez a 1ª série do ensino regular com assistência da APAE, ele ja interpreta e tem bastante facilidade nas aulas de música e informática. A poucos dias entramos também para ABSW e estamos ansiosos em ter contatos com outros pais para trocarmos experiências. Amauri e Miriam - Ubiratã-Pr. claudete@abyarazm.com.br (44) 543-3368  '
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_698:
+    name: 'Sergio Ramos da Cunha'
+    email: Agnicunha@ig.com.br
+    city: 'Duque de Caxias'
+    state: RJ
+    country: Brasil
+    comment: 'Foi descoberto esta semana que meu afilhado esta com SW, estamois meio perdidos pois não sabemos nada desta doença, qualquer informação favor nos comunicar. Para os portadores uma boa sorte , e também estaremos rezando por voçês, que Deus os abençoem!!!!!!  '
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_699:
+    name: 'LUCIA HELENA CORDEIRO'
+    email: CORDEIRO@KINGNET.COM.BR
+    city: SANTOS
+    state: SP
+    country: Brasil
+    comment: " \nTENHO UM FILHO, BRUNO DE 13 ANOS, PORTADOR DA SW, ELE É MARAVILHOSO,SOCIAVEL,UMA CRIANÇA AGRADAVEL E FELIZ, GRAÇAS A DEUS. \n"
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_700:
+    name: 'Alana Hoffmann'
+    email: alanah@ac.unisul.br
+    city: 'Balneário Camboriu'
+    state: SC
+    country: Brasil
+    comment: " \nQuero parabenizá-los pelo excelente site sobre a SW. Estou fazendo meu trabalho de conclusão de curso, e está me ajudando muito!!  "
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_701:
+    name: 'Ricardo S. Soares Ferreira'
+    email: ricardossf@ig.com.br
+    city: 'Belo Horizonte'
+    state: MG
+    country: Brasil
+    comment: "Sou professor de alunos portadores de deficiência, gosto de ampliar meus conhecimentos visitando sites importantes como esse. Parabéns!  \n"
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_702:
+    name: 'Elizabeth Prata Borges'
+    email: epb.beth@terra.com.br
+    city: Vitória
+    state: ES
+    country: Brasil
+    comment: "Há 3 anos a prima de meu marido deu a luz a ima criança com SW. Só foi dado este diagnóstico 2 anos depois, e após todo este processo de sofrimento que a criança com a SW passa. É através deste site que espero passar informações para esta nossa prima. Não deixem de pesquisar e ampliar os conhecimentos nesta área, tão pouco explorada. Meus agradecimentos pelo conteudo do site.\n"
+    approved: true
+    created_at: '2005-08-27 00:00:00'
+    updated_at: '2005-08-27 00:00:00'
+  Guestbook_703:
+    name: 'Janaina Farias de Souza e Fernando Cesar Lima de S'
+    email: souzajan@yahoo.com.br
+    city: 'SANTA MARIA'
+    state: DF
+    country: Brasil
+    comment: 'Tenho uma filha portadora de sw ,Ana Clara, seu nome, hoje com 3 anos.Quando descobri a sindrome, até então totalmente desconhecida por mim e pelos meus familiares, interessei-me pelo assunto por todas as informações que pudessem de alguma forma auxiliar-me na condução do aprendizado de Clara.Por intermedio de amigos, em especial a Dra. Regina,tomei conhecimento deste site.Fiquei surpresa com a quantidade de informações, notícias, históricos e trocas de experiências e no clima de integração entre famílias, que o site contém.PARABÉNS!!!!!!!  '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_704:
+    name: 'Lucia Helena e Luiz Felipe'
+    email: lucia_mello@ig.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Torcemos todos os dias por vcs e estamos sempre dispostos a colaborar. Admiramos todos e rezamos a Deus q os abençõem, bjs'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_705:
+    name: 'Ana Maria Pereira'
+    email: anagerais@yahoo.com.br
+    city: Abaeté
+    state: MG
+    country: Brasil
+    comment: 'Tenho um sobrinho com 9 anos e agora que descobrimos que ele tem SW. Gostaria de mais informações. Agradeço desde já.'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_706:
+    name: Sofia
+    email: ruvino@multi.com.uy
+    city: Canelnes
+    state: OE
+    country: Uruguay
+    comment: "Tenemos una hija portadora del Sindrome de Williams tiene 8 años y su coficiente intelectual es de 6años Su falla mayor es la motrisidad fina que mas posemos hacer para segirla alludandola . Gacias por esta oportunidad esperamos rspuestas.\n\nCanelnes, ca Uruguay"
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_707:
+    name: 'Neuza Maria Rodrigues Vicente'
+    email: neuza.vicente@bol.com.br
+    city: Cubatão
+    state: SP
+    country: Brasil
+    comment: 'O site está ótimo, completo, tudo que eu precisava e ainda não havia encontrado sobre a síndrome do meu filho.'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_708:
+    name: 'José Roberto Lopes'
+    email: guedes-lopes@uol.com.br
+    city: 'Santana de Parnaíba'
+    state: SP
+    country: Brasil
+    comment: 'Achei muito bom ter essa informação e estou à disposição para qualquer troca de informações pois sou psicólogo e trabalho com portadores de deficiência.'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_709:
+    name: 'Marta Morais Saconato Tadeu'
+    email: papi3@ig.com.br
+    city: 'São Carlos'
+    state: SP
+    country: Brasil
+    comment: 'Meu filho já esta com 10 anos(2003), e somente em 2002 e que encontramos a resposta do que ele tinha, e confirmamos todas as suspeitas com o site, agradeco por todas as informações que pudemos obter. '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_710:
+    name: 'Renata Berga'
+    email: renataberga@bol.com.br
+    city: 'Santa Terezinha de Itaipu'
+    state: PR
+    country: ''
+    comment: 'Meu filho, Rafael, tem 12 anos(2003). Quando nasceu o cardiologista disse que ele tinha sw. Naquela época não fomos atrás. O ano passado descobrimos o site por acaso. Foi muito bom,pois nos ajudou e continua ajudando. '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_711:
+    name: 'Veronica Pereira'
+    email: veronicspereira@hotmail.com.br
+    city: Recife
+    state: PE
+    country: Brasil
+    comment: 'Trabalho com criança portadora, na área de psicopedagogia. Gostaria de ser informada sobre atualidades na área. Agradeço a atenção.'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_712:
+    name: 'Sandra Maria do Amaral Chaves'
+    email: sandrabopp@vm.uff.br;sandrabopp2003@msn.com
+    city: 'Rio de Janeiro'
+    state: RJ
+    country: Brasil
+    comment: 'Excelente iniciativa de todos vocês. Também nos colocamos à disposição para colaboração junto à todos através do NPq-Sinpras/UFF - NÚCLEO DE PESQUISAS EM SÍNDROMES PEDIÁTRICAS RARAS '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_713:
+    name: Rita
+    email: hil.rj@ig.com.br
+    city: 'Rio de Janeiro'
+    state: RJ
+    country: Brasil
+    comment: 'Gostaria de informações sobre a cirurgia de correção da estenose aórticaem adolescentes e sobre o uso de ritalina para disturbio da atenção.'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_714:
+    name: 'Angela Cristina Yurkevitch'
+    email: angelayurk@hotmail.com
+    city: Curitiba
+    state: PR
+    country: Brasil
+    comment: 'Sou professora e tenho um aluno com a SW e gostaria de trocar idéias com professores e especialistas que atendem crianças com o caso e pais que pudessem dar mais informações sobre o caso.'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_715:
+    name: Raquel
+    email: recmt@hotmail.com
+    city: Florianópolis
+    state: SC
+    country: Brasil
+    comment: 'Gostaria de me comunicar com os pais que tem filhos portadores SW. Tenho um baby de 2anos e 6meses (nov/2003). '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_716:
+    name: 'Ana Maria Pereira'
+    email: anagerais@yahoo.com.br
+    city: Abaeté
+    state: MG
+    country: Brasil
+    comment: 'Só tenho a agradecer a todos da ABSW, pelas informações recebidas e, especialmente a Jô, que me ajudou bastante. Obrigado a todos vocês e, espero poder continuar contando com o apoio de vocês. Abraços. '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_717:
+    name: 'Mauricio de Souza'
+    email: mauriciozouza@ig.com.br
+    city: 'São João de Meriti'
+    state: RJ
+    country: Brasil
+    comment: 'Parabenizo a todos pelo empenho e trabalho realizado, em Especial a Jô, que com lutas e garra, fundou a Associação. PARABENS !'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_718:
+    name: 'GILBERTO STOLIAR'
+    email: gstoliar@globo.com
+    city: 'Rio de Janeiro'
+    state: RJ
+    country: Brasil
+    comment: 'Tenho uma filha com SW, Roberta, hoje com 23 anos (pelo visto, uma veterana, em comparação com a galerinha aqui do site...). A sensação que tenho é de ser um privilegiado, por ter tido a oportunidade de conviver de perto com um ser tão doce. Quanto ao site, lamento não tê-lo conhecido antes. Voltarei outras vezes, com certeza. Abraços fraternos a todos. '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_719:
+    name: 'Joceline e Fábio'
+    email: celine.silva@ig.com.br
+    city: Aracaju
+    state: SE
+    country: Brasil
+    comment: 'Somos pais de Filipe, um garoto de 10 anos(2003) e gostaríamos de agradecer a Deus pela existência deste site e pela imensa alegria que vocês nos proporcionaram. Agradecemos também pela orientação e pela força que vocês dão a todos os pais e amigos dos portadores de SW. Deus os abençõe. '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_720:
+    name: 'Joceline Nascimento'
+    email: jocelinenascimento@bol.com.br
+    city: Aracaju
+    state: SE
+    country: Brasil
+    comment: 'Cada vez que entro neste site fico muito feliz e emocionada com as mensagens. Gostaria de me corresponder com as mães destas crianças lindas, como o meu filho Filipe de 11 anos (2003). Que Deus abençoe a todos. '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_721:
+    name: 'Karina Cláudia Sobue Franzo'
+    email: kcsfranzo@hotmail.com
+    city: Uberlândia
+    state: MG
+    country: Brasil
+    comment: "Estou muito surpresa de ter encontrado esta preciosidade. Sou fonoaudióloga e trabalho no Centro Estadual de Educação Especial de Uberlândia (C.E.E.E.U.)e no Centro Evangélico de Reabilitação e trabalho orientado (C.E.R.T.O.). \n\nRecebemos pacientes que vieram diagnosticados com esta síndrome e este site vêm para esclarecer e orientar. Parabenizo e estimulo a continuarem este trabalho. "
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_722:
+    name: 'Marcela Vasconcelos Zappe'
+    email: marcela.zappe@practice.com.br
+    city: Niterói
+    state: RJ
+    country: Brasil
+    comment: 'Tenho uma filha SW com 16 anos e sempre me interesso por saber mais sobre o assunto. Estou muito feliz por ter tido essa indicação. Vocês estão de Parabéns!  '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_723:
+    name: Anonima
+    email: 'não deixou email'
+    city: Belém
+    state: PA
+    country: Brasil
+    comment: 'Fico imensamente feliz por encrontrar este website. Meu irmão, atualmente, com dez anos de idade(Fev/2004) nasceu com esta síndrome e, até pouco tempo, não sabiamos exatamente qual o problema do Victor, mesmo após iúmeras consultas, até que, numa consulta a um médico especialista em crescimento, recebemos a notícia de que meu irmão havia nascido com a SWB. Parabéns pelo trabalho e muito obrigado. '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_724:
+    name: 'Danielle Gonçalves Littiere'
+    email: danilittiere@yahoo.com.br
+    city: Niterói
+    state: RJ
+    country: Brasil
+    comment: 'Sou professora de uma menininha portadora da sw há 9 anos e sempre procurei, sem sucesso, mais informações a respeito. Agora estou muito contente por ter encontrado!'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_725:
+    name: 'Marina Tereza'
+    email: marina.tereza@ig.com.br
+    city: Vitória
+    state: ES
+    country: Brasil
+    comment: 'Sou professora da educação infantil a 23 anos em uma escola particular. Já trabalhei com DM, DV, DA. Neste ano recebi uma criança portadora da SW. Foi excelente ler os textos deste site, pois até então não conhecia a SW e suas características. Gostaria de manter contato. Este trabalho feito por vocês é muito importante para nós educadores e para todos que desejam saber mais sobre a SW. Minha aluna é uma gracinha'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_726:
+    name: 'Fabiana Cristina Magri'
+    email: biana.ga@bol.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Gostaria de saber se vcs conhecem alguma escola que alfabetiza o metodo Montessori na zona sul de sao paulo, pois minha afilhada tem disturbio de aprendizagem ou atenção, nem a psico e a fono conseguiram avaliar de acordo, e eu como pedagoga e madrinha me preocupo com a mediação que estão fazendo com ela numa escola particular num metodo totalmente tradicional, se puderem me indicar alguma escola agradeço de coração. muito grata.'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_727:
+    name: 'Marcela Rachel B. Carvalh'
+    email: marcelarachel@bol.com.br
+    city: 'João Pessoa'
+    state: PB
+    country: Brasil
+    comment: 'Sou estudante de enfermagem, e assistir uma apresentação de dança cujo os dançarinos eram espéciais e com isso fiquei curiosa em conhecer mais sobre sindromes, e procrcurei aperfeiçoar meus conhecimentos para o dia-a-dia. A àrea de saúde tem por obrigação reciclar seus conhecimentos para melhor eficácia da assistência ao próximo. '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_728:
+    name: 'Elizabeth Freire'
+    email: mefreire@tce.pe.gov.br
+    city: Recife
+    state: PE
+    country: Brasil
+    comment: 'Tenho um sobrinho portador de SW e gostei muito de obter mais informações sobre a síndrome. Vocês estão de parabéns! '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_729:
+    name: 'Andrea Verzignassi'
+    email: casare3@hotmail.com
+    city: Americana
+    state: SP
+    country: Brasil
+    comment: 'Tenho um filho de 9 anos (Jun/2004) com SW e foi muito bom saber que posso conversar com alguém que me entenda porque na sociedade infelizmente eles são colocados com impussiveis o que não verdade só quem tem um é que sabe como é. Parabéns pelo site gostei muito. Um abraço e que Deus abençoe todos vocês. '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_730:
+    name: 'Elaine Cristina do Nascimento'
+    email: elainenascimento2004@ig.com.br
+    city: Parnamirim
+    state: RN
+    country: Brasil
+    comment: 'Quero mandar um super beijo para meu priminho Alan Souza do Nascimento, que Deus dê pra ele muita saude e muitos anos de vida.  '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_731:
+    name: 'Denise Terezinha de Almeida Gomes'
+    email: denise.terezinha.gom@itelefonica.com.br
+    city: Botucatu
+    state: SP
+    country: Brasil
+    comment: 'Tenho uma filha de 1 aninho(Jun/2004), linda e sorridente, mas com algum atraso motor. Por esse motivo, buscamos a ajuda de um neuropediatra, que nos deu esse diagnóstico. Estamos assustados e buscando toda a ajuda possivel. '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_732:
+    name: 'Patrícia Araujo'
+    email: naicirtap@ig.com.br
+    city: 'Rio de Janeiro'
+    state: RJ
+    country: Brasil
+    comment: "Graça e paz! Creio que Deus, Ele mesmo, é quem está orientando a vocês nessa luta e,tenham certeza,ela não será em vão. Que o Senhor Jesus Cristo continue abençoando a todos vcs e ao fofinho que é o Rafael, concedendo vitória. &quot;Mas, em todas estas coisas somos mais do q vencedores, por aquele q nos amou...nada poderá nos separar do amor de Deus, q está em Cristo Jesus, nosso Senhor.&quot; Romanos 8:37-39 Abraços pra todos!  \n\nEncontrei este site lendo uma matéria numa revista de bebês e crianças enquanto aguardava atendimento no dentista...Fiquei curiosa e anotei o site. "
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_733:
+    name: 'Luciana Martins'
+    email: ronilson@fiat.com.br
+    city: Contagem
+    state: MG
+    country: Brasil
+    comment: 'Estou muito feliz por ter encontrado este site já que não tinha encontrado nada a respeito descobri a 7 meses que meu filho é portador, estou muito confusa em como agir com ele, ele está tendo problema renal e na escola, gostaria muito de que outros pais entrassem em contato comigo para trocarmos experiencias, apesar de tudo ele é uma criança feliz e super amiga. Um beijão para todas as mamães que estão na luta com os seus filhos, que o senhor nos ajude.'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_734:
+    name: 'Edson Bezerra Leite Junior e Danielle'
+    email: edsonjr@br.inter.net
+    city: Recife
+    state: PE
+    country: Brasil
+    comment: 'Parabens, e muito importante para nos pais a troca de imformaçoes, pois temos dificuldade de orientaçao nos procedimentos, para melhor prepara-los para a vida. Pois meu filho já esta com 19 anos(Jul/2004). '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_735:
+    name: 'Andrea Niess'
+    email: ancpfono@ig.com.br
+    city: 'Rio de Janeiro'
+    state: RJ
+    country: Brasil
+    comment: 'Sou fonoaudióloga e recebi um paciente com 5 anos de idade, com diagnóstico da síndrome. Gostaria de obter qualquer informação sobre a mesma.'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_736:
+    name: 'Denise Rovai'
+    email: denise.rovai@bol.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Um amigo que é conselheiro do conselho estadual das pessoas portadoras de deficiência, que comentou sobre a síndrome, como sou fisioterapeuta tive curiosidade de saber melhor sobre a síndrome e obtive os esclarecimentos neste site, obrigada. '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_737:
+    name: 'Julio Cesar Loguercio Leite'
+    email: jcleite@hcpa.ufrgs.br
+    city: 'Porto Alegre'
+    state: RS
+    country: Brasil
+    comment: 'Parabenizo-os pela maravilhosa iniciativa de ter uma associação como a de vcs. Sou geneticista clínico e temos várias crianças com SW em nosso ambulatório e muitas vezes não temos como transmitir às famílias as orientações adequadas. Por razões nem tão técnicas e muitas vezes humanas. Fico feliz de poder a partir de agora poder transmitir às famílias que nos procuram mais um grupo de aliados na compreesão de crianças tão fascinantes! Muito Obrigado.'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_738:
+    name: 'Denise Chueke'
+    email: deni.ch@ibest.com.br
+    city: 'Rio de Janeiro'
+    state: RJ
+    country: Brasil
+    comment: 'Quero parabenizar os criadores deste maravilhoso site, tanto para leigos como para estudiosos da SW, como eu, que tenho uma filha de 25 anos (Ago/2004), e até uns dois anos atrás não encontrava quase nada no Brasil sobre esta síndrome. Aprendi mais com informações encontradas aqui que estou repassando para professores e outros estudiosos. Quando houver um novo encontro de pais e proffissionais de SW, peço para me avisarem. Parabéns para todos que colaboram para este site que ajuda a melhorar a qualidade de vida dessas pessoas. Saudações.'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_739:
+    name: 'Márcia da Nóbrega Resende'
+    email: fazendadudu@ig.com.br
+    city: 'Belo Horizonte'
+    state: MG
+    country: Brasil
+    comment: "Ao entrar no site me senti menos só, li relatos, vi fotos, aliás vimos eu e meu outro filho de 12 anos (ago/2004). Acho que seria muito interessante conhecer outras famílias com filhos com SW.  \n\nEncontrei o site através da terapeuta ocupacional Juliana Sampaio. Recentemente vi a máteria &quot;salve simpatia!&quot;, na revista CRESCER.  "
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_740:
+    name: 'Eliana Moura de Almeida Soares'
+    email: elianamsoares@hotmail.com
+    city: Maceió
+    state: AL
+    country: Brasil
+    comment: "Como já disse embora nã tenha nenhum motivo em particular pelo tema, me comovi bastante com o depoimento desses abnegados e incansáveis pais pela melhoria da qualidade de vida de seus filhos, seus depoimentos sãouma lição de vida e momentos significativos de reflexão. A eles minha admiração e minhas orações para que tenham força nessa batalha diária que vêm enfrentando. Deus os abençõe e a seus filhos.  \n\nAchei o site ao ver uma matéria na TV Record, fui por curiosidade pesquisar mais na internet e foi o primeiro site que encontrei, embora não tenha ninguem nem na família nem conhecido portador dessa síndrome me interessei muito sobre o tema.  "
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_741:
+    name: 'Nazaré Ruiz'
+    email: nazaruiz@hotmail.com.br
+    city: Manaus
+    state: AM
+    country: Brasil
+    comment: "Sou da área de educação, especificamente pela educação especial, é importante para todo educador conhecer e saber sobre nossas crianças especiais para viabilizar diversas maneiras para integrá-lo e reintegrá-lo no contexto sóciopolítico-educacional.  \n\nEncontrei este site procurando em site de busca, me interessei, depois de ter assistido na televisão sobre essa síndrome que até então, desconhecia. "
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_742:
+    name: 'Milton Gonçalves'
+    email: milton-goncalves@ig.com.br
+    city: 'São José dos Campos'
+    state: SP
+    country: Brasi
+    comment: 'Sou Cirurgião-Dentista e Não tinha conhecimento da Síndrome de Williams. Hoje, dia 20 de agosto de 2004, tive contato pela primeira vez com uma criança com tal síndrome, pois precisei fazer algumas radiografias desta criança. Sou aluno do curso de mestrado em radiologia pela Unesp. Gostaria de saber como posso obter mais informações sobre os aspectos, as caracteristicas odontológicas apresentadas por estas crianças ou adultos portadores da síndrome, pois assim poderemos oferecer um tratamento especializado para estes pacientes. obrigado! '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_743:
+    name: 'Alexandra Pereira Paulo'
+    email: marcelo.rp@terra.com.br
+    city: Itajaí
+    state: SC
+    country: Brasil
+    comment: 'Oi, me chamo Alexandra e meu esposo Marcelo. A pouco mais de 4 meses descobrimos que nosso filho de 4 anos (Ago/2004) é portador dessa sindrome. Ainda estamos angustiados e por isso gostaríamos de mais informações, relatos, experiências, que possa nos deixar menos apreensivos e mais confortados. Adoramos esse site, pois foi ele que nos ajudou muito. Que DEUS abençou a todos, pois agora seremos amigos e formaremos uma grande família. '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_744:
+    name: 'Aline Triches Savi'
+    email: alinetriches@bol.com.br
+    city: Tubarão
+    state: SC
+    country: Brasil
+    comment: 'Sou estudante do Curso de Ciências Biológicas da UNISUL, estou fazendo um estudo de caso de um menino que suspeito ser portador da SW, mas estou encontrando dificuldades em encontrar materiais bibliograficos. Peço ajuda a todos que possuirem dados referentes a essa sindrome. Muito Obrigada.'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_745:
+    name: 'Adelma Vieira Lima'
+    email: adelmavieiralima@bol.com.br
+    city: Urupa
+    state: RO
+    country: Brasil
+    comment: 'Eu me interessei pelo assunto, pois tenho uma sobrinha com as características da sindrome de Williams. '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_746:
+    name: 'Ana Kátia Pereira Pinto'
+    email: akendringer@bol.com.br
+    city: Vitória
+    state: ES
+    country: Brasil
+    comment: 'Sou fonoaudióloga e atendo um menino de 11 anos portador de SD, estamos tendo ótimos resultados utilizando a equoterapia como recurso facilitador.'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_747:
+    name: 'Silvia Seabra'
+    email: silviaseabra@aol.com
+    city: Brasilia
+    state: DF
+    country: Brasil
+    comment: 'Descobrimos que minha sobrinha tem esta sindrome.'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_748:
+    name: 'Ieda Castro'
+    email: iedacastro@yahoo.com.br
+    city: 'Rio de Janeiro'
+    state: RJ
+    country: Brasil
+    comment: 'Meu irmão mais velho Paulinho de 50 anos. Nasceu em 1954, minha mãe tinha 23 meu pai 29-médico. Hoje conversando com um &quot;sobrinho&quot; recém formado em medicina ele comentou que ao ler a sindrome de williams lembrou do Paulinho. Adorei o site e acho que muita gente que não teve o diagnóstico dos irmãos deve se sentir feliz. Vamos levá-lo para fazer o exame do cabelo. obrigada. Ah... em tempo, ele é uma pessoa maravilhosa. '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_749:
+    name: "\nAlmaize Silva Pontes"
+    email: almaizepontes@hotmail.com
+    city: Natal
+    state: RN
+    country: Brasil
+    comment: 'Descobri que minha filha tem sw em 2003, hoje ela está com 6 anos(Dez/2004). Gostaria de saber mais sobre a síndrome e ter contato com outros pais. '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_750:
+    name: 'Talita Ferreira'
+    email: talita-catieli@ig.com.br
+    city: Curitiba
+    state: PR
+    country: Brasil
+    comment: 'Sou mãe de um portador da Síndrome, descobri em 2003, hoje(Dez/2004) ele tem 1 e 5 meses, no início foi terrível para toda familia, mas isso fez com que a nossa nossa família se unisse mais, ele é uma criança maravilhosa, tudo de bom e mais um pouco.'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_751:
+    name: 'Ana Paula Brandão Grana'
+    email: paulagrana@bol.com.br
+    city: Manaus
+    state: AM
+    country: Brasil
+    comment: "Denilson, Adorei a nova cara do site.O Yuri está bem, passou para a 6.ªsérie. Agora estamos lidando com as transformações causadas pelos hormônios.É meu filho está um rapazinho, dia 18/01/2005 ele fará 13 anos. \n\nYuri a mamãe te ama de montão.Mariana meu tesouro também te amo. Se alguém precisar é só mandar e-mail. Beijos no Rafa, Daniéle e para a Mamãe Claúdia."
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_752:
+    name: 'Denise I. Zandon'
+    email: dzandona@terra.com.br
+    city: 'Passo Fundo'
+    state: RS
+    country: Brasil
+    comment: "É muito bom saber que temos pessoas que mesmo tendo dificuldades na vida conseguem pensar em ajudar aos outros, essa é a única maneira de construirmos uma sociedade mis humana. \n\nEncontrei aqui uma maneira de ajudar meus pacientes com uma linguagem simples de pais para pais. Parabéns pelo conteúdo do site e pela sua vontade de contruir um mundo melhor para as crianças com SW. Atenciosamente.Grata.  "
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_753:
+    name: 'Aleandra Maria Gomes'
+    email: alemgomes@yahoo.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: "Oi, meu nome é Aleandra tenho 24 anos, minha filha Laís 4 anos é portadora da SW.Só descobrimos após a cirugia feita no Hospital do Coraçao(SP) em 2001, lá todos os medicos perguntavam se a Laís tinha a SW devido suas caracteristicas, como até entao nunca ouvifalar dessa sindrome comecei a juntar informaçoes.\n\nAos poucos fui me aprofundando, mas é claro q ainda tenho muitas duvidas. Ela já foi diagnosticada, mas este ano vou iniciar um acompanhamento melhor e assim sanar todas essas duvidas, para poder, claro ajudar ainda mais minha princesinha. Sou nova por aqui e pretendo trocar muitas ideias. Bjs"
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_754:
+    name: 'Ricardo Monteiro'
+    email: rvm@nomer.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Gostei do site e achei o trabalho de vcs super sério. Atenciosamente Ricardo Monteiro http://www.nomer.com.br http://www.diretorio.com.br  '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_755:
+    name: "\nCarla Cunha De Carvalho"
+    email: cleofofinha2003@yahoo.com.br
+    city: 'Rio de Janeiro'
+    state: RJ
+    country: Brasil
+    comment: 'Oi, tenho um sobrinho de 07 anos que é portador da SW e é um amor de criança, estuda em colégio normal, fala, canta, brinca, adora jogar bola e soltar pipa, mais devido o problema tem algumas dificuldades mais está evoluindo bastante com a graça de Deus! Gostaria que me enviassem emails sobre qualquer coisa sobre a doença. Abraços.'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_756:
+    name: 'Amadeu Rocha de Souza Filho'
+    email: asouzafi@yahoo.com.br
+    city: 'Lençois Paulista'
+    state: SP
+    country: Brasil
+    comment: "Tenho uma filha CAROLINA éla é perfeita neurológicamente falando é só agora descobrimos que ela é portadora da SW, descobrimos em função do problema cardiaco e deficiencia de aprendisado! gostaria de corresponder com outro pais que estejam enfrentando a mesma situação. Abraços a todos Amadeu  \n \nO Site foi indicado pelo Dr Riquelme responsável pela área de genética do CENTRINHO-USP Cidade Bauru ."
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_757:
+    name: MyrianiMyriani
+    email: myriani@bol.com.br
+    city: 'Santa Maria'
+    state: SP
+    country: Brasil
+    comment: "Sou estudante de Pedagogia habilitacao em Educacao Infantil e tinha pouco conhecimento da SW, agora acessando o site me apaixonei por essas criancas relatadas e pretendo desenvolver um otimo trabalho sobre elas. \n\nParabenizo a todos que guardaram um espaco de seu tempo para desenvolverem esse trabalho envolvente e adoravel..."
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_758:
+    name: 'Samantha Sitnik'
+    email: jovipaulo2000@yahoo.com.br
+    city: Cascavel
+    state: PR
+    country: Brasil
+    comment: 'Achei muito legal e quero dizer que a principio parece ser muito dificil ser mae ou pai de uma crianca especial mas depois e que percebemos o quanto somos abencoados por esta condicao! Abraços e mandem e-mail para nos! '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_759:
+    name: 'Rosiliane Smolski'
+    email: aciave@vere.com.br
+    city: Verê
+    state: PR
+    country: Brasil
+    comment: 'Meu filho tem 1 ano e 5 meses, ele nasceu com a cardiopatia da SW, mas a geneticista dizia que ele não tinha a SW, então resolvemos fazer o exame que deu o dignóstico afirmativo. Então como eu já tinha lido algumas informações neste site, eu voltei a procurar e saber mais, fico muito grata pelas informações encontradas aqui, pois é de fácil entendimento e nos ajuda muito.'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_760:
+    name: 'Sueli Garcia Oliveira'
+    email: 'donarwo@fasternet.com.br e donarwo@hotmail.com'
+    city: Tatui
+    state: SP
+    country: Brasil
+    comment: 'Adorei o site, eu tenho um filho portador da sindrome de saethre-chotzen e que tem algumas semelhanças no desenvovimento.'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_761:
+    name: 'Maria Aparecida'
+    email: gu_anjos@hotmail.com
+    city: Florianópolis
+    state: SC
+    country: Brasil
+    comment: 'Tenho um filho com 9anos com caracteristica desta sindrome não fiz o exame ainda para confirma, mesmo assim continuo na luta para dar uma qualidade de vida melhor para ele. Hoje com 9 anos (Jun/2005) cursa 2 série de uma escola particular normal que sempre frequentou, e acompanha a turma super bem com notas acima de 7.4. Estou colocando estes detalhes para mostrar a todos que eles são capazes desde tenha um bom acompanhamento. Meu filhão é nota 1000. Gostaria de trocar informações com outros pais pois conheci este site algums dias. Beijos a todos! '
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_762:
+    name: 'Flávia Rix de Oliveira'
+    email: ransrans@ig.com.br
+    city: Guarulhos
+    state: SP
+    country: Brasil
+    comment: 'Parabéns por serem tão dedicados e especiais. VOCÊS SÃO DEZ!!!'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_763:
+    name: 'Karina Nunes da Silva'
+    email: kakauzinhamc.157@hotmail.com
+    city: 'São Carlos'
+    state: SP
+    country: Brasil
+    comment: 'Parabés pelo site e mando um salve pra Jéssica!'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_764:
+    name: 'Luciana Paula N Lemos Palmeiro'
+    email: lucianapn@baraodemaua.br
+    city: 'Ribeirão Preto'
+    state: SP
+    country: Brasil
+    comment: "Adorei o site, as fotos das crianças, são todas muito lindas e encantadoras. Acho que são crianças muito especiais mesmo pelo afeto e simpatia que transmitem!  \n\nEncontrei o site vendo materias no site da BBC Brasil sobre simpatia ser explicada por ultrassonografia cerebral "
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_765:
+    name: 'Gabriela Prestes Vernes'
+    email: gabiprestes2003@yahoo.com.br
+    city: 'Porto Alegre'
+    state: RS
+    country: Brasil
+    comment: "Para mim foi excelente, visto que sou educadora infantil, faço faculdade de pedagogia e este ano tenho uma aluna com sw. \n\nEste site me esclareceu bastante coisas porque eu estava insegura em lidar com algo que até então para mim era desconhecido, a minha aluna tem me ensinado muita coisa dentre as quais ser mais paciente e não ter medo de demonstrar que gosto das pessoas, ela diz o tempo todo que me ama e eu também a amo. Muito obrigada.  "
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_766:
+    name: 'Cibele Zveibil Braun'
+    email: cibelez8@hotmail.com
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: "Fui convidada pelo pessoal do Help Doctor Sistem, que contou-me que são seus patrocinadores para ir a uma festa junina que acontecerá em sua sede amanhã(23 junho 2005).\n\n Devido a dificuldades familiares, não poderei comparecer, porém deixo meu abraço a vocês, às crianças e ao pessoal do Help Doctor. Boa festa e espero conhecê-los em breve."
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_767:
+    name: 'Talita Ferreira'
+    email: tita-cwb@uol.com.br
+    city: Curitiba
+    state: SP
+    country: ''
+    comment: 'Hoje meu filho (4/agosto/2005) completa 2 aninhos, estou super contente, pois para mim e uma grande vitoria ele estar hoje comigo, pois passamos por varias dificuldades devido a SW...sei que tem varios pais desesperados, nao tendo ainda certeza se seu filho tem ou nao a SW, mas quero que sabiam que temos hoje bastante recursos para o tratamento....nao e so isso que quero deixar e sim uma experiencia, tenho apenas 20 anos, porem com muito sofrimento em relação ao meu querido filho Fabio Henrique, tenho muito a agradecer a Deus por ele estar aqui comigo hoje neste dia tão especial......espero que vcs pais tambem estejam sempre com Deus porque ele e o unico lhe conforta diante de tudo isso...'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_768:
+    name: 'Marli Teresinha Pavlak'
+    email: farmacialegria@yahoo.com.br
+    city: Alegria
+    state: SP
+    country: Brasil
+    comment: "Acho muito legal tudo o que colocam no site sobre SW.  \n\nEncontrei o site porque todos os sabados fico procurando algo sobre SW. pois meu filho de 7 anos tem suspeita ainda não comprovado por exames de genetica. "
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_769:
+    name: Roseli
+    email: rosemagpar@hotmail.com
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Boa noite, pra começar vou contar do começo: minha sobrinha, Tatiana estava gravida. Aos oito meses foi ter o nenem, semana anterior ela estava muito inchada e sangrando disseram que era normal...ao ter a criança no dia seguinte ela teve pressão alta, inchaço e não urinava mais... logo depois ela deu entrada na UTI...onde  foi feito uma laparotomia que não adiantou muito pois no dia seguinte ela faleceu... depois de uma semana a criança faleceu tb... se alguém na àrea medica ler este e-mail entre em contato comigo... pois desconfio que foi erro médico.'
+    approved: true
+    created_at: '2005-08-29 00:00:00'
+    updated_at: '2005-08-29 00:00:00'
+  Guestbook_770:
+    name: 'nicole tathiene damasio'
+    email: nicole_tathi@hotmail.com
+    city: curitiba
+    state: PR
+    country: brasil
+    comment: 'tenho um irmão de 11 anos,portador da sw,tem dificuldade de aprendizado escolar ,gostaria de conhecer professores especializados na area de sw, e tambem escolas '
+    approved: true
+    created_at: '2005-09-18 00:00:00'
+    updated_at: '2005-09-18 00:00:00'
+  Guestbook_771:
+    name: 'nicole tathiene damasio'
+    email: nicole_tathi@hotmail.com
+    city: curitiba
+    state: PR
+    country: brasil
+    comment: "como já falei tenho um irmão portador da sw, que completara 11 ANOS no dia 03/10/2005 eles são muito especial na sua alegria, comunicação e na demonstração de carinho bom está cursando pela segunda vez a 2* serie é sou meio suspeita pra ta falando tudo isso sou irmã dele mas creio que todos devem ser que nem eu coruja \nBEIJOS atodos adorei tar me comunicando com vocÊs \nTCHAU!!!! "
+    approved: true
+    created_at: '2005-09-18 00:00:00'
+    updated_at: '2005-09-18 00:00:00'
+  Guestbook_772:
+    name: 'Sirlene de Faria Santos Zuim'
+    email: len.zuim@itelefonica.com.br
+    city: Guararapes
+    state: SP
+    country: Brasil
+    comment: 'Que bom ter acesso ao site é muito importante que pais e professores possam conhecer melhor sobre a síndrome, pois facilita a vida de todos principalmente da criança, trabalho com uma criança portadora da síndrome em fase inicial de alfabetização, por isso gostaria de ter mais informações.'
+    approved: true
+    created_at: '2005-10-24 00:00:00'
+    updated_at: '2005-10-24 00:00:00'
+  Guestbook_773:
+    name: 'Kátia Celina'
+    email: katiacelina_2@hotmail.com
+    city: 'João Pessoa'
+    state: PB
+    country: Brasil
+    comment: "Estou cursando o primeiro período de nutrição, fiquei sabendo da síndrome através da tv (programa do Jô). Agradeço a quem puder me dar mais informações sobre a dificuldade alimentar no primeiro ano de vida, e outros esclarecimentos também são bem vindos.\nGostei de ter encontrado este site, é bom saber que existem profissionais dedicados a oferecer mais qualidade de vida aos portadores da síndrome e seus familiares. \n   Acho importante estar bem informada para me tornar uma profissional qualificada, gosto do que faço e quero sempre aprender mais."
+    approved: true
+    created_at: '2005-11-10 00:00:00'
+    updated_at: '2005-11-10 00:00:00'
+  Guestbook_774:
+    name: Juliana
+    email: jumatos18@yahoo.com.br
+    city: Salvador
+    state: BA
+    country: Brasil
+    comment: 'Encontrar esse site me tanquilizou bastante...tenho uma priminha com essa sindrome, ela esta com 3 anos, e apresenta quase tdas as caracteristicas citadas nesse site!!Faço fonoaudiologia, estudei genetica no 2º sms, mas nao vi essa sindrome, talvez por ser tao rara...Espero mais noticias sobre essa sindrome para q eu possa ajudar meus tios na criaçao de &quot;Mari&quot;, menina linda com o sorriso contagiante!!!Desde ja agradeço a tdo tipo de ajuda!!!'
+    approved: true
+    created_at: '2005-11-21 00:00:00'
+    updated_at: '2005-11-21 00:00:00'
+  Guestbook_775:
+    name: 'ANA MARIA SCHNEIDER'
+    email: anamaria_sch01@hotmail.com
+    city: 'VILA VELHA'
+    state: ES
+    country: BRASIL
+    comment: 'Minha mensagem vai para os novos pais que receberam recentemente um diagnóstico de SW de um filho: minha filha Victória, agora com 7 anos, é uma criança saudável, feliz, companheira, carinhosa e vai para a primeira série no ano que vem. Já está lendo e quase escrevendo. Aceitem esse desafio com amor pois foi Deus quem lhes confiou uma criança especial e é com Ele que vocês podem contar. '
+    approved: true
+    created_at: '2005-12-03 00:00:00'
+    updated_at: '2005-12-03 00:00:00'
+  Guestbook_776:
+    name: daniel
+    email: danielwsbr@gmail.com
+    city: 'juiz de fora'
+    state: MG
+    country: brasil
+    comment: "ótimo site, gostei...\ntraz informações legais.\n\nhttp://hospedavip.com"
+    approved: true
+    created_at: '2005-12-21 00:00:00'
+    updated_at: '2005-12-21 00:00:00'
+  Guestbook_777:
+    name: 'Marli Alves Flores Melo'
+    email: floresmarli@brturbo.com.br
+    city: Brasília
+    state: DF
+    country: Brasil
+    comment: 'Atendo alunos portadores de altas habilidades e junto a nós funciona uma sala de  atendimento psicopedagogico, em que frequenta uma menina com SW. Trata-se de um a menina carinhosa, apreciadora da dança do ventre auto-ditada e já está finalizando a 4ª série. Tenho a relatar que ela é muito gratificante conviver com ela numa troca com os alunos superdotados'
+    approved: true
+    created_at: '2005-12-28 00:00:00'
+    updated_at: '2005-12-28 00:00:00'
+  Guestbook_778:
+    name: 'tiago antunes'
+    email: tiagocaantunes@hotmail.com
+    city: Sintra
+    state: OE
+    country: Portugal
+    comment: 'Olá eu sou o tiago e tenho 16 anos vivo em PORTUGAL na vila de Sintra e sou afectado com o Sindroe de Williams e gosto muito do vosso Site.  '
+    approved: true
+    created_at: '2006-01-06 00:00:00'
+    updated_at: '2006-01-06 00:00:00'
+  Guestbook_779:
+    name: gabriela
+    email: gabigreen@bol.com.br
+    city: santos
+    state: SP
+    country: brasil
+    comment: 'oi, tenho um irmao de 20anos portador da sindrome...e adorei saber que não estamo sozinhos nesta luta incansavel, atras de novos conhecimentos, muito obrigado.'
+    approved: true
+    created_at: '2006-01-08 00:00:00'
+    updated_at: '2006-01-08 00:00:00'
+  Guestbook_780:
+    name: 'Ana Brito'
+    email: anacatarina_brito@hotmail.com
+    city: 'Vila Franca de Xira'
+    state: SP
+    country: Portugal
+    comment: 'Obrigada pelo vosso site!Sou professora numa vila de Portugal, que se chama Mafra e este ano trabalho com um menino que é portador de sindroma de Williams, este site ajudou-me a saber mais acerca da doença, logo a conhecer melhor a criança!'
+    approved: true
+    created_at: '2006-01-19 00:00:00'
+    updated_at: '2006-01-19 00:00:00'
+  Guestbook_781:
+    name: 'Susana Ferreira'
+    email: olival.susana@clix.pt
+    city: Lisboa
+    state: OE
+    country: Portugal
+    comment: 'Oi!! Sou Terapeuta da Fala e tenho uma criança portadora de SW. Gostava de vos felicitar pois o vosso site  tem bastante informação que nos ajuda a perceber como actuar e intervir com estas crianças. Obrigada!!'
+    approved: true
+    created_at: '2006-02-08 00:00:00'
+    updated_at: '2006-02-08 00:00:00'
+  Guestbook_782:
+    name: 'Maria José Varela S. Ladeiro'
+    email: mjladeiro@hotmail.com
+    city: 'Figueira da Foz'
+    state: OE
+    country: Portugal
+    comment: 'Olá. Sou professora e nunca tinha ouvido falar do Síndrome de Williams: Este ano estou a fazer um curso de formação especializada em Educação Especial e como tinha de fazer um trabalho sobre esta problemática este site foi uma óptima ajuda. Parabéns. Felicidades para o vosso trabalho.'
+    approved: true
+    created_at: '2006-02-20 00:00:00'
+    updated_at: '2006-02-20 00:00:00'
+  Guestbook_783:
+    name: 'Leorides Lima'
+    email: leorideslima@yahoo.com.br
+    city: Manaus
+    state: AM
+    country: Brasil
+    comment: 'Olá, gostair muito de entrar em contato com a mãe do Yuri, em Manaus. Também estou fazendo especialização em Educação Especial e esta é uma síndrome que me interessa muito.'
+    approved: true
+    created_at: '2006-02-22 00:00:00'
+    updated_at: '2006-02-22 00:00:00'
+  Guestbook_784:
+    name: 'Alexandra Pereira Paulo'
+    email: xanda_paulo@hotmail.com
+    city: Itajaí
+    state: SC
+    country: Brasil
+    comment: 'Oi,meu filho é portador dessa rara sindrome,mas seu desenvolvimento vem sendo normal para sua idade. Gostaria de trocar informações com vocês sobre o assunto. Obrigada.'
+    approved: true
+    created_at: '2006-04-26 00:00:00'
+    updated_at: '2006-04-26 00:00:00'
+  Guestbook_785:
+    name: Sumaia
+    email: sgdomingues@uol.com.br
+    city: Olímpia
+    state: SP
+    country: Brasil
+    comment: 'Obrigada pelo cartão de aniversário enviado ao Neto, meu filho com SW. Você são maravilhosos e nos mantêm confiantes de que tudo vale a pena. Um beijo.'
+    approved: true
+    created_at: '2006-07-13 00:00:00'
+    updated_at: '2006-07-13 00:00:00'
+  Guestbook_786:
+    name: 'Josélia Terezinha Breus de Souza'
+    email: jbreus@ig.com.br
+    city: Santos
+    state: SP
+    country: Brasil
+    comment: 'Gostaria de parabenizá-los pelo site muito rico em informações. Sou psicóloga numa escola e neste ano recebemos para o 1º ano do Ensino Médio uma aluna portadora da Síndrome de Williams e estou pesquisando porque quero orientar os seus professores sobre a melhor forma de auxiliá-la e direta ou indiretamente contribuir com o seu crescimento. Obrigada a todos e muita Luz e Força em suas caminhadas.'
+    approved: true
+    created_at: '2006-03-01 00:00:00'
+    updated_at: '2006-03-01 00:00:00'
+  Guestbook_787:
+    name: 'Lilian Borete'
+    email: libo@globo.com.br
+    city: 'SAO PAULO'
+    state: SP
+    country: BRASIL
+    comment: "Experimente Outra Vez\n(Reinilson Câmara, Professor, escritor,\npoeta,letrista e compositor de MPB )\n\nQuando as coisas vão erradas,\nnão pense que todos os seus esforços têm sido em vão... \nSorria e experimente outra vez... \nPode ser que o seu aparente fracasso\nvenha a ser a porta mágica\nque o conduzirá para uma nova felicidade\nque antes você jamais conheceu... \nVocê pode estar enfraquecido pela luta,\nmas não se considere vencido... \nIsto não quer dizer derrota... \nNão vale a pena gastar o precioso tempo\nem lágrimas e lamentos... \nLevante-se e enfrente a vida outra vez... \nE se você guardar em mente\no alto objetivo de suas aspirações,\nos seus sonhos se realizarão... \nTire proveito dos seus erros,\ncolha experiências das suas dores\ne, então, um dia você dirá:\nEU VENCI,\nPORQUE OUSEI EXPERIMENTAR OUTRA VEZ!\n"
+    approved: true
+    created_at: '2006-03-05 00:00:00'
+    updated_at: '2006-03-05 00:00:00'
+  Guestbook_788:
+    name: 'Cleusa Silva Dias'
+    email: jjonunes@ibest.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: ' Sou mãe da Karine que tem SW e gostaria que fosse  realizado aqui na Associação  de Síndrome de Williams um curso de chocolates(ovos,trufas),se vc conhece ou gostaria de ser uma voluntária,no sentido de estar ensinando as mães,por favor entre em contato conosco.Fone de contato-6291-2957 '
+    approved: true
+    created_at: '2006-03-24 00:00:00'
+    updated_at: '2006-03-24 00:00:00'
+  Guestbook_789:
+    name: 'Gilka e Belinha'
+    email: jjonunes@ibest.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: ' Somos mães que participamos desta Associação e nos oferecemos para compartilhar uma manhã da costura,aqui em nossa  sede.Para termos sucesso nessa nossa empreitada precisamos de doações de panos de pratos,rendas,linhas,apliques.Se vc se interessar pela nossa causa junte-se a nós.Muito Obrigada.'
+    approved: true
+    created_at: '2006-03-24 00:00:00'
+    updated_at: '2006-03-24 00:00:00'
+  Guestbook_790:
+    name: Rosele
+    email: rodrigorosele@bol.com.br
+    city: Taquari
+    state: RS
+    country: Brasil
+    comment: 'Sou pedagoga com 10 anos de experiência em educação infantil e no ano passado recebi um aluno com sw, mais um aluno com necessidade especial  na minha carreira, foi a 1ª experiência que tive com criança portadora desta síndrome. Sua mãe depositou muita confiança no meu trabalho que este ano estamos trabalhando juntos novamente. minha realização pessoal e profissional está sendo muito grande ele diz que me ama e vibra a toda conquista que tem, assim como eu. O site me auxilia bastante e o conheci através da mãe dele. Parabéns aos organizadores!'
+    approved: true
+    created_at: '2006-03-26 00:00:00'
+    updated_at: '2006-03-26 00:00:00'
+  Guestbook_791:
+    name: 'Geisa Maran'
+    email: geizinha_gracinha@hotmail.com
+    city: 'Ribeirão Preto'
+    state: SP
+    country: Brasil
+    comment: "Olá sou Geisa...tenho 1 irmão portador dessa doença e só queria q todos soubeçem de q eu o amo muito mesmo tendo essa síndrome...espero q todas as pessoas q tem irmão(s) com essa síndrome ou qualquer outra não tenha vergonha de ama-lo pois um dia tinha vergonha de meu irmão...tambem tive problemas...tive crise de depreção...minha mãe e meu irmão me ajudaram muito...hoje sou muito grata por isso...quem quiser compartilhar de alguma história comigo ou qualquer coisa a respeito entre em contato comigo no meu e-mail!\ngeizinha_gracinha@hotmail.com\n"
+    approved: true
+    created_at: '2006-07-08 00:00:00'
+    updated_at: '2006-07-08 00:00:00'
+  Guestbook_792:
+    name: 'Helena Ferreira Nunes'
+    email: helena.fnunes@ig.com.br
+    city: 'Lagoa da Prata'
+    state: SP
+    country: ''
+    comment: "Endereço: professor jacinto ribeiro, 43 Lagoa da Prata\nFone: 3261-1113\nSou Nutricionista da Apae, onde existem vários tipos de sindromes, inclusive a de Williams. Onde eu tenho pouco conhecimento sobre ela. Principalmente na area de alimentação. A aluna está com dificuldade em deglutir e esta com baixo peso e alergia na cabeça ao redor dos olhos e da boca. Se vcs puderem me orientar sobre esta"
+    approved: true
+    created_at: '2006-05-09 00:00:00'
+    updated_at: '2006-05-09 00:00:00'
+  Guestbook_793:
+    name: 'Rafael Alves'
+    email: fael091@hotmail.com
+    city: Limeira
+    state: SP
+    country: Brasil
+    comment: 'Tenho uma irmã de 3 anos que tem a suspeita da síndrome e acho que o site ajuda bastante nos esclarecimentos das dúvidas. Parabéns aos criadores do site e espero que vocês continuem adicionando mais informações sobre a Síndrome de Williams.'
+    approved: true
+    created_at: '2006-05-13 00:00:00'
+    updated_at: '2006-05-13 00:00:00'
+  Guestbook_794:
+    name: 'Jô Nunes'
+    email: jjonunes@ibest.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: "Desejo A todas mães especiais muitas felicidades.Não se esqueçam que vcs foram escolhidas a dedo por Deus para cumprir esta missão.\nContinuem lutando, o futuro de seu filho depende desta luta,e vale a pena lutar.\nBjs "
+    approved: true
+    created_at: '2006-05-14 00:00:00'
+    updated_at: '2006-05-14 00:00:00'
+  Guestbook_795:
+    name: 'Neila Marcia CArlos SObrinho'
+    email: neilamarciarv@hotmail.com
+    city: 'Rio Verde'
+    state: GO
+    country: Brasil
+    comment: 'Sou mãe de uma criança com SW, ele tem 5 anos, este site me ajudou muito para que eu compreendese melhor meu filho e seu comportamento  não nos deixe sem as ultimas noticias sobre a sindrome ... agradeço... até... .   '
+    approved: true
+    created_at: '2006-05-18 00:00:00'
+    updated_at: '2006-05-18 00:00:00'
+  Guestbook_796:
+    name: 'rosangela de moraes pacheco'
+    email: rosangelampacheco@yahoo
+    city: 'Rio Grande'
+    state: RS
+    country: Brasil
+    comment: 'sou profesora de educação infantil e educação especial,goto de entrar nesses sites pois me esclarecem muitas dúvidas. gostei muito do que encontrei aqui.E para as mães continuem firmes lutando por seus filhos pois eles são anjos que Deus colocou sob seus cuidado.'
+    approved: true
+    created_at: '2006-06-10 00:00:00'
+    updated_at: '2006-06-10 00:00:00'
+  Guestbook_797:
+    name: 'Fatima Dias'
+    email: fatimadiasa@terra.com.br
+    city: Blumenau
+    state: SC
+    country: Brasil
+    comment: "Sou madrinha de uma menina com SW, \nela é linda e muito inteligente. Sabemos de sua condição desde antes de nascer.\nA gravidez de sua mãe foi muito dificel e pelo ultrasom descobrimos que poderia ser sindromica , assim foram feitos todos os exames que resultaram no diagnostico de SW. Ela vem sendo assistida de todos os tratamentos e assistencias necessarias ao seu desemnvolvimento, tem demonstrado grande crescimento . A Bia tem 5 anos e tem muito amor e carinho de totos nós."
+    approved: true
+    created_at: '2006-06-17 00:00:00'
+    updated_at: '2006-06-17 00:00:00'
+  Guestbook_798:
+    name: Denize
+    email: denize1@itelefonica.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Sou pedagoga de formação e educadora por amor incluindo uma benção na minha vida de ter optado pela psicopedagogia. Tive o prazer de  atender a uma paciente muito especial chamada Jéssica, onde pudemos descobrir muitas coisas juntas a partir do momento em que sua mãe JÔ, nos apresentou me confiando o seu maior tesouro, &quot;sua filha&quot;. Hoje, sinto-me parte dessa família que no fundo nunca me esquece e a recíproca se faz verdadeira. Desejo que TODAS as famílias que tenham portadores da SW sejam confiante na capacidade dessas crianças abençoadas por DEUS.Carinhosamente a todos DENIZE'
+    approved: true
+    created_at: '2006-06-27 00:00:00'
+    updated_at: '2006-06-27 00:00:00'
+  Guestbook_799:
+    name: ana
+    email: ana_floera@hotmail.com
+    city: tijuana
+    state: AL
+    country: Mexico
+    comment: "Hola  me  encantaria  que  alguien  que  lea  este  mensaje me  pueda  responder en español  ya  que no entiendo  brasileño, me  urje informacion sobre el sindrome  ya que tengo un niño con este sindrome y en tijuana no hay informacion necesaria, y en mexico no hay asociaciones dedicadas  a este sindrome.\nMIL  GRACIAS  DE  ANTEMANO.\nLIC. ANA  VERONICA FELIX"
+    approved: true
+    created_at: '2006-06-29 00:00:00'
+    updated_at: '2006-06-29 00:00:00'
+  Guestbook_800:
+    name: 'Carla CArvalho de Araujo'
+    email: carllinha-araujo@hotmail.com
+    city: 'Ribeirao Preto'
+    state: SP
+    country: Brasil
+    comment: 'Olá! Sou estudante de Terapia Ocupacional, estou no segundo ano e li sobre essa sindrome. Como estudante farei um trabalho sobre ela, um trabalho cientifico. Gostei mto do site e as informacoes sao otimas! entao, parabenizo nao só quem &quot;cuida&quot; do site, mas tambem as maes de todas as criancas com esta sindrome.'
+    approved: true
+    created_at: '2006-07-01 00:00:00'
+    updated_at: '2006-07-01 00:00:00'
+  Guestbook_801:
+    name: 'Ana Paula'
+    email: ap-bardini@bol.com.br
+    city: Limeira
+    state: SP
+    country: Brasil
+    comment: 'Tenho uma filha portadora da SW ela está com 16 anos , gostaria de manter contato.. Abraços '
+    approved: true
+    created_at: '2006-11-02 00:00:00'
+    updated_at: '2006-11-02 00:00:00'
+  Guestbook_802:
+    name: 'Rosangela Eugenia'
+    email: rosangela_eugenia@hotmail.com
+    city: 'são Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Mais uma vez entro no site de vcs e parabenio pelo trabalho que a associação está desenvolvendo, principalemente na visibilidade SW. Jô eu estou devendo uma visita para conversarmos espero fazer isso o mais breve possível. '
+    approved: true
+    created_at: '2006-08-02 00:00:00'
+    updated_at: '2006-08-02 00:00:00'
+  Guestbook_803:
+    name: 'Mariana Rezende'
+    email: marirezende1@gmail.com
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: "Jô e toda equipe...\nParabéns!!\nO site é maravilhoso!!!!\nBjos\nMariana"
+    approved: true
+    created_at: '2006-08-22 00:00:00'
+    updated_at: '2006-08-22 00:00:00'
+  Guestbook_804:
+    name: 'MARILDA GEOVANNI SOUSA'
+    email: SINAPSE15@YAHOO.COM.BR
+    city: 'SÃO PAULO'
+    state: SP
+    country: BRASIL
+    comment: 'ADOREI CONHECER TODOS VOCES,FOI UM ALIVIO PARA TODA A FAMILÍA SABER COMO LIDAR COM A GEOVANNA.MUITO OBRIGADA PELA ATENÇÃO QUE NOS PRESTARAM.'
+    approved: true
+    created_at: '2006-09-09 00:00:00'
+    updated_at: '2006-09-09 00:00:00'
+  Guestbook_805:
+    name: Paulo
+    email: paulo_d_barrtto@yahoo.com
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: "10 anos trabalhando nos EUA com psiquiátria\nTrabalhei por 10 anos nos EUA como administrador de clínicas psiquiátricas com pacientes com diversos diagnósticos, entre eles: Síndrome de Williams, Síndrome de Prader Willi, esquizôfrenia, Traumatismo craniâno, memória curta, Síndrome de Dawn, etc.\nFoi realmente uma grande escola. Aprendi a amar o que faço e adoro ajudar as pessoas. Trabalhei também com jovens com distúrbios comportamentais de 8 aos 18 anos e com pacientes altamente agressivos. Tenho vários cursos nessa área todos concluídos nos EUA. Tenho cartas de referência e um ótimo curriculum, mas infelizmente ainda não encontrei um trabalho aqui no Brasil. Poderia dar aulas de inglês mas desta forma não estaria ajudando pessoas que realmente precisam de ajuda. Caso alguém queira perguntar algo pra mim ficarei grato em ajudar, e se alguém souber de alguma organização em que eu possa trabalhar para continuar desenvolvendo o trabalho que fazia lá fora, favor entrar em contato.\nMuito agredecido,\nPaulo "
+    approved: true
+    created_at: '2006-09-09 00:00:00'
+    updated_at: '2006-09-09 00:00:00'
+  Guestbook_806:
+    name: 'janaina silva'
+    email: janajan@ibest.com.bt
+    city: viamão
+    state: RS
+    country: brasil
+    comment: 'tenho um primo em 2ºgrau que está atualmente morando com minha familia,ele portador da sw e eu adorei este site porque quero ajudar a informar a mãe dele, ja que tão pouco sabemos a respeito.Meu primo tem 16 anos de idade.'
+    approved: true
+    created_at: '2006-09-12 00:00:00'
+    updated_at: '2006-09-12 00:00:00'
+  Guestbook_807:
+    name: 'leticia lizita'
+    email: ''
+    city: brasilia
+    state: DF
+    country: brasil
+    comment: 'bom todo mundo tem dificuldades eu  tenho simdrome de wiilhams e meu pai me levou no medico.pra saber o que era e todo mundo chinga mais eu nao  me adimito qwue falem assim com migo'
+    approved: true
+    created_at: '2006-10-10 00:00:00'
+    updated_at: '2006-10-10 00:00:00'
+  Guestbook_808:
+    name: 'Nicole Tathiene Damasio'
+    email: nicole_tathi@hotmail.com
+    city: Curitiba
+    state: PR
+    country: Brasil
+    comment: "Parabens Antonio,pelo seus 12 anos que conpletou dia 03/10/2006\nQue Deus te abencoe muito voce e seus caminhos ...\n\nUm super ,enorme,extra beijao da sua familia que te ama muito...\n\ntchau... "
+    approved: true
+    created_at: '2006-10-08 00:00:00'
+    updated_at: '2006-10-08 00:00:00'
+  Guestbook_809:
+    name: daniel
+    email: danielwsbr@gmail.com
+    city: 'juiz de fora'
+    state: MG
+    country: brasil
+    comment: "ola gostei muito de seu site com boas dicas e muito mais coisas importantes que todos nos deveriamos saber.\n\n\nhttp://hospedavip.com"
+    approved: true
+    created_at: '2006-10-09 00:00:00'
+    updated_at: '2006-10-09 00:00:00'
+  Guestbook_810:
+    name: 'magna santos'
+    email: magna_tom@ig.com.br
+    city: 'são paulo'
+    state: SP
+    country: brasil
+    comment: "gostaria de manter contatos com familias de portadores da sindrome de willians,pois tenho um filho de 6 anos que tem a sindrome,isso iria tambem me auxiliar no tratamento dele \n\ndesde ja fico grata\n                     magna"
+    approved: true
+    created_at: '2007-03-04 00:00:00'
+    updated_at: '2007-03-04 00:00:00'
+  Guestbook_811:
+    name: 'Ana Gabriela Muni'
+    email: agm-muniz@hotmail.co
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Bom dia, sou ma do gabriel sw, que tem 6 anos, gostaria muito que puder ter contato comingo que more em sao paulo e de preferencia na zona sul, que tenha filhos que frenquenta o ensino primario enfrente, gostaria de ter contato, para saber mas sobre a desenvoltura do mesmo na escola , grata pela atenção. imael  agm-muniz@hotmail.com.'
+    approved: true
+    created_at: '2007-03-08 00:00:00'
+    updated_at: '2007-03-08 00:00:00'
+  Guestbook_812:
+    name: 'Suzana Vogas Tavares Cypriano'
+    email: suzanavt@tj.rj.gov.br
+    city: Niterói
+    state: RJ
+    country: Brasil
+    comment: 'Tenho um irmão com SW. Ele tem 28 anos e é muito querido. Gostaria de saber se há algum encontro agendado. Obrigada, Suzana. '
+    approved: true
+    created_at: '2006-11-13 00:00:00'
+    updated_at: '2006-11-13 00:00:00'
+  Guestbook_813:
+    name: 'Associação Brasileira de Síndrome de Williams'
+    email: swbrasil@swbrasil.org.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: ' Estamos convidando a todos para participarem do nosso &quot;Almoço Beneficente de Natal&quot;,na EMEI Ignácio Henrique Romeiro,na Al. Jauaperi 1639 Moema,próx. ao Shopping Ibirapuera. Será no dia 09/12 à partir das 12h30.Convites $12,00 por pessoa.Bebidas à parte.Teremos Bazar,música e muita alegria.Esperamos por vocês!!!!                          Jô Nunes'
+    approved: true
+    created_at: '2006-11-28 00:00:00'
+    updated_at: '2006-11-28 00:00:00'
+  Guestbook_814:
+    name: 'Fernanda Pölking'
+    email: fernandapolking@hotmail.com
+    city: Montenegro
+    state: RS
+    country: Brasil
+    comment: 'Muito bom o site. Sou Pediatra e conheci uma criança com SW no consultório, por isso resolvi buscar mais informações e foi muito bom poder ler relatos reais de como são essas crianças. Um abraço'
+    approved: true
+    created_at: '2007-09-12 00:00:00'
+    updated_at: '2007-09-12 00:00:00'
+  Guestbook_815:
+    name: 'Tania Maria Martins Carvalho'
+    email: taniammcarvalho@terra.com.br
+    city: Ituiutaba/MG
+    state: MG
+    country: Brasil
+    comment: "Estou diretora da Escola Estadual de Educação Especial Risoleta Neves em Ituiutaba/MG . E temos um aluno com diagnostico provavél da Sindrome de Williams. O site nos ajudou muito qto conhecimento e direcionamento educacional do mesmo, como acabamos de descobrir quem puder nos dar maiores informações . Agradeço . E parabéns pelo site  e pelos seres humanos que dispusseram a judar o proximo Que Deus os abençoe!\nAbraços!"
+    approved: true
+    created_at: '2007-09-20 00:00:00'
+    updated_at: '2007-09-20 00:00:00'
+  Guestbook_816:
+    name: 'luciana martins'
+    email: can_tora@hotmail.com
+    city: contagem
+    state: MG
+    country: Brasil
+    comment: 'sou mae do felipe tem 11 anos estamos fundando o nucleo de Mg, se algm quiser entrar em contato, para trocarmos experiencias eu desde ja agradeco......abracos '
+    approved: true
+    created_at: '2007-09-20 00:00:00'
+    updated_at: '2007-09-20 00:00:00'
+  Guestbook_817:
+    name: 'JucelmaFerreira Matins balmant'
+    email: jucelmabalmant@hotmail.com
+    city: 'São Bernardo do Campo'
+    state: SP
+    country: Brasil
+    comment: "Sou professora da 2ª série do Ens. Fund. suspeito que um aluno da minha sala possui a Síndrome de Williams. A mãe usou droga durante a gravidez e ele tem algumas características da Sinrome. O que posso fazer para tirar essa dúvida?\nMeu TCC da faculdade é sobre essa síndrome, como posso obter maiores informações? Obrigada."
+    approved: true
+    created_at: '2007-09-15 00:00:00'
+    updated_at: '2007-09-15 00:00:00'
+  Guestbook_818:
+    name: 'Bruno Vogas lomba Tavares'
+    email: brunovogas@cardiol.br
+    city: petrópolis
+    state: RJ
+    country: brasil
+    comment: "Informo à comunidade de sd de williams que o meu irmão Mateus, portador da síndrome , com 28 anos, formou-se no ensino fundamental.Vale a pena nunca desistir!\n\n"
+    approved: true
+    created_at: '2007-09-17 00:00:00'
+    updated_at: '2007-09-17 00:00:00'
+  Guestbook_819:
+    name: 'Rogéria Signoreli'
+    email: regersignorele@yahoo.com.br
+    city: Ituiutaba
+    state: MG
+    country: Brasil
+    comment: 'Tenho um filho Victor de 16 anos portador de SW , estou iniciando um tratamento dentário com ele para correção , onde estamos perdidos, eu e o profissional. Por favor gostaria que alguém que passou por esta experiência entrasse em contato comigo.  '
+    approved: true
+    created_at: '2007-09-29 00:00:00'
+    updated_at: '2007-09-29 00:00:00'
+  Guestbook_820:
+    name: 'Márcia Pinheiro'
+    email: marciapinheiro@oi.com.br
+    city: 'Rio de Janeiro'
+    state: RJ
+    country: Brasil
+    comment: 'Tenho uma amigo que tem um filho com SW. Até conhecer esse amigo, não sabia que existia essa síndrome. Logo que ele me contou, procurei me informar sobre o assunto. Adorei o site, muito explicativo. Parabéns pelo trabalho de vcs, e que Deus abençoe a todos...'
+    approved: true
+    created_at: '2007-10-04 00:00:00'
+    updated_at: '2007-10-04 00:00:00'
+  Guestbook_821:
+    name: 'leonardo silva'
+    email: leogihost@gmail.com
+    city: '19'
+    state: MG
+    country: Brasil
+    comment: "Olá, adorei o seu site e gostaria de deixar este recado!\n\nAbraços,\n\nLeo"
+    approved: true
+    created_at: '2007-01-31 00:00:00'
+    updated_at: '2007-01-31 00:00:00'
+  Guestbook_822:
+    name: 'Edma cristina'
+    email: edmaceretti@terra.com.br
+    city: pompéia
+    state: SP
+    country: Brasil
+    comment: 'também tenho um filho de 15anos com sw e gostaria de trocar experiencias com outros pais.'
+    approved: true
+    created_at: '2007-08-22 00:00:00'
+    updated_at: '2007-08-22 00:00:00'
+  Guestbook_823:
+    name: 'Ana Maria Schneider'
+    email: ana.mqs@hotmail.com
+    city: Vitória
+    state: ES
+    country: Brasil
+    comment: 'Estamos fundando aqui em Vitória, ES, o nosso núcleo de pais/pessoas portadoras de SW. Todos os que conhecerem portadores e familiares, entrem em contato conosco para fazermos o cadastro das famílias aqui do estado. '
+    approved: true
+    created_at: '2007-09-02 00:00:00'
+    updated_at: '2007-09-02 00:00:00'
+  Guestbook_824:
+    name: 'Ana Elizabeth'
+    email: anaelizabeth@terra.com.br
+    city: Paranaguá
+    state: PR
+    country: Brasil
+    comment: "Trabalho em um hospital Infantil &quot;Dr Antonio Fontes&quot; é um hospital publico estadual e tive oportunidade de conhecer um paciente com esta sindrome de Willians e atraves deste espaço confirmaram-se as suspeitas ... esta criança está iniciando o seu caminho para tratamento... embora no hospital em que trabalho não exista recursos, teremos que transferi-lo p/ um grande centro (Curitiba).\nGostaria muito que todas as pessoas soubessem da existencia de sindromes como esta , principalmente os profissionais da area pois es~ta criança vem sofrendo o jogo da empurroterapia a 4 meses e somente hj encontrou uma médica que estava iluminada para descobrir que era esta sindrome...\nDesejo agradecer vcs por terem criado esta pagina que esclarece muito de uma forma bem clara e simples todos os pormenores ...\nMuito obrigada e Parabéns pela humanidade..."
+    approved: true
+    created_at: '2007-01-25 00:00:00'
+    updated_at: '2007-01-25 00:00:00'
+  Guestbook_825:
+    name: 'Associacão Brasileira de Síndrome de Williams'
+    email: swbrasil@swbrasil.org.br
+    city: 'São paulo'
+    state: SP
+    country: Brasil
+    comment: ' Convidamos à todos para participarem da Cerimônia de entrega do Titulo Cidadã Brasileira para nossa Diretora Jö Nunes,no dia 06 de marco de 2007,âs 19.00 horas, no Salão Nobre´Presidente Joao Brasil Vita,na Câmera Municipal de Sao Paulo,sito ao Viaduto Jacarei, 100.Bela Vista.'
+    approved: true
+    created_at: '2007-03-01 00:00:00'
+    updated_at: '2007-03-01 00:00:00'
+  Guestbook_826:
+    name: 'José Antunes'
+    email: jpaantunes@hotmail.com
+    city: Sintra
+    state: SP
+    country: Portugal
+    comment: "Olá a todos eu sou pai do Tiago Antunes, que tem 18 anos e é portador da Sindrome de Williams.\nQuero dar os parabens á vossa Associação porque no meu entender prestam um otimo serviço em Portugal Obrigado "
+    approved: true
+    created_at: '2007-07-21 00:00:00'
+    updated_at: '2007-07-21 00:00:00'
+  Guestbook_827:
+    name: 'nivia sampaio'
+    email: niviamusic5@hotmail.com
+    city: jacobina
+    state: BA
+    country: brasil
+    comment: "oi a todos!\nsou irmã de Betania.\nela é portadora da deficiência.\ngostaria muito de trocr experiências\ncom familiares de portadores da mesma!\nmeu endereço de msn é: niviamusic5@hotmail.com\ngrata pela atenção!"
+    approved: true
+    created_at: '2007-08-01 00:00:00'
+    updated_at: '2007-08-01 00:00:00'
+  Guestbook_828:
+    name: 'Lucia Cristina de Oliveira Schall'
+    email: lucia.schall@hotmail.com
+    city: Caieiras
+    state: SP
+    country: Brasil
+    comment: 'Gostaria de trocar experiencias com pessoas que também possuam filhos adolescentes como o meu. Desde já agradeço Lúcia'
+    approved: true
+    created_at: '2007-08-03 00:00:00'
+    updated_at: '2007-08-03 00:00:00'
+  Guestbook_829:
+    name: 'Associação Brasileira de Síndrome de Williams'
+    email: swbrasil@swbrasil.org.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: "				\n						\nPROJETO TALENTOS ESPECIAIS. PARTICIPE!\n\n\n\n\nA Apabb ? SP e Associação Brasileira de Síndrome de Willians (ABSW), em parceria com a Secretaria da Cultura, convidam a todos para participar das oficinas culturais do Projeto Talentos Especiais. As oficinas, de dança e artes plásticas, são direcionadas às pessoas com deficiência e acontecem entre os meses de março e junho, semanalmente e com duas horas de duração.\n\nDatas e horários\nOficina de Artes Plásticas:\nTodas às sextas-feiras das 15h00 às 17h00, com início no dia 02/03/07.\nVagas: 12 pessoas\n\nOficina de Dança:\nTodas às quartas-feiras das 14h00 às 16h00, com início no dia 07/03/07.\nVagas: 8 pessoas\n\nLocal\nABSW ? Rua Engenheiro Andrade Junior, 229 - Belém.\n\nInscrições\nApabb-SP ? (11) 3491-4143/4145/4146. Falar com Fabiana, Veronica ou Silvani.\nABSW ? (11) 6291-2957. Falar com Beth.\n\n\n\n\nInscrições gratuitas. Vagas limitadas.\nPrazo até 23 de fevereiro de 2007\n\n\n\n\n\n \n\n\n \nAssociação de Pais , Amigos  e Pessoas com Deficiência,\nde Funcionários do Banco do Brasil e da Comunidade\n\n\n\n				\n						\nPROJETO TALENTOS ESPECIAIS. PARTICIPE!\n\n\n\n\nA Apabb ? SP e Associação Brasileira de Síndrome de Willians (ABSW), em parceria com a Secretaria da Cultura, convidam a todos para participar das oficinas culturais do Projeto Talentos Especiais. As oficinas, de dança e artes plásticas, são direcionadas às pessoas com deficiência e acontecem entre os meses de março e junho, semanalmente e com duas horas de duração.\n\nDatas e horários\nOficina de Artes Plásticas:\nTodas às sextas-feiras das 15h00 às 17h00, com início no dia 02/03/07.\nVagas: 12 pessoas\n\nOficina de Dança:\nTodas às quartas-feiras das 14h00 às 16h00, com início no dia 07/03/07.\nVagas: 8 pessoas\n\nLocal\nABSW ? Rua Engenheiro Andrade Junior, 229 - Belém.\n\nInscrições\nApabb-SP ? (11) 3491-4143/4145/4146. Falar com Fabiana, Veronica ou Silvani.\nABSW ? (11) 6291-2957. Falar com Beth.\n\n\n\n\nInscrições gratuitas. Vagas limitadas.\nPrazo até 23 de fevereiro de 2007\n\n\n\n\n\n \n\n\n \nAssociação de Pais , Amigos  e Pessoas com Deficiência,\nde Funcionários do Banco do Brasil e da Comunidade\n\n\n\n"
+    approved: true
+    created_at: '2007-02-14 00:00:00'
+    updated_at: '2007-02-14 00:00:00'
+  Guestbook_830:
+    name: 'ASSOCIAÇÃO BRASILEIRA DE SÍNDROME DE WILLIAMS'
+    email: swbrasil@swbrasil.org.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: "		\n \nAssociação de Pais , Amigos  e Pessoas com Deficiência,\nde Funcionários do Banco do Brasil e da Comunidade\n\n\nPROJETO TALENTOS ESPECIAIS \n\nFicha de Inscrição - N° ____ - Data: ___Fev. 07\n\n\nNome do aluno: _________________________________________________________\n\nIdade: _____anos Diagnóstico: _____________________________________________\n\nR.G.: ___________________ CPF: ____________________ Apabb ? SP (  )  ABSW (  )\n\nNome do responsável: ____________________________________________________\n\nEndereço: ___________________________________  Bairro: ____________________\n\nTelefone: res.:_________________, cel.: _________________, outro: _____________\n\ne-mail: ____________________ R.G.: __________________CPF: _________________\n\nPERGUNTAS\n\n1-Participa de alguma atividade? (  )Sim (  )Não Qual? __________________________\n            ______________________________________________________________________\n\n______________________________________________________________________\n\n2-Realiza alguma terapia? (  )Sim  (  )Não  Qual? _______________________________ \n\n__________________________________________________________________________________\n\n__________________________________________________________________________________\n\n\n3-Tem interesse em alguma outra atividade? (  )Sim  (  )Não  Qual? ________________\n\n______________________________________________________________________\n\n4-Gostaria de receber informes sobre atividades de esporte e lazer? (  )Sim (  )Não\n\n5-Quer participar de um passeio cuja proposta é educação ambiental? (  )Sim (  )Não\n"
+    approved: true
+    created_at: '2007-02-14 00:00:00'
+    updated_at: '2007-02-14 00:00:00'
+  Guestbook_831:
+    name: 'lu haramura'
+    email: luharamura@hotmail.com
+    city: 'sao paulo'
+    state: SP
+    country: brasil
+    comment: 'Ontem tive o enorme prazer de conhecer a Jessica, portadora da SW e sua mae muito guerreira , nunca tinha ouvido falar nessa sindrome mas ja conheci pessoas q tinham e nem imaginava oq poderia ser , agora estou ciente doq é...parabens Jessica e Jo'
+    approved: true
+    created_at: '2007-11-01 00:00:00'
+    updated_at: '2007-11-01 00:00:00'
+  Guestbook_832:
+    name: 'Leandra Migotto Certeza'
+    email: inclusaosocial@yahoo.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Querida e amada Jô e companheiros da ABSW, amo muito todos vocês! O site é lindo e extremamente útil. Caso ainda não tenham jornalista para cobrir o encontro voluntariamente, eu vou fazer o possível para me organizar, mas preciso de carona para ir e voltar. O que acham? Só posso confirmar uma semana antes porque estou fazendo fisio e tenho fortes dores nas costas. Entrem em contato. Abraços, Lê  '
+    approved: true
+    created_at: '2007-10-18 00:00:00'
+    updated_at: '2007-10-18 00:00:00'
+  Guestbook_833:
+    name: 'Sabrina Araújo'
+    email: witchmetal@gmail.com
+    city: pelotas
+    state: RS
+    country: Brasil
+    comment: 'Sou aluna do curso normal, habilitação em séries iniciais.. não conhecia nada sobre SW até uma colega de curso me mostrar um trabalho feito por ela sobre a sindrome.. me interessei muito e procurei por sites que pudessem me informar mais.. me preocupo se é possivel alguma criança passar pelas séries iniciais e professores não estarem preparados para lidar..gostaria se possivel mais informações. muito obrigada'
+    approved: true
+    created_at: '2007-11-25 00:00:00'
+    updated_at: '2007-11-25 00:00:00'
+  Guestbook_834:
+    name: 'Dolores Ricci'
+    email: dolores.imaculada@superig.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: 'Sou professora no ensino fundamental, e atualmente, cursando Pós em Educação Especial em DM e DA, meu TCC é sobre a Síndrome de Willias, e a importância do ensino musical para os portadores NEE com esta Síndrome.Gostaria de saber se posso fazer-lhes uma visita?   Abraços.... '
+    approved: true
+    created_at: '2007-12-13 00:00:00'
+    updated_at: '2007-12-13 00:00:00'
+  Guestbook_835:
+    name: 'maria elizabeth cêa godinho'
+    email: bethceagodinho@hotmail.com
+    city: 'iguaba grande'
+    state: RJ
+    country: brasil
+    comment: 'Sou maria elizabeth. estou cursando o 6° período do curso de pedagogia na faculdade cenecista de itaboraí-rj. Estou elaborando a minha monografia que é sobre o assunto &quot;Déficit de Atenção e Hiperatividade. tenho lido e conhecido, talves, um pouco mais sobre asexperiências vividas por portadores desta síndrome. No momento a minha pesquisa é sobre &quot;A importância da vida socila para os portadores do TDAH&quot;. será que existem mais alguns artigos sobre esta importância? Parabéns a todos os que aprendem a lidar e viver com está síndrome. '
+    approved: true
+    created_at: '2007-12-21 00:00:00'
+    updated_at: '2007-12-21 00:00:00'
+  Guestbook_836:
+    name: 'ADRIANA REGINA DE PAIVA'
+    email: adriana.advocacia@hotmail.com
+    city: 'SÃO PAULO'
+    state: SP
+    country: BRASIL
+    comment: "Sou mãe do Matheus, portador da SWB. Desde que ele nasceu demonstrou alguns sinais de que algo não era como esperávamos.\nChorava muito, não dormia bem, o alimentavamos com conta gotas do rinosoro, pois ele não gostava de mastigar, engolir, e sempre rejeitava alimentos sólidos. \nTeve 22 bronco-pneumonias e 14 crises de otites. Começou a andar quando fez 18 meses e falou papai e mamãe quando fez 2 anos, pois até aí só soltava uns grunidinhos. \nSempre questionei o quadro c´línico dele, mudei diversas vezes de pediatra. \nEm 2006, descobrimos que ele tinha uma estenose na Aorta, e a partir daí, os próprios cardiologistas nos deram sinal de que ele tinha a SWB.\nFoi encaminhado à APAE e hoje faz, terapias ocupacionais, tratamento fonoaudiológico e psicológico.\nVai fazer uma cirurgia para a correção da estenose no Incor.\n\nBusco informações e todos os meios de ajuda para meu filho. Ele é uma criança inteligente, extremamente amigavel, e o amor da minha vida, agradeço a Deus por ter me dado o Matheus e farei tudo o que puder para ajudar meu filho para que ele seja um cidadão bom, justo e honesto, que tenha muito amor em seu coração e que possa desenvolver qualquer profissão quando estiver adulto.\nQuero trocar informações sobre essa sindrome e o que posso fazer para auxiliá-lo nesta jornada.\n\n\nAdriana Paiva"
+    approved: true
+    created_at: '2008-01-27 00:00:00'
+    updated_at: '2008-01-27 00:00:00'
+  Guestbook_837:
+    name: 'Priscila Piza'
+    email: priscilapiza@gmail.com
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: "Boa Tarde!\n\nSou de SP, tenho 27 anos e tenho uma grande amiga de 13 anos q possui a SW, não sabíamos qual era a síndrome, porém sabíamos que havia alguma coisa, as características são realmente marcantes e fiquei emocionada com os depoimentos, porém a Jesiane, mora em uma praia isolada oa sul da Ilha Bela, Praia do Bonete, onde seus pais não tiverem instruções o suficiente para tratar do modo que realmente deve ser feito.\nEla é uma garota Feliz, Companheira, Simpática e Muito, muito amiga, eu a conheço desde bem pequeninha, infeçizmente não sei como alertar seus pais para o problema, mas gostaria muito de poder ajudar. Sempre que vou para lá, fico em sua casa, temnho uma verdadeira amizxade pela sua família, quem sabe não irei na Páscoa e levo toda a reportagem e tento explicar sobre a SW e tento convencê-los de levá-la a APAE em São Sebastião...\nObrigada, que Deus abençõe a todos e continuem com esse trabalho maravilhoso que vc fazem!\nPriscila\nSP"
+    approved: true
+    created_at: '2007-04-02 00:00:00'
+    updated_at: '2007-04-02 00:00:00'
+  Guestbook_838:
+    name: Andréa
+    email: averzignassi@yahoo.com.br
+    city: Americana
+    state: SP
+    country: Brasil
+    comment: 'Boa noite! Meu filho de 11 anos  é portador da sindrome de williams, ele foi ao dentista e o dentista disse que ele tem caries nas pontas dos dentes do fundo ele disse que isso não é comum, gostaria de saber se alguém de vocês que tem filhos com esta sindrome poderia me ajudar a saber se é comum em crianças sw, deste já agradeço. Tenham todos uma ótima noite .'
+    approved: true
+    created_at: '2007-04-12 00:00:00'
+    updated_at: '2007-04-12 00:00:00'
+  Guestbook_839:
+    name: 'Eduardo Vieira Guimarães'
+    email: joelmaranha@hotmail.com
+    city: Ubiratã
+    state: PR
+    country: Brasil
+    comment: "Tenho 13 anos, sou portador da Síndrome de Willians, e gostaria de fazer amizades com pessoas portadores desta síndrome. Estou cursando a 5ª Série.\n"
+    approved: true
+    created_at: '2007-06-13 00:00:00'
+    updated_at: '2007-06-13 00:00:00'
+  Guestbook_840:
+    name: 'MAGNOLIA FRANCISCA DA SILVA'
+    email: magnolia1374@itelefonica.com.br
+    city: bebedouro
+    state: SP
+    country: Brasil
+    comment: 'meu filho esta com 13anos atualmente e uma crianca amavel gosta de tocar caixa de percu~cao toca em todos os desfiles comemorativos da nossa cidade hoje e ontem foram a cravinhos e ganharam em primeiro lugar o nome dele e Nicolas a todos os pais um grande abraco'
+    approved: true
+    created_at: '2007-06-15 00:00:00'
+    updated_at: '2007-06-15 00:00:00'
+  Guestbook_841:
+    name: fabiana
+    email: fabimel78@hotmail.com
+    city: florianópolis
+    state: SC
+    country: brasil
+    comment: "Sou mãe da Sabrina que completou 7 anos no dia 06 deste mês.Ela tem swb q foi diagnosticado qdo ela tinha 18 meses!Não conheço ninguém com a mesma simdrome,portanto gostaria de me comunicar com pessoas q tenham ou convivem com alguem com a mesma sindrome!!!\nAbraços!!!\nFabiana"
+    approved: true
+    created_at: '2008-02-09 00:00:00'
+    updated_at: '2008-02-09 00:00:00'
+  Guestbook_842:
+    name: 'Luciana Milcarek'
+    email: luenzo@ig.com.br
+    city: 'Pontal do Paraná'
+    state: PR
+    country: Brasil
+    comment: 'Leio e releio os comentários enviados, as características da doença,principalmente os cuidados, e cada vez me emociono mais. Deus tem sido magnífico no conduzir desta caminhada,colocando pessoas e profissionais formidáveis ao meu lado. O fato de atuar na educação tem me auxiliado bastante e facilitado certos procedimentos. Só quem se envolve e é envolvido por estas crianças encantadoras, passa a olhar e admirar a vida com outros olhos. Gostaria de estar em contato constante com todas as mamães,mas o tempo é curto...quando se tem um portador de SW o dia tem bem mais que 24 horas! mas deixo meu convite para visitarem : www.soufadoenzo.blogspot.com'
+    approved: true
+    created_at: '2008-03-10 00:00:00'
+    updated_at: '2008-03-10 00:00:00'
+  Guestbook_843:
+    name: 'Jose Luiz Valadares'
+    email: jlvaladares@ig.com.br
+    city: 'São Gonçalo'
+    state: RJ
+    country: Brasil
+    comment: 'Tenho uma filha ( 21 anos ), portadora da Sindrome de Padre Williams, gostaria de saber se no RJ tem alguma associação, desta Sindrome '
+    approved: true
+    created_at: '2008-03-20 00:00:00'
+    updated_at: '2008-03-20 00:00:00'
+  Guestbook_844:
+    name: 'Paulo Altair Soares'
+    email: pauloaltair@hotmail.com
+    city: 'Porto Alegre'
+    state: RS
+    country: Brasil
+    comment: 'Por intermédio de uma amiga tomei conhecimento da existência da SW. Tenho um sobrinho, Matheus, com 14 anos, que apresenta características que poderiam indicar ser portador de SW, porém, em diagnóstico pretérito, foi identificada a chamada Sídrome de Kabuki, que possui muitas características coincidentes com SW. Seria possível um esclarecimento? Parabéns pelo &quot;site&quot;, simples claro, objetivo e técnico e pela facilidade de entendimento do tema. Umabraço '
+    approved: true
+    created_at: '2008-03-25 00:00:00'
+    updated_at: '2008-03-25 00:00:00'
+  Guestbook_845:
+    name: 'FLAVIA VERONICA B. SILVA'
+    email: FLAVINHA_110374@HOTMAIL.COM
+    city: 'sao paulo'
+    state: SP
+    country: Brasil
+    comment: 'Sou tia de leonardo b.da silva,portador da sw foi uma surpresa pra toda familia pois nao sabiamos nada sobre,agora ja acostumamos e o leo e nosso tesouro alegra a todos,pena que a dias foi descriminado na escola a prof.falou que ele era doido,mas minha irma foi la e tirou tudo alimpo,isso e gente sem cultura.Espero poder me comunicar com todos vou deixar o tel do leonardo:3735-7040 sao paulo mae fabia'
+    approved: true
+    created_at: '2008-04-01 00:00:00'
+    updated_at: '2008-04-01 00:00:00'
+  Guestbook_846:
+    name: 'marcia regina p matos'
+    email: mpaivamatos@bol.com.br
+    city: 'rio de janeiro'
+    state: RJ
+    country: brasil
+    comment: 'boa noite, estou com a Eduarda no colo, minha neta, que tudo indica tem a sw, ela e linda, fofinha e grandona. amamos muito ela, ajudaremos no  que for preciso caso ela tenha algum problema. obrigado pelos esclarecimentos do site. voltarei a entrar em contato, caso se confirmem as nossas suapeitas depois dos  exames feitos no sarah.'
+    approved: true
+    created_at: '2008-04-20 00:00:00'
+    updated_at: '2008-04-20 00:00:00'
+  Guestbook_847:
+    name: 'Viviane Kummer'
+    email: vivianekummer@hotmail.com
+    city: Turvo
+    state: PR
+    country: Brasil
+    comment: 'Olá! Estou fazendo um curso de AEE e, através dele, tomei conhecimento desta s&amp;#324;drome, até então desconhecida por mim. Como tínhamos uma pesquisa sobre o tema, encontrei este site, o qual recomendei aos meus colegas. Parabéns pela organização do site e a todos os envolvidos, principalmente os familiares das crianças.'
+    approved: true
+    created_at: '2008-04-28 00:00:00'
+    updated_at: '2008-04-28 00:00:00'
+  Guestbook_848:
+    name: 'Aana Cristina'
+    email: cristina_tpimenta@yaho.com.br
+    city: Maués
+    state: AM
+    country: Brasil
+    comment: 'É supreendente todas as informações contidas neste site, pois elas estão me ajudando na realização de trabalhaos de um curso de inclusão que estou participando. Fiquei encantada ao ler as notícias e relatos de casos de SW, pois o site está me proporcionando um conhecimento maior sobre o tema. Parabéns pela estrutura e organização do site!!!'
+    approved: true
+    created_at: '2008-04-28 00:00:00'
+    updated_at: '2008-04-28 00:00:00'
+  Guestbook_849:
+    name: 'Isabel Cristina Canhameiro Oliveira'
+    email: ohliver44@gmail.com
+    city: Penápolis
+    state: SP
+    country: Brasil
+    comment: 'Parabéns pelo site, estou fazendo um curso inclusão on-line e fiquei surpresa com o material riquissimo  sobre essa sindrome.Aos organizadores dessa pagina o meu muito obrigada pela orientação e colaboração no meu trabalho.'
+    approved: true
+    created_at: '2008-05-02 00:00:00'
+    updated_at: '2008-05-02 00:00:00'
+  Guestbook_850:
+    name: 'Aldelicia Pereira de Sousa Silva'
+    email: al_delicia@hotmail.com
+    city: Wanderlândia
+    state: TO
+    country: Brasil
+    comment: 'Olá, meu nome é Aldelícia sou professora graduada em pedagogia, sou mãe de DM,quero parabenizar pelas informações contidas neste site, no momento estou cursando o curso de AEE e gostei das informações sobre Síndrome de Williams, que até então não tinha nenhum conhecimento, pois as mesmas estão sendo muito úteis à minha pesquisa.'
+    approved: true
+    created_at: '2008-05-02 00:00:00'
+    updated_at: '2008-05-02 00:00:00'
+  Guestbook_851:
+    name: 'Luzivalda Oliveira da Silva'
+    email: luzi_val@hotmail.com
+    city: Araguaína
+    state: TO
+    country: Brasil
+    comment: 'Ola! Eestou fazendo um curso AEEe atravez dele tomei mais conhecimento sobre Sindrome de William, pois já tinha lido sobre SW mais muito pouco;Voçês estão de PARABÉNS!!!!pela organização do site, isto sim e que e uma inclusão....'
+    approved: true
+    created_at: '2008-05-04 00:00:00'
+    updated_at: '2008-05-04 00:00:00'
+  Guestbook_852:
+    name: 'Nilse A C. Bicudo'
+    email: nilsebik@hotmail.com
+    city: Maringá
+    state: PR
+    country: Brasil
+    comment: "Olá! Estou fazendo um curso a distância, o AEE e gostei muito desse site.\nParabéns a todos os envolvidos"
+    approved: true
+    created_at: '2008-05-04 00:00:00'
+    updated_at: '2008-05-04 00:00:00'
+  Guestbook_853:
+    name: Giani
+    email: gwvargas@brturbo.com.br
+    city: 'Caxias do Sul'
+    state: RS
+    country: Brasil
+    comment: 'Sou´professora de uma escola especial e nesse ano recebi uma aluna com a Síndrome, para que eu possa auxiliá-la em seu desenvolvimento procurei e encontrei essa riqueza que o site de vocês. Parabéns estou aprendendo muito.'
+    approved: true
+    created_at: '2008-05-04 00:00:00'
+    updated_at: '2008-05-04 00:00:00'
+  Guestbook_854:
+    name: 'Gercina Nogueira da Silva Oliveira'
+    email: gercinans@brturbo.com.br
+    city: Araguaina
+    state: TO
+    country: Brasil
+    comment: 'Olá! Sou Gercina e nesse ano comecei a trabalhar numa Sala (de Recursos) Multifuncional. Estou fazendo o curso de AEE e tenho aprendido muito. Até então não conhecia a SW. Este site é muito bom e me trouxe informações sobre esta sindrome que estamos estudando atualmente. Agora que conheço o site estarei acessando para obter mais informações.'
+    approved: true
+    created_at: '2008-05-06 00:00:00'
+    updated_at: '2008-05-06 00:00:00'
+  Guestbook_855:
+    name: 'Conceição Dias'
+    email: diasoeiras@hotmail.com
+    city: Teresina
+    state: PI
+    country: Brasil
+    comment: "Adorei ter conhecido este site, estou estudando  esta S.W no curso de AEE, peço que quem tiver algo sobre a SW no tocante a prendizagem me envie.\nBeijos!!!!!"
+    approved: true
+    created_at: '2008-05-07 00:00:00'
+    updated_at: '2008-05-07 00:00:00'
+  Guestbook_856:
+    name: 'magna santos'
+    email: magnacruz@yahoo.com.br
+    city: 'São Paulo'
+    state: SP
+    country: brasil
+    comment: "estou enviando meu novo email para contatos\n\nbjos\n"
+    approved: true
+    created_at: '2008-05-08 00:00:00'
+    updated_at: '2008-05-08 00:00:00'
+  Guestbook_857:
+    name: Vaine
+    email: vaineandreguete@brturbo.com.br
+    city: 'Caxias do Sul'
+    state: RS
+    country: Brasil
+    comment: 'Recomendo a leitura de um artigo na revista Mente e Cérebro de maio e está também no site www.menteecerebro.com.br &quot;Estrela do Universo Williams&quot;'
+    approved: true
+    created_at: '2008-05-13 00:00:00'
+    updated_at: '2008-05-13 00:00:00'
+  Guestbook_858:
+    name: 'isabel cristina'
+    email: aguia1331@hotmail.com
+    city: 'são luis'
+    state: MA
+    country: brasil
+    comment: "meu nome é isabel tenho 41 anos e tenho uma filha de 4 meses q nasceu com sd mais ele é linda. estou com uma certa dificuldade em conseguir o seu beneficio q ele tem por direito, só pq  tenho carteira assinada,será q podemos sustentar uma criança com o salário q este país nos propociona. pois preciso pagar um planop de saude a ela e outras coisa. o q eles tem q entender q o bebeficio é dela e não meu para me sustenta.\nespero q vcs me ajudem no q fazer."
+    approved: true
+    created_at: '2008-05-13 00:00:00'
+    updated_at: '2008-05-13 00:00:00'
+  Guestbook_859:
+    name: Samira
+    email: bia_online@yahoo.com.br
+    city: Goiânia
+    state: GO
+    country: Brasil
+    comment: 'Olá! Meu nome é Samira, tenho 24 anos e sou professora de Matemática. Ainda não tive nenhum aluno com sw, mas tenho um priminho lindo, o Igor, portador da síndrome. Tomei conhecimento do site em uma revista e achei fantástico! Como é uma síndrome pouco conhecida, a família estava atrás de informações. Pena não encontrarmos muitos profissionais cadastrados em nosso estado, mas já foi de grande valia. Parabéns aos idealizadores!'
+    approved: true
+    created_at: '2008-05-24 00:00:00'
+    updated_at: '2008-05-24 00:00:00'
+  Guestbook_860:
+    name: 'THAMIRES XAVIER'
+    email: thamiresxavier@hotmail.com
+    city: 'belho horizonte'
+    state: MG
+    country: brasil
+    comment: 'BOM SOU ESTUDANTE DO PRIMEIRO PERIODO DE FONOAUDIOLOGIA E ESTOU A PREPARAR UM TRABALHO SOBRE A SÍNDROME DE WILLIAMS, NA QUAL NÃO TINHA CONHECIMENTO MAS ESTOU CONHECENDO AGORA E AMANDO.'
+    approved: true
+    created_at: '2008-06-02 00:00:00'
+    updated_at: '2008-06-02 00:00:00'
+  Guestbook_861:
+    name: 'fatima dias'
+    email: m_f_dias@hotmail.com
+    city: setubal
+    state: OE
+    country: portugal
+    comment: 'olá, chamo-me fatima e ontem foi diagnosticado k minha sobrinha de 2 anos tem o sindrome de wilians, ainda estamos todos em estado de xoke. gostava k pais de crianças k sofram do mesmo problema entarsem em contacto cmg para podermos tirar duvidas e nos ajudar mutuamente, se tiver alguem de portugal era muito importante. obg'
+    approved: true
+    created_at: '2008-06-03 00:00:00'
+    updated_at: '2008-06-03 00:00:00'
+  Guestbook_862:
+    name: 'Camila Robert'
+    email: camila_robert@hotmail.com
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: "Olá, recentemente tivemos a suspeita de que nossa sobrinha tem a sw . gostaria de saber se esse exame é de fácil diagnóstico pq parece que há uma certa dificuldade dos laboratórios diagnosticarem com precisão. Quem puder nos orientar comentando como vcs procederam até ter a real comprovação agradeço, pq realmente ela tem todas as características dessa síndrome, além do neurologista temos de procurar outro médico? chegaram a indicar um geneticista isso é correto? Com vcs teve de ser assim também? vcs tiveram de recorrer a um especialista desse tipo?\nAgradeço as respostas..\nUm abraço a todos."
+    approved: true
+    created_at: '2008-06-05 00:00:00'
+    updated_at: '2008-06-05 00:00:00'
+  Guestbook_863:
+    name: 'alceu silverio de moraes'
+    email: moraesalceu@yahoo.com.br
+    city: 'campo grande'
+    state: MS
+    country: brasil
+    comment: 'Olá!, meu nome e alceu tenho 46 anos, minha esposa e lucinete de 30 anos, temos um filhote de 05 anos com sw, ele esta numa escola normal, ele e lindo, carinhoso e o xodo aqui em casa, na escola, nos consultórios medidos e ai vai, ele e ipertenso, toma 2 medicamentos captopril(manipulado) e adalat ret, e 1 calcio. ele não come doce, biscoitos, chocolates, e muito ruim para comer, por isso a dificuldade em ganhar peso, ele hoje esta pesando 17kg, ele tem o acompanhamento, do Nefro, Cardiologista, Pediatra, Geneticista, Endocrinologista e Psicopedagoga, por enquanto e isso. um abraço a todos e que Deus abençoe vcs.'
+    approved: true
+    created_at: '2008-06-09 00:00:00'
+    updated_at: '2008-06-09 00:00:00'
+  Guestbook_864:
+    name: 'Ângela  Torres'
+    email: angel2torres@gmail.com
+    city: 'Campo do Meio'
+    state: MG
+    country: Brasil
+    comment: 'Sou Professora e estou cursando um programa de capacitação relacionado à deficiências; Inclusão Escolar. Já passei pelo Módulo PS (Pessoa com Surdez) e agora estamos na DM (Deficiência Mental). O Primeiro tema abordado foi a SW. Até então tudo muito desconhecido para mim. Não sei porque, mas me chamou muita atenção e me despertou um enorme interesse por aprender e conhecer mais. Desejo a todos que convivem com isso de perto, muita sorte e mta dedicação. Abraços!!!!'
+    approved: true
+    created_at: '2008-06-10 00:00:00'
+    updated_at: '2008-06-10 00:00:00'
+  Guestbook_865:
+    name: 'Sirlene Maria Morais '
+    email: sirlene.laysa@yahoo.com.br
+    city: 'Jaraguá do Sul'
+    state: SC
+    country: Brasil
+    comment: "Sou mãe de uma criança maravilhosa que tem a S. W. , ela tem 5 anos  e é muito esperta, carinhosa e muito amada por todos que a rodeiam. Fico muito feliz em saber que todos nós fomos abençoados por DEUS em ter recebido esses seres especiais, porém muito capazes...\nQuero sempre que  nos correspondemos e trocamos  experiências para que juntos possamos dividirmos nossas alegrias e tristezas...\nBeijos da Sirlene e de sua filha Laysa, amor de sua vida "
+    approved: true
+    created_at: '2008-06-30 00:00:00'
+    updated_at: '2008-06-30 00:00:00'
+  Guestbook_866:
+    name: 'Rosangela Eugenia Gonçalves Nascimento '
+    email: rosangela_eugenia@hotmail.com
+    city: 'São Paulo '
+    state: SP
+    country: Brazuca
+    comment: 'Mais uma vez venho aqui, depositar mais do que um depoimento, parabenizar o trabalho de vocês que vem ao longo dos anos ganhando força, respeito e seriedade. Parabéns Jô uma referência de lutadora, mulher e mãe sempre na defesa das pessoas e crianças que precisam de uma voz e da bandeira hasteada da SW.   '
+    approved: true
+    created_at: '2008-07-17 00:00:00'
+    updated_at: '2008-07-17 00:00:00'
+  Guestbook_867:
+    name: Jaislene
+    email: jaislenemateus21@yahoo.com.br
+    city: Santos
+    state: SP
+    country: Brasil
+    comment: "oi meu nome é Jaislene e estou no 4º ano de fisioterapia e pretendo fazer meu tcc sobre a Sd. de Williams,qm puder trocar informações comigo sobre alterações musculares ou posturais eu agradecerei muito...\nparabens pelo site é maravilhoso me ajudou muito!!!"
+    approved: true
+    created_at: '2008-07-17 00:00:00'
+    updated_at: '2008-07-17 00:00:00'
+  Guestbook_868:
+    name: 'Karina G Costa'
+    email: karinagcosta@hotmail.com
+    city: 'saõ paulo'
+    state: SP
+    country: Brasil
+    comment: 'Tenho uma filha com essa sindrome e gostaria de ter informações sobre qualquer novidade..obrigado'
+    approved: true
+    created_at: '2008-07-30 00:00:00'
+    updated_at: '2008-07-30 00:00:00'
+  Guestbook_869:
+    name: 'Paulo Paiva'
+    email: paulloluizzz@hotmail.com
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: "tenho uma afilhada que tem esta sindrome , minha comadre ela tem 19 anos e a filha dela tem 1 e meio, nois nao temos muitasinformaçao,\ngostaria de pedir mais informaçoes, praticamente nois nao sabemos muito oque fazer.\nentao pr mae, pais em fim quem tem pessoas na familia ou conhece e pode passar essa informaçao pr nois eu iria gradecer muito...\napesar de tudo eu ja estou muito agradecido por tudo..."
+    approved: true
+    created_at: '2008-08-03 00:00:00'
+    updated_at: '2008-08-03 00:00:00'
+  Guestbook_870:
+    name: Aparecida
+    email: cida_h@yahoo.com.br
+    city: 'Várzea Paulista'
+    state: SP
+    country: Brasil
+    comment: 'Conheço um jovem que tem essa síndrome,ontem ele fez 18 anos,filho de uma grande amiga,amamos ele demais,é um presente de Deus para nós,ele estava muito feliz no seu niver.Deus abençoe a todos'
+    approved: true
+    created_at: '2008-08-03 00:00:00'
+    updated_at: '2008-08-03 00:00:00'
+  Guestbook_871:
+    name: cleide
+    email: 'cleide.cristina.kekajhoryhotma@gmail.com... '
+    city: 'santa luzia'
+    state: MG
+    country: brasil
+    comment: 'estou encantada com otrablho de voces parabens tenho um sobrinho com a sw e acreditem eles sao um presente de deus carinhosos omarcelo e tudo para nos adora snfona nimguem sabe de onde ele tirou isto .'
+    approved: true
+    created_at: '2008-08-09 00:00:00'
+    updated_at: '2008-08-09 00:00:00'
+  Guestbook_872:
+    name: 'marcos rouge'
+    email: marcosrouge@bol.com.br
+    city: 'sao gonçalo'
+    state: RJ
+    country: brasil
+    comment: 'Gostaria de dizer que fiquei mt emocionado com os relatos dos pais e dos portadores da sindrome. Tenho 40 anos e nunca havia ouvido falar. Só fiquei sabendo devido a um contato que eu tive na APAE de Sg. Que Deus abençoe vcs e parabens pelo excelente trabalho, pois o site é otimo.'
+    approved: true
+    created_at: '2008-08-21 00:00:00'
+    updated_at: '2008-08-21 00:00:00'
+  Guestbook_873:
+    name: 'rogerio mendes'
+    email: mendesferreira.rogerio@gmail.com
+    city: 'stª.Mªda boa vista'
+    state: PE
+    country: brasil
+    comment: "Sou professor da escola pública, e estou fazendo o curso de AEE.\nFiquei muito feliz em encontrar esse site, que bom que existe pessoas como vcs preocupadas com o próximo."
+    approved: true
+    created_at: '2008-08-22 00:00:00'
+    updated_at: '2008-08-22 00:00:00'
+  Guestbook_874:
+    name: 'Denise Chueke'
+    email: deni.ch@ibest.com.br
+    city: RJ
+    state: RJ
+    country: Brasil
+    comment: "Parabenizoeste site quenão deve nada aos internacionais,ealémdetudoveio ajudar aos familiares,pais eprofssores comoprofissionais, sobre a SW,que é desconhecida por inúmerosprofissionais.\nEu a29anos fiquei na chuva,e os poucos achados que me davam eram em inglês,técnico.\nFui criando a minha filhapor instinto,ehojeficofelizemencontrar esta Associação. Deus dê muitas alegrias para todosque colaboram ,em fazerum futuropróximo mais feliz edignos para estas pessoasmaravilhosas.\nCarinhosamente,Denise Chueke"
+    approved: true
+    created_at: '2008-08-23 00:00:00'
+    updated_at: '2008-08-23 00:00:00'
+  Guestbook_875:
+    name: 'rosana botelho gonçalves ostermann'
+    email: rosanaostermann@ig.com.br
+    city: Pelotas
+    state: RS
+    country: Brasil
+    comment: 'Adorei este site, tem me ajudado muito a compreender a SW.As experiências relatadas são &quot;muito especiais&quot; e &quot;falam de qto a maior barreira é a interna,aquela colocada pelos próprios limites que nos impomos,ou não!&quot;Rosana '
+    approved: true
+    created_at: '2008-08-24 00:00:00'
+    updated_at: '2008-08-24 00:00:00'
+  Guestbook_876:
+    name: 'Fabiana Farah'
+    email: fabifarah@hotmail.com
+    city: Fortaleza
+    state: CE
+    country: Brasil
+    comment: "Estive a procura de informações sobre esta síndrome para tentar descobrir o diagnóstico de minha filha, hoje com 7 anos, com atraso neuro psico motor, mas ainda apenas com suspeita de paralisia cerebral. Sou fisioterapeuta, por isso a busca intermínável. Direcionamos o tratamento dela em cima de paralisia cerebral e com isso ela tem evoluido bem, mas acho que falta algo...\nalgumas características "
+    approved: true
+    created_at: '2008-08-25 00:00:00'
+    updated_at: '2008-08-25 00:00:00'
+  Guestbook_877:
+    name: janaina
+    email: janaina.canela@hotmail.com
+    city: 'canela '
+    state: RS
+    country: brasil
+    comment: 'achei esse site fantastico me esclareceu muitas duvidas ,tenho uma filhinha que apresenta sintomas  que eu ainda não sei de que sindrome possa ser ,mas achei muito esclarecedoras as informaçoes aqui contidas ,e adorei a história de relatos da menina Haila ela se parece com minha filhinha meus parabéns aos criadores do site.'
+    approved: true
+    created_at: '2008-08-31 00:00:00'
+    updated_at: '2008-08-31 00:00:00'
+  Guestbook_878:
+    name: 'jacques renard'
+    email: jacques.renard@redasco.be
+    city: brusselas
+    state: SP
+    country: belgica
+    comment: "tenho uma filha que se chama charlotte 20 anhos ela e sw  eufais uma viagem agora na brasil piri piri piaui. parabems por site sw brasil, visitar site da belgica \n\nwww.syndromedewilliams.be"
+    approved: true
+    created_at: '2008-09-09 00:00:00'
+    updated_at: '2008-09-09 00:00:00'
+  Guestbook_879:
+    name: 'ismenia ribeiro de araujo'
+    email: ismenia-araujo@bol.com.br
+    city: itapira
+    state: SP
+    country: brasil
+    comment: 'sou mãe de uma criança sw, hoje com 8 anos, tive muita dificuldade no inicio.hoje esta mais calmo, muito me alegro em saber da existencia deste site pois pude tira muitas duvidas.Deus abençoe a todos.'
+    approved: true
+    created_at: '2008-09-11 00:00:00'
+    updated_at: '2008-09-11 00:00:00'
+  Guestbook_880:
+    name: 'Andreia Maria'
+    email: deiapsicopedagoga@hotmail.com
+    city: 'Rio de Janeiro'
+    state: RJ
+    country: Brasil
+    comment: 'Sou Orientadora Educacional em uma escola situada no munícipio de Duque de Caxias/RJ e nessa Unidade Escolar a qual trabalho tem um aluno portador da Síndrome de Williams, mesmo com as suas limitações na coordenação motora percebo o seu progresso, é uma criança muito inteligente e crítica. Fiz a minha monografia sobre o assunto e hoje me sinto uma outra pessoa, pois aprendi muito com todos os envolvidos nessa luta em prol à inclusão. '
+    approved: true
+    created_at: '2008-09-15 00:00:00'
+    updated_at: '2008-09-15 00:00:00'
+  Guestbook_881:
+    name: 'Helbe Carvalho'
+    email: helbecarvalho@pop.com.br
+    city: Recife
+    state: PE
+    country: Brasil
+    comment: 'Parabéns pelo site. Sou avó de uma maravilhosa menina de 08 anos e estou pesquisando sobre dificuldades  de atenção e relacionamento em sala de aula,  achei este site muito esclarecedor, um verdadeiro alívio. Muito grata.'
+    approved: true
+    created_at: '2008-10-23 00:00:00'
+    updated_at: '2008-10-23 00:00:00'
+  Guestbook_882:
+    name: 'Norma Suely Veloso'
+    email: Normasuelyvelosoliveira2yahoo.com.br
+    city: 'João Pessoa'
+    state: PB
+    country: Brasil
+    comment: 'Adorei site,nos ajudará bastante.Gostaria de contato com pais que tem filhos portadores de sindrome de williams para troca de informações,principalmente os do estado da paraíba.Aguardo contato via email.'
+    approved: true
+    created_at: '2008-10-28 00:00:00'
+    updated_at: '2008-10-28 00:00:00'
+  Guestbook_883:
+    name: 'Ione Antonini'
+    email: ioneantonini@gmail.com
+    city: Formosa
+    state: GO
+    country: Brasil
+    comment: 'Sou professora do Governo do Distrito Federal e atuo com atendimento educacional especializado. Dediquei toda a minha carreira como professora aos portadores de necessidades educacionais especiais. Este website, muito mais que uma referência para a Sindrome de Williams, é um recanto de esperança e luta. Um abraço a todos.'
+    approved: true
+    created_at: '2008-10-30 00:00:00'
+    updated_at: '2008-10-30 00:00:00'
+  Guestbook_884:
+    name: 'SERGIO QUARESMA'
+    email: sergio_qua@hotmail.com
+    city: 'PERUIBE '
+    state: SP
+    country: BRASIL
+    comment: 'ESTOU MUITO FELIZ PORQUE ACABO DE DESCOBRIR OUTRAS PESSOAS COM CONHECIMENTO SOBRE SW.  TENHO UMA FILHA COM SW E ESPERO ESTAR SE COMUNICANDO COM OUTROS PAIS E PROFESSORES PARA ME APROFUNDAR NESTA QUESTÃO......  '
+    approved: true
+    created_at: '2008-11-04 00:00:00'
+    updated_at: '2008-11-04 00:00:00'
+  Guestbook_885:
+    name: janaina
+    email: janaina.canela@hotmail.com
+    city: canela
+    state: RS
+    country: brasil
+    comment: "\nolhei o video que a mãe da Haila  fez , sobre ela  e achei lindo ,da pra ver que ela ama  a filha de verdade , pois a gente sente a emoção  que ela colocou em cada foto escolhida para  a mensagem, meus parabéns por voçê ser essa super mãe..."
+    approved: true
+    created_at: '2008-11-29 00:00:00'
+    updated_at: '2008-11-29 00:00:00'
+  Guestbook_886:
+    name: Simone
+    email: 'si.simonix@hotmail.com '
+    city: 'Mogi das Cruzes'
+    state: SP
+    country: ''
+    comment: "Venho tendo dificuldades com minha filha na escola,ela tem 07 anos ,tem como provavel diagnóstico &quot; Sindróme de Willians&quot;,está passando por varios exames para até então... Queria poder me relacionar, corresponder por e-mail com alguma mãe que esteja relacionada ao grupo,ultimamente é o que mais tenho procurado é ajuda relacionada a esta deficiencia dela,ou me mandem e-mails de algumas mães com o mesma dificuldades,estou me sentido perdida,venho tendo acompanhamentos necessários de médicos especialista que me indicaram este site,mas a vida na escola é complicada pela falta de especialização pedagógica,desde de já agradeço retorno,uma mãe necessitando de ajuda,obrigada. Simone \n"
+    approved: true
+    created_at: '2009-04-09 00:00:00'
+    updated_at: '2009-04-09 00:00:00'
+  Guestbook_887:
+    name: 'Mila Santos'
+    email: mila_ssantos@hotmail.com
+    city: 'Minas Gerais'
+    state: MG
+    country: Brasil
+    comment: "conheci recentemente esse site pq minha filha foi diagnosticada sw. fico impressionada com os comentários...a felicidade que parecem sentir em ter um filho assim não é fácil, é duro, muito duro..parece que tudo é bonito, romantico, muitos dizem ser um presente de deus...  mesmo tendo sempre me direcionado no bem...protejo minha filha que parece um bebê, linda mas com varios problemas me frustra ve-la com tantas limitações, não aprende nada, mal fala direito, mesmo eu estimulando dando amor pq é muito meiga ensino, amo muito minha filha preciso protege-la infelizmente a realidade é outra, na escola no dia a dia as dificuldades existem sim...a frustração de saber que seu filho tera limitações eternamente, que será vitima de preconceito, dói, mas procuro enxergar com otimismo confiando sempre que tudo tem uma razão de ser...queria muito ser menos frustrada, entender pq comigo, pq com ela...agradeço o espaço.....um abraço a todos\nMila"
+    approved: true
+    created_at: '2009-05-20 00:00:00'
+    updated_at: '2009-05-20 00:00:00'
+  Guestbook_888:
+    name: 'antonio rubens zamparo junior'
+    email: ''
+    city: curitiba
+    state: PR
+    country: brasil
+    comment: 'clelia marques mãe do antonio com sindrome de willians 14 anos estuda em escola estadual com classe especial ea tranquilidade em pessoa gosta de video game celular e computador e musica'
+    approved: true
+    created_at: '2009-04-19 00:00:00'
+    updated_at: '2009-04-19 00:00:00'
+  Guestbook_889:
+    name: Rose
+    email: rose.quilante@uol.com.br
+    city: 'São Paulo'
+    state: SP
+    country: ''
+    comment: "Jô, em nome da EMEF ?Marechal Espiridião Rosas? quero agradecer a sua dedicação e disposição.\n Esse seu trabalho, com certeza é um ministério (chamado) de Deus. Só o amor de Deus pode nos impulsionar a fazer coisas que parecem impossíveis.\nPor isso, você é muito especial... disse sim a Deus. \nMais uma vez, obrigada.... por você existir !\n\nAbraços,\n\n"
+    approved: true
+    created_at: '2009-04-30 00:00:00'
+    updated_at: '2009-04-30 00:00:00'
+  Guestbook_890:
+    name: 'Ricardo Najjar'
+    email: rinajjar@terra.com.br
+    city: 'São Paulo'
+    state: SP
+    country: ''
+    comment: "Muito obrigado pela excelente palestra promovida pela ABSW.\n \nO mais importante é que o conteúdo da mesma foi de extrema aplicação prática, e abordado por uma pessoa que sabia do que estava falando.\n \nVocês foram muito felizes na escolha do tema e da palestrante.\n \nAgradeça a Jô por mim.\n \nContinuo a disposição para aquilo que for possível.\n \nObrigado,\n"
+    approved: true
+    created_at: '2009-04-30 00:00:00'
+    updated_at: '2009-04-30 00:00:00'
+  Guestbook_891:
+    name: milka
+    email: JJmikal@gmail.com
+    city: vilhena
+    state: RO
+    country: Brasil
+    comment: 'Tenho uma criança que eu chamo de presente de Deus . que é hiperativa e tem disrritmia cerebral. Estou aprendendo a lidar com ele , todos estamos pois e muito dificil estar todo o tempo alerta como um cão-de-guarda pois ele pratica toda sorte de bagunças como por fogo na casa, investigar como o sangue sai do prório corpo, fugir da escola sem que ninguém veja, subir em locais altissimos para a sua idade (5 anos ), fazer rampa em cima da moto, dos bancos, da cadela pastora; tudo isto com sua bicicleta aro 16, entre outras estrepulias imensuráveis de meu pequeno arteiro. Tenho muito medo de numa destas aventuras eu não tenha tanta sorte de têlo de volta depois de uns tres dias de internações hospitalares , como tem sido até agora. Peço a DEUS que o guarde e que me ensine a lidar e a estar atenta a ele todo o tempo e que seus anjos o protejam sempre.O medico neurilogista que o atende me disse que a hiperatividade dele é intensa mas que talves os remedio trarão alguma melhora e que na adolescencia ele irá (talves) começar a aprender o aprendizado escatologico - escolar - eu até lá nção descansarei enem desanimarei , continuarei estimulando meu filho-presente-de-Deus a crescer em conhecimento e vivencia do mundo.Quem lern e tiver algo a me dizer que possa meajudar a ajudá-lo, serem muito grata. Até outra ocasião.'
+    approved: true
+    created_at: '2008-12-17 00:00:00'
+    updated_at: '2008-12-17 00:00:00'
+  Guestbook_892:
+    name: Catarina
+    email: h0tah@hotmail.com
+    city: Lagos
+    state: OE
+    country: Portugal
+    comment: 'Olá... Segundo me consta, tenho síndrome de williams. Fala-se imenso no atraso mental, mas ao que parece, tenho tudo menos isso. Mas temo esta doença. Não sei a esperança media de vida. Gostava de saber. Psicologicamente os sintomas ou as características não me afectaram de todo. Mas... fisicamente... Sou pequeníssima... Enfim... Digam-me algo.'
+    approved: true
+    created_at: '2009-02-24 00:00:00'
+    updated_at: '2009-02-24 00:00:00'
+  Guestbook_893:
+    name: 'angela maria avelar de moraes'
+    email: lima.angela.mel@hotmail.com
+    city: 'patos de minas'
+    state: MG
+    country: brasil
+    comment: 'sou mae de uma criança portadora de sw tudo que aprendi foi graças a ajuda desse site.obrigada por ter vcs pra nos ajudarem,nos dar força,pois a luta nao e facil,minha filha se chama MELestive com ela em sp,pra tratamento medico foi qdo conheci varios outros willians,foram nonentos nagicos a convivencia com eles,experiencias nunca vividas,eles sao exemplos de vida pra nos adultos perfeitos.obrigada  angela'
+    approved: true
+    created_at: '2009-01-24 00:00:00'
+    updated_at: '2009-01-24 00:00:00'
+  Guestbook_894:
+    name: 'Tiana Gerlayne'
+    email: ceprisma@ig.com.br
+    city: Parnamirim
+    state: RN
+    country: Brasil
+    comment: 'Sou professora de uma escola particular em Parnamirim -RN,recebi um aluno maravilhoso, ao conhecê-lo sua mãe contou que seu filho era portador sw,procurei informações,pouco encontrei,sou aluno do curso de psicopedagogia e resolvir pesquisar sobre o assunto para melhor atendê-lo,estou muito feliz em encontrar pessoas com o mesmo objetivo ,estou encantada com cada depoimento.desejo a todos da assoc. muito sucesso e que cada possam crescer ,saiba que conviver meu gatinho é maravilhoso ela é muito esperto ,fico surpresa a cada dia.Que Deus abençõe a todos dando a cada dia sabedoria e muito amor para com esse trabalho.  Tiana'
+    approved: true
+    created_at: '2009-05-20 00:00:00'
+    updated_at: '2009-05-20 00:00:00'
+  Guestbook_895:
+    name: 'Fernando Akira Endo'
+    email: ''
+    city: Lyon
+    state: OE
+    country: França
+    comment: "Começei pesquisando por ouvido humano na Wikipedia, acabei achando e lendo sobre ouvido absoluto e segui um link sobre SW.\n\nTodos nós parecemos diferentes mas somos todos iguais!\n\nMeus sinceros parabéns e continuem assim!"
+    approved: true
+    created_at: '2009-05-23 00:00:00'
+    updated_at: '2009-05-23 00:00:00'
+  Guestbook_896:
+    name: 'Hariet Wondracek Kruger'
+    email: harietwk@hotmail.com
+    city: Ijuí
+    state: RS
+    country: Brasil
+    comment: 'Sou professora de música, e neste semestre recebi um aluno de 11 anos com síndrome de Williams. Tenho lido a respeito, e fizemos ótima amizade. Ele tem boa voz, e coordenação motora regular. Quer aprender piano. Vou tentar tocar com ele deixando-o criar as melodias, sem leitura, primeiro. E vou cantar com ele, já que gosta muito. Estou certa? O que devo esperar?'
+    approved: true
+    created_at: '2009-08-10 00:00:00'
+    updated_at: '2009-08-10 00:00:00'
+  Guestbook_897:
+    name: ritadecassiaassis
+    email: ritadecassia@itelefonica.com.br
+    city: barueri
+    state: SP
+    country: brasil
+    comment: 'tenho um filho de 10 anos com sw ; e gostaria muito conhecer maês de crianças com a mesma sw do meu filho , ele esta na terceira serie do fundamental e nâo sabe nada isso me preocupa muito '
+    approved: true
+    created_at: '2009-06-26 00:00:00'
+    updated_at: '2009-06-26 00:00:00'
+  Guestbook_898:
+    name: 'janete pereira marques'
+    email: janetemarques1980@hotmail.com
+    city: 'porto alegre'
+    state: RS
+    country: brasil
+    comment: 'tenho um filho com retardo mental leve ele tem 9anos esta na classe especial a professora quer passar ele para a primeira serie estou com medo porque ele ja frequentou 1ano e meio  aprimera e teve muitos problemas '
+    approved: true
+    created_at: '2009-08-06 00:00:00'
+    updated_at: '2009-08-06 00:00:00'
+  Guestbook_899:
+    name: JANAINA
+    email: JANAINA.CANELA@HOTMAIL.COM
+    city: CANELA
+    state: RS
+    country: BRASIL
+    comment: 'ACOMPANHO OS RELATOS DAS MÃES DE CRIANÇAS , COM SW E FICO MUITO EMOCIONADA COM VARIAS HISTÓRIAS TENHO UM FILHO DE 11 ANOS O EDUARDO QUE TEM RETARDO MENTAL LEVE , ISTO É QI 70 ELE APRENDE AS COISAS  MAS COM MUITA DIFICULDADES SE ALFABETIZOU  E ESTA NO TERCEIRO ANO , POREM EU SEI QUE AS DIFICULDADES SEMPRE VIRAM , MAS TIRO FORÇAS PARA CONTINUAR LUTANDO POR ELE QUANDO OLHO ESSES RELATOS DESSAS SUPER MÃES E PAIS QUE LUTAM PELOS SEUS FILHOS COM TANTO AMOR , NÃO É FACIL SER MÃE DE UMA CRIANÇA COM DEFICIÊNCIA  QUE TENHA SEUS LIMITES MAS DEUS NOS DA FORÇA TODOS OS DIAS , ACHEI LINDA A HOMENAGEM E O VIDEO QUE A MÃE DA HAILA FEZ DELA  CHOREI ASSISTINDO ELA ESTA LINDA , GOSTARIA DE RECEBER NOTICIAS DELA COMO ESTA  POR QUE ADMIRO SEUS PAIS O QUANDO ELES DEMOSTRAM AMOR A FILHA  ISTO É O MAIS IMPORTANTE PARA ELES SE SENTIREM AMADOS POR TODA SUA FAMILIA  UM ABRAÇO A TODOS . JANAINA CANELA RS'
+    approved: true
+    created_at: '2009-07-08 00:00:00'
+    updated_at: '2009-07-08 00:00:00'
+  Guestbook_900:
+    name: 'Mariana Binda Anacleto Morais'
+    email: psiumari@yahoo.com.br
+    city: SBCampo
+    state: SP
+    country: Brasil
+    comment: 'Em busca de informações encontrei este site que me ajudou bastante quanto ao esclarecimento da SW. Parabéns à toda equipe que elabora o site!'
+    approved: true
+    created_at: '2009-08-19 00:00:00'
+    updated_at: '2009-08-19 00:00:00'
+  Guestbook_901:
+    name: 'neuza malerbo capela'
+    email: neuzacapela@yahoo.com.br
+    city: sorocaba
+    state: SP
+    country: brasil
+    comment: 'Parabens pela pagina.Sou neuropsicologa e aproveitei bastante o conteudo.'
+    approved: true
+    created_at: '2009-07-28 00:00:00'
+    updated_at: '2009-07-28 00:00:00'
+  Guestbook_902:
+    name: 'Daian M. Cazura'
+    email: dmarqueza@yahoo.com.br
+    city: 'Teoflo Otoni'
+    state: MG
+    country: Brasil
+    comment: 'Tenho uma filha de 24 anos com todas as caracteristicas da sindrome da Sindrome de Wiliams. ico desesperada por não ve-la desenvolver de maneira normal na vida. Ela conclui o segundo grau, mas não consegue arrumar um emprego e do outro lado, não conseui jamais um diagnostico para ela. O que que eu faço?'
+    approved: true
+    created_at: '2009-08-27 00:00:00'
+    updated_at: '2009-08-27 00:00:00'
+  Guestbook_903:
+    name: 'Marcelo J. Barros'
+    email: ctsol@ctsol.com.br
+    city: sumaré
+    state: SP
+    country: brasil
+    comment: 'Tive o privilégio de conhecer Jéssica, a filha da Jô, pessoas (mãe e filha) guerreiras e maravilhosas...hoje(15/09/09) eu vi o depoiementos das duas na Globo e achei lindo, tenho certeza que vai ajudar muita gente...parabéns Jessica e Jô...um grande abraço fraterno!!!!!'
+    approved: true
+    created_at: '2009-09-15 00:00:00'
+    updated_at: '2009-09-15 00:00:00'
+  Guestbook_904:
+    name: 'Rejane Tunisse'
+    email: re.tunisse@hotmail.com
+    city: GUARATINGUETÁ
+    state: SP
+    country: Brasil
+    comment: 'Estava a procura de informações sobre SW e encontrei esse site. Deus abençoe  a todos que contribuem com seus conhecimentos para ajudar outras pessoas.Parabéns pelo site ...completO!'
+    approved: true
+    created_at: '2009-09-15 00:00:00'
+    updated_at: '2009-09-15 00:00:00'
+  Guestbook_905:
+    name: 'marta m s tadeu'
+    email: tad2099@itelefonica.com.br
+    city: 'sao carlos'
+    state: SP
+    country: brasil
+    comment: 'tenho um filho com 16 nos portador da sw leve e todos os dias temos que aprender com ele como sera esse dia ,mas nao tem problema pois sao anos de experiencia de aprendizado e nos amamos muito ele'
+    approved: true
+    created_at: '2009-09-16 00:00:00'
+    updated_at: '2009-09-16 00:00:00'
+  Guestbook_906:
+    name: 'HEBE CARLA GONÇALVES'
+    email: hebe_carla@hotmail.com
+    city: votuporanga
+    state: SP
+    country: brasil
+    comment: 'tenho uma filha de 15an. e ate hoje nao tive diagnostico sobre o que ela tem , entrei no site e preciso saber qual o profissional mais indicado para eu procurar e ter um diagnostico em São Paulo. '
+    approved: true
+    created_at: '2009-09-16 00:00:00'
+    updated_at: '2009-09-16 00:00:00'
+  Guestbook_907:
+    name: 'Adriana reis'
+    email: dhrikka@hotmail.com
+    city: weymouth
+    state: OE
+    country: 'estados unidos'
+    comment: 'eu tbem tenho um filho especial, em todos os sentidos, ja fiz alguns exames, mas nunca da nada, ele tem 9 anos, e gostaria de saber, ele tem sintomas parecidos , (alguns) , mas nos exames feitos nao da nada, ele tem problemas psicomotores,e outros mais ! quem sabe vcs podem me orientar mais! ele faz terapia ocupacional,fono,fisioterapia! '
+    approved: true
+    created_at: '2009-09-16 00:00:00'
+    updated_at: '2009-09-16 00:00:00'
+  Guestbook_908:
+    name: 'adriana reis'
+    email: dhrikka@hotmail.com
+    city: weymouth
+    state: OE
+    country: 'estados unidos'
+    comment: 'eu tbem vi o comentario na novela da globo internacional...espero que ajude muita gente!'
+    approved: true
+    created_at: '2009-09-16 00:00:00'
+    updated_at: '2009-09-16 00:00:00'
+  Guestbook_909:
+    name: 'Wilma Helena R. PIcazio'
+    email: picazui@ig.com.br
+    city: Araras
+    state: SP
+    country: Brasil
+    comment: "Querida Jô,\nSoube da reportagem, entrei em seu blog, admiro voce como mãe, como pessoa e guerreira que é.\nVocê é 10!!!\n\nHelena da ASA"
+    approved: true
+    created_at: '2009-09-16 00:00:00'
+    updated_at: '2009-09-16 00:00:00'
+  Guestbook_910:
+    name: 'Ariane Bazarin de Campos'
+    email: ariane_bazarin@yahoo.com.br
+    city: 'São Paulo'
+    state: SP
+    country: Brasil
+    comment: "Olá!! Caso alguém queira rever o depoimento da Jô Nunes na novela, o link é: \nhttp://viveravidaoblog.blogspot.com/2009/09/jo-nunes-versao-estendida.html \nParabéns Jô!! Parabéns Jéssica!! "
+    approved: true
+    created_at: '2009-09-16 00:00:00'
+    updated_at: '2009-09-16 00:00:00'
+  Guestbook_911:
+    name: Adair
+    email: kaleb17199@hotmail.com
+    city: Ipatinga
+    state: MG
+    country: Brasil
+    comment: 'Amei praticamente tudo que li, achei esclarecedor, amei de coração. Quero muito saber sobre o assunto. Obrigado'
+    approved: true
+    created_at: '2009-09-22 00:00:00'
+    updated_at: '2009-09-22 00:00:00'
+  Guestbook_912:
+    name: 'Débora Carla'
+    email: debora_carla_sousa@hotmail.com
+    city: 'são paulo'
+    state: SP
+    country: ''
+    comment: '&quot;A minha filha é portadora da sw,o diagnostico foi precose descobrimos quando ela tinha 6 meses de nascida,minha primeira filha fiquei gravida dela na adolescencia ela nasceu no dia 14 de fevereiro de 2007 e eu acabava de completar 18 anos!que presentão!hoje me sinto privilegiada é um doce de pessoinha!todos se contagiam com sua alegria imensa e simpatia o nome desse anjo é giovanna hoje com 2 anos e 7 meses!'
+    approved: true
+    created_at: '2009-09-29 00:00:00'
+    updated_at: '2009-09-29 00:00:00'
+  Guestbook_913:
+    name: 'Valdirene de Abreu'
+    email: ''
+    city: CUIABA
+    state: MT
+    country: ''
+    comment: 'meu sobrinho Ryan tem 5 anos e tem a sw meu irmão encontrou essa comunidade p entender melhor sobre a sw o meu irmão tem sido e sempre séra o melhor pai do mundo ele pesquisa mto eu agradeço comunidadepor tanto esclarecimento meu sobrinho é alegre peralta carismatico eu ñ tenho palavras p dizer o tanto eu o amo hj estou em Cuiaba  e eles sem São Paulo então acompanho tdo dele por tel qdo falo com meu irmão... irmão força e continue buscando pq o nosso Ryan é especial mas é amado por tdos nós é uma criança feliz e alegre eu amo mto vcs com essa comunidade vamos aprender a lidar com esse problema mas facil amo mto beijos da tia Ryan'
+    approved: true
+    created_at: '2009-10-05 00:00:00'
+    updated_at: '2009-10-05 00:00:00'
+  Guestbook_914:
+    name: 'Rogério Rodrigues'
+    email: roger19_r@msn.com
+    city: Santos
+    state: SP
+    country: Brasil
+    comment: "Bom dia !\nAmigos , me sentiria muito agradecido se fosse possivel que me prestassem alguns esclareciementos e direcionamentos quanto algumas dúvidas que tenho com relação a minha sobrinha . Pesquisando a respeito das caractersticas que envolvem o comportamento de minha sobrinha , muitas semelhanças com o diagnótico clinico da , Sindrome de williams , pode ser observado . Pois bem , minha irmà , vem realizando já algum tempo , exames e acompanhamento em profissionais da area de saúde e comportamento , como fonosudiologa , terapia ocupacional  . Minhas duvidas , são quanto aos exames , por ela, realizado se os mesmos poderiam evidenciar ou melhor determinar com precisào se minha preocupação não passa de uma mera coincidencia ou preocupação excessiva de Tio .\nPara colaborar e ajuda-los em um possivel esclarecimentos sobre minhas dúvidas , informo que os seguinte exames foram realizado em minha sobrinha : pesquisa molecular de cromossomo x-fragil exame este que apresentou tudo normal , é onde paira minha maior dúvida em saber se este seria um exame específico para tirar as dúvidas sobre um possivel diagnóstico de SW , tb foram realizados exame de coração , eletro e alguns outros que no momento nào saberia informar , mas pelo que foi dito por minha irmà todos os resultados foram considerados normal segundo o neuro que assiste minha sobrinha.\nMas reintero que minhas dúvidas recaem sobre a certeza que o resultdo do exame de sangue acima especificado(molecular cromossomo x-fragil) seria o suficiente para descartarmos um possivel dignóstico de SW .\nPois bem amigos , estou ansionamente esperando por uma resposta ou contato com alguem que pudesse me orientar e dar uma luz em que direção seguir , ou se minha preocupação é em vào , pois o resultado do exame acima é suficiente para descartar minhas dúvidas .\nDesde já , agradeço as informações contidas no site e o rico trabalho de orientação e esclarecimentos sobre uma sindrome que não é comumente abordada em nossos dias ,pelo menos até o belo relato da Mãe , apresentado na rede de maior audiencia do Pais .\nObrigado , Rogério ."
+    approved: true
+    created_at: '2009-10-10 00:00:00'
+    updated_at: '2009-10-10 00:00:00'
+  Guestbook_915:
+    name: 'lidianeda comceiçao moreno '
+    email: lidianedcm@hotmail.com
+    city: macae
+    state: RJ
+    country: brasil
+    comment: 'meu nome lidianeda comceiçao moreno sou potadora '
+    approved: true
+    created_at: '2009-11-25 00:00:00'
+    updated_at: '2009-11-25 00:00:00'
+  Guestbook_916:
+    name: 'lidianeda comceiçao moreno '
+    email: lidianedcm@hotmail.com
+    city: macae
+    state: RJ
+    country: brasil
+    comment: 'meu nome lidianeda comceiçao moreno sou potadora sindrome de williams'
+    approved: true
+    created_at: '2009-11-25 00:00:00'
+    updated_at: '2009-11-25 00:00:00'
+  Guestbook_917:
+    name: 'Lucia Mariana Pinho de Assis Macedo'
+    email: lumarry@ig.com.br
+    city: 'Feira de Santana'
+    state: BA
+    country: Brasil
+    comment: 'Oi gente! Tive filhas gêmeas que estão com 2 anos e 4 meses Mirrela e Melissa. E descobrimos que Melissa é portadora desta síndrome.Gostaria de trocar informações com pais de todo o Brasil........'
+    approved: true
+    created_at: '2009-10-21 00:00:00'
+    updated_at: '2009-10-21 00:00:00'
+  Guestbook_918:
+    name: 'ALEXANDRE VIEIRA'
+    email: ajv-sc@hotmail.com
+    city: FLORIANÓPOLIS
+    state: SC
+    country: BRASIL
+    comment: 'TENHO UMA FILHA COM SW.MARIA CAROLINA.MINHA FILHA É MINHA VIDA É ALEGRIA POR ONDE ELA VAI.ELA É UMA LIÇÃO DE VIDA.É INTELIGENTE E ESPERTA.GOSTA MUITO DE MUSICA,TOCA TECLADO MUITO BEM.MARIA UM BEIJÃO NO SEU CORAÇÃO.'
+    approved: true
+    created_at: '2009-11-27 00:00:00'
+    updated_at: '2009-11-27 00:00:00'
+  Guestbook_919:
+    name: 'cleyde cristina ferreira ciriaco'
+    email: c-leyde@hotmail.com
+    city: 'belo horizonte'
+    state: MG
+    country: brasil
+    comment: 'fiquei muito feliz em saber que tem este site p/familiares e amigos de portadores de sindrome de wilians tenho um sobrinho com a sindrome o nome dele e marcelo antony e tem 7anos e agora as coisas estão ficando mais dificil mais acredito que com amor e dedicação nos vamos conseguir agradeço a todos por esta oportunidade.'
+    approved: true
+    created_at: '2009-12-05 00:00:00'
+    updated_at: '2009-12-05 00:00:00'
+  Guestbook_920:
+    name: silvia
+    email: silviajacinto@bol.com.br
+    city: barretos
+    state: SP
+    country: brazil
+    comment: 'sou avó de LAURA portadora de sindrome de willians e tenho poucas informaçoes help'
+    approved: true
+    created_at: '2009-12-11 00:00:00'
+    updated_at: '2009-12-11 00:00:00'
+  Guestbook_921:
+    name: 'neuza '
+    email: neuzagerolin@hotmail.com
+    city: cacoal
+    state: RO
+    country: brasil
+    comment: 'tenho um filho com 21 anos e acredito que ele tenha essa sindrome ,mas nunca foi diagnosticado,mas tem todas as caracteristicas apresentadas neste site,queria saber se tem como ajudar p´ra ele ter uma profissao.obrigado se alguem puder responder.'
+    approved: true
+    created_at: '2009-12-28 00:00:00'
+    updated_at: '2009-12-28 00:00:00'
+  Guestbook_922:
+    name: 'SIDINEI MARCOS OLKOSKI'
+    email: sidinei_olkoski@hotmail.com
+    city: Capanema
+    state: PR
+    country: brasil
+    comment: 'tenho um filho com SW seu nome é Otavio e como sempre falo Ele é um anjo que Deus confiou a mim, com 4 anos ele me da muitas alegrias com suas conquistas, apesar de ficar aprensivo por suas dificuldades e pela falta de informações e atividades relacionadas a sua saude e formação  '
+    approved: true
+    created_at: '2009-12-31 00:00:00'
+    updated_at: '2009-12-31 00:00:00'
+  Guestbook_923:
+    name: 'ALEXANDRE VIEIRA'
+    email: ajv-sc@hotmail.com
+    city: Florianópolis
+    state: SC
+    country: Brasil
+    comment: 'Fui no shoping com minha filha,a maria carolina,e ela deu um show num bar.Simplismente ela cantou muito bem 4 músicas. foi de parar o shoping foi muito lindo.Fquei muito orgulhoso dela parecia um adulto cantando.Eu acredito no sonho dela que é ser cantora.Ela cantou,Jota quest,engenheiro do havai,cassia eller e ivete sangalo.muito lindo.'
+    approved: true
+    created_at: '2010-01-01 00:00:00'
+    updated_at: '2010-01-01 00:00:00'
+  Guestbook_924:
+    name: 'Debora Carvalho'
+    email: deboracazuza@bol.com.br
+    city: 'Rio de Janeiro'
+    state: RJ
+    country: Brasil
+    comment: 'Parabéns pelo site. Tenho uma sobrinha de 24 anos que a mãe não gosta de comentar a problema mas só agora descobri que é essa síndrome.É comum ser agressivo ou isso acontece quando os pais não dão o tratamento adequado desde pequeno?'
+    approved: true
+    created_at: '2010-01-18 00:00:00'
+    updated_at: '2010-01-18 00:00:00'
+  Guestbook_925:
+    name: 'Sandra de Paula'
+    email: sandra.edu@pop.com.br
+    city: 'Belo Horizonte'
+    state: MG
+    country: Brasil
+    comment: 'Meu esposo tem um sobrinha com sw. Nao tenho muita intimidade com a familia desta crianca mas, sou educadora e sinto o dever de ajudar. E uma menina linda e meiga no entanto nao tem qualquer referencia com os cuidados pessoais, desde ao escovar os dentes ao cuidados com exposicao do corpo. A mae sofre de depressao profunda e da hora que acorda ao se deitar fica deitada no chao na frente da tv. A filha de 15 anos e que cuida da Menina com sw e da irma de 4. Os pais sao separados, mas frequentva a casa diariamente. Este mes ele formalizou o pedido de divorcio e isto muito me preocupa no contexto dsta familia. A mae depressiva, a com sw e a de 15 que cuida das meninas tem desmaios controlados por remedios diarios de manha e a noite. Somente a mais nova nao apresentou nemhuma &quot;patologia&quot;. O que pode ser feito e relacao a menina com a sw, prinipalmente em relacao aos cuidados higienicos e a exposicao do proprio corpo? Ajudem-nos. Obrigada.'
+    approved: true
+    created_at: '2010-01-26 00:00:00'
+    updated_at: '2010-01-26 00:00:00'
+  Guestbook_926:
+    name: 'Vanessa Canaan'
+    email: vanessa.canaan@hotmail.com
+    city: 'Conceição da Barra de Minas'
+    state: MG
+    country: Brasil
+    comment: 'Tenho um filho com sw o nome dele é Wendel 5anos ele é o amor da minha vida,mas é muito nervoso e chega até bater a cabeça na parede acho por ele não saber falar.Sou apaixonada por ele e tudo q faço é para e por ele e seu irmão Miguel 9 Meses.'
+    approved: true
+    created_at: '2010-02-02 00:00:00'
+    updated_at: '2010-02-02 00:00:00'
+  Guestbook_927:
+    name: 'Vanessa '
+    email: vanessa.canaan@hotmail.com
+    city: CBM
+    state: MG
+    country: Brasil
+    comment: 'Estou muito feliz com progresso do Wendel.Ele é o amor da minha vida,para mim ter tido um outro filho foi muito bom pois o Wendel ficou mais independente e até me ajuda a olhar seu irmão Miguel que tem 9 meses.Sei que sou muito previlegiada por DEUS  ter me confiado essa missão que pode não ser fácil mais é um aprendizado de vida pois ele me ensina mais do que eu a ele.'
+    approved: true
+    created_at: '2010-02-16 00:00:00'
+    updated_at: '2010-02-16 00:00:00'
+  Guestbook_928:
+    name: 'carla sonaro'
+    email: carlasonaro@hotmail.com
+    city: suzano
+    state: SP
+    country: brasil
+    comment: "olá, sou professora e hoje em grupo de estudo tive o prazer de ler o relato de Jéssica. Fiquei  emocionada e em apenas alguns minutos pude aprender muito com as ¨falas¨e experiências vividas por esta família. Desejo que esta luta que vcs iniciaram jamais pare e que tantos outros profissionais possam aprender com vcs. Um forte abraço e obrigada por existirem\n"
+    approved: true
+    created_at: '2010-02-18 00:00:00'
+    updated_at: '2010-02-18 00:00:00'
+  Guestbook_929:
+    name: sonia
+    email: soniamco@hotmail.com
+    city: 'Belo horizonte'
+    state: OE
+    country: BRASIL
+    comment: 'Ola estou fazendo uma pesquiza sobre a SW pois minha filha tem 4anos a medica dela suspeita que ela tenha essa sindrome,a principio achei que era um bicho de sete cabeças mas depois de ler alguns relatos estou nenos nervosa com essa posibilidade, me conforta saber nao que tem tantas crianças com essa SW mais que existe tantas maes,familias e proficionais unidos como verdadeiros anjos para ajudar cada criança'
+    approved: true
+    created_at: '2010-02-24 00:00:00'
+    updated_at: '2010-02-24 00:00:00'
+  Guestbook_930:
+    name: 'raquel oliveira'
+    email: raquel.o@live.com.pt
+    city: tramagal-abrantes
+    state: SP
+    country: portugal
+    comment: 'gosto muito do site. o meu filho diogo tem 7anos é portador de sw. foi um grande choque quando descobrimos ele tinha 3 meses. agora vivemos um dia de cada vez com ele. para todos os pais ou jovens com o sw mando um grande beijo e abraço para todos.'
+    approved: true
+    created_at: '2010-02-25 00:00:00'
+    updated_at: '2010-02-25 00:00:00'
+  Guestbook_931:
+    name: 'antonio rubens zamparo junior'
+    email: juniorzamparo@hotmail.com
+    city: curitiba
+    state: PR
+    country: brasil
+    comment: 'o antonio com 15 anos com a sindrome de willians  nunca pensamos nas dificuldades vivemos alegremente todos os dias principalmente depois da cirurgia  cardiaca em 2008 com  varias paradas e nosso anjo '
+    approved: true
+    created_at: '2010-02-27 00:00:00'
+    updated_at: '2010-02-27 00:00:00'
+  Guestbook_932:
+    name: 'Marcia Santos'
+    email: marcia200783@hotmail.com
+    city: 'Rio de Janeiro'
+    state: RJ
+    country: Brasil
+    comment: " Gostaria de participar de encontros com pais de portadores de SW. Por favor me informem onde tem esse encontros.\n Desde já agradeço a atenção e ajuda."
+    approved: true
+    created_at: '2010-03-01 00:00:00'
+    updated_at: '2010-03-01 00:00:00'
+  Guestbook_933:
+    name: 'raquel oliveira'
+    email: raquel.o@live.com.pt
+    city: tramagal-abrantes
+    state: SP
+    country: portugal
+    comment: 'alguem podera dar-me alguma dica para eu ajudar o meu pequeno diogo aprender a escrever? ele este ano já vai para o 1º ciclo e não sabe escrever nem se quer o nome dele. ele é portador de sw.'
+    approved: true
+    created_at: '2010-03-01 00:00:00'
+    updated_at: '2010-03-01 00:00:00'
+  Guestbook_934:
+    name: 'Denize da Silva Lemos Pimentel'
+    email: rafaela.p@hotmail.com
+    city: Teresópolis
+    state: RJ
+    country: Brasil
+    comment: "Sou professora e realizamos em nossa escola um evento em homenagem ao dia das mulheres.Trabalhamos histórias de mulheres com necessidades especiais que superaram e deram uma lição de vida para a sociedade. Pesquisando na internet fiquei encantada com a história da Jessica. Ao relatar a sua história na turma eles ficaram muito sensibilizados. Fizemos cartazes para serem expostos na escola para que todos os alunos soubessem a força de vontade que ela teve de vencer. Nós da escola Chiquinha Rolla desejamos a jessica um feliz dia da mulher e parabéns pela sua luta tão bonita para ser respeitada nessa sociedade preconceituosa.\nBeijos da aquipe Chiquinha Rolla."
+    approved: true
+    created_at: '2010-03-06 00:00:00'
+    updated_at: '2010-03-06 00:00:00'
+  Guestbook_935:
+    name: 'sidinei marcos olkoski'
+    email: sidinei_olkoski@hotmail.com
+    city: 'capanema '
+    state: PR
+    country: brasil
+    comment: 'oi, meu nome é Sidinei,minha esposa se chama Ana, obtivemos esta semana o laudo e o resultado do exame fish que diagnosticou a sindrome em meu filho Otávio, estamos muito felizes  e agradecidos a Dna. Jo, e ao Dr Danilo da UNESP Botucatu/SP, graças a estes anjos agora podemos cuidar e saber como agir com o nosso anjo, aquele que Deus nos deu de presente, o nosso Filho que amamos muito, descobrir a Sindrome e receber dicas de como ajudar nossas criaças é muito bom, gostariamos de receber contatos de pais e filhos ligados a SW para trocarmos ideias, precisamos aprender bastante e também podemos ajudar em algo'
+    approved: true
+    created_at: '2010-03-20 00:00:00'
+    updated_at: '2010-03-20 00:00:00'

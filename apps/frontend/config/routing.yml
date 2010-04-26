@@ -5,7 +5,27 @@
 homepage:
   url:   /
   param: { module: capa, action: index }
+
+error:
+  url: /error/404
+  param: { module: error, action: 404 }
+
+download_file:
+  url: /download/:file/:type
+  param: { module: download, action: download }
   
+guestbook_list:
+  url: /livrodevisitas/*
+  param: { module: guestbook, action: list }
+  
+contact:
+  url: /contato/*
+  param: { module: contact, action: index }
+  
+links:
+  url: /links
+  param: { module: link, action: list }
+
 news_view:
   url: /noticia/:slug
   param: { module: news, action: view }
@@ -18,6 +38,10 @@ news_list:
   url: /noticias/pg/:page
   param: { module: news, action: list }  
   
+professional_list:
+  url: /profissionais/*
+  param: { module: professional, action: list }  
+
 page_view:
   url: /:slug_category/:slug_page
   param: { module: page, action: view }

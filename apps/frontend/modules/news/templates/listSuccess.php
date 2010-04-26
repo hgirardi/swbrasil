@@ -14,10 +14,10 @@
 ?>
 <div class="pagination">
     <a href="<?php echo url_for('@news_list?page=1');?>">
-        <img src="/sf/sf_admin/images/first.png" alt="Primeira página" />
+        <img src="/images/first.png" alt="Primeira página" />
     </a>
     <a href="<?php echo url_for('@news_list?page=' . $pager->getPreviousPage() )?>">
-        <img src="/sf/sf_admin/images/previous.png" alt="Previous page" title="Página anterior" />
+        <img src="/images/previous.png" alt="Previous page" title="Página anterior" />
     </a>
     <?php foreach ($pager->getLinks() as $page): ?>
     <?php if ($page == $pager->getPage()): ?>
@@ -27,10 +27,10 @@
     <?php endif; ?>
     <?php endforeach; ?>
     <a href="<?php echo url_for('@news_list?page=' . $pager->getNextPage() ) ; ?>">
-        <img src="/sf/sf_admin/images/next.png" alt="Next page" title="Próxima Página" />
+        <img src="/images/next.png" alt="Next page" title="Próxima Página" />
     </a>
     <a href="<?php echo url_for('@news_list?page=' . $pager->getLastPage()) ?>">
-        <img src="/sf/sf_admin/images/last.png" alt="Last page" title="Última página" />
+        <img src="/images/last.png" alt="Last page" title="Última página" />
     </a>
     <span class="results"><?php echo $pager->getNbResults();?> registro(s)</span>
 </div>

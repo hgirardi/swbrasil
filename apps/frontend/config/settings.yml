@@ -3,7 +3,7 @@
 
 prod:
   .settings:
-    no_script_name:         false
+    no_script_name:         true
     logging_enabled:        false
 
 dev:
@@ -13,6 +13,7 @@ dev:
     cache:                  false
     no_script_name:         false
     etag:                   false
+    enabled_modules:  [recaptcha]
 
 test:
   .settings:
@@ -33,3 +34,13 @@ all:
 
     # Enable the database manager
     use_database:           true
+    i18n:                   true
+    default_culture:        pt_BR
+    charset: utf-8
+
+    jquery_web_dir:         false
+    jquery_core:            jquery-1.4.2.min.js
+
+  .actions:
+    error_404_module:       error
+    error_404_action:       404

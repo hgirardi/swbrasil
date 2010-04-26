@@ -58,6 +58,9 @@ div.container{
         text-align:justify;
         width:680px;
     }
+        div#content a{
+            color:#369;
+        }
     div#sideBar{
         margin-left:15px;
         padding:5px 15px 5px 10px;
@@ -114,11 +117,13 @@ div#header fieldset{
         -webkit-border-radius: 3px;
         width:265px;
     }
-    div#header fieldset input.button{
+    input.button{
         background-color:#369;
         border:1px solid #369;
         color:#fff;
-        width:auto;
+        -moz-border-radius: 3px;
+        -webkit-border-radius: 3px;
+        width:auto!important;
     }    
     
 /**
@@ -142,6 +147,12 @@ div#sideBar ul{
             color:#000;
             font-size:15px;
         }
+div#sideBar ul#partners{
+    padding-left:5px;
+}
+    div#sideBar ul#partners li{
+        border: 0px;
+    }
 /**
  * gerais
  **/
@@ -286,8 +297,16 @@ div.capa{
  * news
  **/
 div.news{
-    
+
 }
+    div.news h3{
+        font-size:17px;
+    }
+    div.news img{
+        border:4px solid #369;
+        float:left;
+        margin:0px 5px 5px 0px;
+    }
     div.news ul{
         padding-left:20px;
         margin-bottom:0px;
@@ -295,7 +314,151 @@ div.news{
     div.news ul li{
         margin-bottom:10px;
     }
+    div.news div.source{
+        color:#369;
+        font-size:12px;
+        text-align:right;
+    }
+    
+/**
+ * professionals
+ **/
+div.professional{
+    
+}
+    div.professional dl dt{        
+        color:#369;
+        margin-top:10px;
+        text-decoration:underline;
+    }
+    
+/**
+ * downloads
+ **/
+div.download{}
+    div.download ul{
+        list-style:none;
+        padding:0px;
+    }
+        div.download ul li{
+            margin-bottom:10px;
+        }
+            div.download ul li a{
+                background:transparent url(/images/icon_pdf.png) no-repeat left top;
+                display:block;
+                padding:10px 0px 10px 45px;
                 
+            }
+            div.download ul li a.doc{
+                background-image:url(/images/icon_doc.png);
+            }
+            div.download ul li a.zip{
+                background-image:url(/images/icon_zip.png);
+            }
+
+/**
+ * professionals
+ **/
+div.link ul{
+    padding-left:0px;
+    margin-left:15px;
+}
+
+/**
+ * guestbook
+ **/
+div.guestbook{
+    
+}
+    div.guestbook p{
+        margin:20px 0px;
+        text-align:center;
+    }
+    div.guestbook div.message{
+        border-bottom:1px dotted #369;
+        margin-bottom:10px;
+    }
+        div.guestbook div.message p{
+            margin:10px 0;
+            text-align:justify;
+        }
+    div.guestbook form{
+    }
+        div.guestbook form fieldset{
+        }
+            div.guestbook form label{
+                display:block;
+                margin-bottom:0px;
+            }
+            div.guestbook form input[type="text"]{
+                padding:5px;
+                width:300px;
+            }
+            div.guestbook form input[type="submit"]{
+                margin-top:10px;
+            }
+            div.guestbook form input, div.guestbook form textarea{
+                margin:0px 0px 10px 0px;
+            }
+            div.guestbook form fieldset ul{
+                margin:0px;
+                padding:0px;
+            }
+            div.guestbook form fieldset textarea{
+                font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
+                font-size:15px;
+            }
+            
+/**
+ * contact
+ **/
+div.contact form{
+}
+    div.contact form fieldset{
+        margin:0px auto;
+        width:405px;
+    }
+        div.contact form label{
+            display:block;
+            margin-bottom:0px;
+        }
+        div.contact form input[type="text"]{
+            padding:5px;
+            width:300px;
+        }
+        div.contact form input[type="submit"]{
+            margin-top:10px;
+        }
+        div.contact form input, div.contact form textarea{
+            margin:0px 0px 10px 0px;
+        }
+        div.contact form fieldset ul{
+            margin:0px;
+            padding:0px;
+        }
+        div.contact form fieldset textarea{
+            font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
+            font-size:15px;
+        }
+            
+/**
+ * error
+ **/
+div#content.error{
+    border:none;
+    height:200px;
+    text-align:center;
+}
+    div#content.error h2{
+        border:none;
+        font-size:2.5em;
+        margin:20px;
+        text-transform:none;
+    }
+    div#content.error p{
+        font-size:1.5em;
+    }
+
 /**
  * footer
  **/

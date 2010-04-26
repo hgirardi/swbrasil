@@ -57,7 +57,7 @@ class GalleryForm extends BaseGalleryForm
 
             $image = $this->embeddedForms['photo']->getObject()->getPath();
 
-            $img = new sfImage($uploadDir . $image, mime_content_type($uploadDir . $image));
+            $img = new sfImage($uploadDir . $image, swImageTransform::mime_content_type($uploadDir . $image));
             if($img->getWidth() > $img->getHeight()){
                 $img->resize(470,null);
             } else {

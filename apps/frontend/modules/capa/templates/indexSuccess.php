@@ -54,7 +54,7 @@
             foreach($messages as $message){
         ?>
         <li>
-            <span class="date"><?php echo format_date($message->created_at,'dd/MM/y');; ?></span> por <span class="author"><?php echo $message->name; ?></span> de <span class="location"><?php echo $message->city . '/' . $message->state . ' - ' . $message->country; ?></span>
+            <span class="date"><?php echo format_date($message->created_at,'dd/MM/y'); ?></span> por <span class="author"><?php echo $message->name; ?></span> de <span class="location"><?php echo $message->city . '/' . $message->state . ' - ' . $message->country; ?></span>
             <p><em><?php echo $message->comment; ?></em></p>
         </li>
         <?php

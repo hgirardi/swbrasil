@@ -3,3 +3,12 @@
 
 # default values
 #all:
+all:
+  recaptcha:
+    active:     true
+    public_key:  "6LfPs7kSAAAAAKCVhcPKHrST8i0zJdIhKmnsIKUH"
+    private_key: "6LfPs7kSAAAAAD-cvJXmDVZTh5LEnPePEZ7TwjHD"
+#  mailhide:
+#    publickey:  "foo"
+#    privatekey: "bar"
+#
