@@ -7,20 +7,23 @@
 </div>
 <div id="newsBox">
     <h3>Notícia</h3>
-    <?php
-        if($news->picture != ''){
-    ?>
     <span class="picture">
     <?php
-        echo image_tag('/uploads/news/thumb_' . $news->picture);
+        echo image_tag('/uploads/news/thumb_' . $picture->picture);
     ?>
-    <h4><?php echo link_to($news->title,'@news_view?slug=' . $news->slug); ?></h4>
+    <h4><?php echo link_to($picture->title,'@news_view?slug=' . $picture->slug); ?></h4>
     </span>
-    <?php
-        }
-    ?>
-    <p><?php echo strip_tags($news->content); ?></p>
-    <?php echo link_to('Leia mais','@news_view?slug=' . $news->slug,array('class' => 'leiamais'));?>
+    <ul>
+        <?php
+            foreach($news as $new) {
+        ?>
+        <li><?php echo link_to('&raquo; '.$new->title . ' ('.format_date($new->created_at,'dd/MM/y').')', '@news_view?slug=' . $new->slug) ; ?></li>
+        <?php
+            }
+        ?>
+    </ul>
+    <p></p>
+    <?php echo link_to('Leia mais','@news_list_blank',array('class' => 'leiamais'));?>
 </div>
 <div id="socialMedia">
     <h3>Grupos Sociais</h3>
@@ -40,9 +43,9 @@
     <?php echo link_to('Leia mais...', '@page_view?slug_category=geral&slug_page=caracteristicas'); ?>
 </div>
 <div id="cuidados">
-    <h3>Cuidados</h3>
-    <p><?php echo strip_tags($cuidados->content); ?></p>
-    <?php echo link_to('Leia mais...', '@page_view?slug_category=geral&slug_page=caracteristicas'); ?>
+    <h3>Hiperatividade</h3>
+    <p><?php echo strip_tags($hiperatividade->content); ?></p>
+    <?php echo link_to('Leia mais...', '@page_view?slug_category=geral&slug_page=hiperatividade'); ?>
 </div>
 <div id="ads_160">
     <a href="#"><img src="/images/banner160x320.jpg" /></a>

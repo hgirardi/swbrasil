@@ -53,8 +53,11 @@ Download:
     collate: utf8_unicode_ci
     charset: utf8
   columns:
-    description:
+    name:
       type: string(100)
+      notnull: true
+    description:
+      type: text
       notnull: false
     type:
       type: string(10)

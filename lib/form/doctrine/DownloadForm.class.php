@@ -13,7 +13,8 @@ class DownloadForm extends BaseDownloadForm
 
     public function configure()
     {
-
+    
+        $this->widgetSchema['description'] = new sfWidgetFormTextarea();
         $this->widgetSchema['type'] = new sfWidgetFormInputHidden();
         $this->widgetSchema['path'] = new sfWidgetFormInputFile();
 

@@ -16,6 +16,7 @@ abstract class BaseDownloadForm extends BaseFormDoctrine
   {
     $this->setWidgets(array(
       'id'          => new sfWidgetFormInputHidden(),
+      'name'        => new sfWidgetFormInputText(),
       'description' => new sfWidgetFormInputText(),
       'type'        => new sfWidgetFormInputText(),
       'path'        => new sfWidgetFormInputText(),
@@ -23,7 +24,8 @@ abstract class BaseDownloadForm extends BaseFormDoctrine
 
     $this->setValidators(array(
       'id'          => new sfValidatorDoctrineChoice(array('model' => $this->getModelName(), 'column' => 'id', 'required' => false)),
-      'description' => new sfValidatorString(array('max_length' => 100, 'required' => false)),
+      'name'        => new sfValidatorString(array('max_length' => 100)),
+      'description' => new sfValidatorPass(array('required' => false)),
       'type'        => new sfValidatorString(array('max_length' => 10)),
       'path'        => new sfValidatorString(array('max_length' => 50)),
     ));

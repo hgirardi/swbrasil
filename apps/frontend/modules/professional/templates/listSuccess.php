@@ -4,7 +4,7 @@
     foreach($professionals as $professional){
 ?>
     <dt><?php echo $professional->name; ?></dt>
-    <dd>Especialidade: <?php echo $professional->name; ?></dd>
+    <dd>Especialidade: <?php echo $professional->speciality; ?></dd>
     <dd>Endereço: <?php echo $professional->address; ?></dd>
     <dd>E-mail: <?php echo mail_to($professional->email,$professional->email); ?></dd>
 <?php      

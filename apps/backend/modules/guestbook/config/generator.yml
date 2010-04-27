@@ -30,9 +30,9 @@ generator:
           label: Aprovado
         created_at:
           label: Data
-          date_format: dd/MM/yy
+          date_format: dd/MM/yyyy
       list:
-        display: [name, email, comment, approved]
+        display: [name, email, comment, created_at, approved]
         title: Lista de Mensagens
         sort: [approved, asc]
         batch_actions:

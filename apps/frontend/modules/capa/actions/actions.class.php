@@ -17,9 +17,10 @@ class capaActions extends sfActions
      */
     public function executeIndex(sfWebRequest $request)
     {
-        $this->news = Doctrine::getTable('News')->getLastNew();
+        $this->picture = Doctrine::getTable('News')->getLastImage();
+        $this->news = Doctrine::getTable('News')->getLastestNew($this->picture->id);
         $this->caracteristicas = Doctrine::getTable('Page')->findOneBySlug('caracteristicas');
-        $this->cuidados = Doctrine::getTable('Page')->findOneBySlug('cuidados');
+        $this->hiperatividade = Doctrine::getTable('Page')->findOneBySlug('hiperatividade');
         $this->messages = Doctrine::getTable('Guestbook')->getMessagesCapa();
     }
 }

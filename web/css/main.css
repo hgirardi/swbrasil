@@ -8,7 +8,7 @@
 body{
     font-size:14px;
     color:#000;
-    background:#fff;
+    background:#E6E6FA;
     font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
 }
 
@@ -40,7 +40,6 @@ div.pagination{
 
 div.container{
     background:#9CC url(/images/fundo.png) repeat-y left top;
-    border: 1px solid #000;
 }    
     div.capa h2{
         left:-9999em;
@@ -206,11 +205,13 @@ div.capa{
         margin-bottom:10px;
         width:690px;
     }
-        div.capa div#newsBox p{
-            height:186px;
-            overflow:hidden;
-            margin-bottom:0px;
+        div.capa div#newsBox ul{            
+            list-style:none;
+            padding-left:5px;
         }
+            div.capa div#newsBox ul li{
+                margin-bottom:10px;
+            }
         div.capa div#newsBox a.leiamais{
             float:right;
         }
@@ -219,6 +220,7 @@ div.capa{
             float:right;
             margin:0px 0px 5px 5px;
             padding:5px;
+            width:180px;
         }
             div.capa div#newsBox span.picture h4{
                 font-size:1em;
@@ -338,21 +340,22 @@ div.professional{
 div.download{}
     div.download ul{
         list-style:none;
+        margin:0px;
         padding:0px;
+        width:680px;
     }
         div.download ul li{
             margin-bottom:10px;
+            width:635px;
         }
-            div.download ul li a{
+            div.download ul li{
                 background:transparent url(/images/icon_pdf.png) no-repeat left top;
-                display:block;
                 padding:10px 0px 10px 45px;
-                
             }
-            div.download ul li a.doc{
+            div.download ul li.doc{
                 background-image:url(/images/icon_doc.png);
             }
-            div.download ul li a.zip{
+            div.download ul li.zip{
                 background-image:url(/images/icon_zip.png);
             }
 

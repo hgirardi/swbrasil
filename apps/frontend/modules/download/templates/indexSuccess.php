@@ -4,7 +4,7 @@
         foreach($downloads as $download){
             $path = explode('.', $download->path);
     ?>
-    <li><?php echo link_to($download->description,'/uploads/download/' . $download->path, array('class' => $download->type)); ?></li>
+    <li class="<?php echo $download->type; ?>"><?php echo link_to($download->name,'/uploads/download/' . $download->path); ?> <?php echo ($download->description != '') ? '('.$download->description.')' : '';?></li>
     <?php
         }
     ?>

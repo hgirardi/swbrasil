@@ -13,12 +13,14 @@ abstract class BaseDownloadFormFilter extends BaseFormFilterDoctrine
   public function setup()
   {
     $this->setWidgets(array(
+      'name'        => new sfWidgetFormFilterInput(array('with_empty' => false)),
       'description' => new sfWidgetFormFilterInput(),
       'type'        => new sfWidgetFormFilterInput(array('with_empty' => false)),
       'path'        => new sfWidgetFormFilterInput(array('with_empty' => false)),
     ));
 
     $this->setValidators(array(
+      'name'        => new sfValidatorPass(array('required' => false)),
       'description' => new sfValidatorPass(array('required' => false)),
       'type'        => new sfValidatorPass(array('required' => false)),
       'path'        => new sfValidatorPass(array('required' => false)),
@@ -42,6 +44,7 @@ abstract class BaseDownloadFormFilter extends BaseFormFilterDoctrine
   {
     return array(
       'id'          => 'Number',
+      'name'        => 'Text',
       'description' => 'Text',
       'type'        => 'Text',
       'path'        => 'Text',

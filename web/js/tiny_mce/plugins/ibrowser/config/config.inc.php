@@ -71,10 +71,16 @@
 			'crop'    	=> false,
 		), */
 		array (
+			'size'   	=> 680,												
+			'ext'    	=> '',
+			'crop'    	=> false,
+		),
+        array (
 			'size'   	=> 460,												
 			'ext'    	=> '',
 			'crop'    	=> false,
 		),
+
 //		array (
 //			'size'   	=> 400,												
 //			'ext'    	=> '*',

@@ -52,3 +52,10 @@ form#login fieldset label{
     display:block;
     margin:0px auto;
 }
+
+input#news_title, input#news_source, input#page_title{
+    width:600px;
+}
+textarea#news_content, textarea#page_content{
+    width:600px;
+}
