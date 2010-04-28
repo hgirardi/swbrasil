@@ -37,8 +37,7 @@ class contactActions extends sfActions
                     $contact['email'],
                     array(
                         'denit@swbrasil.org.br',
-                        'secretaria@swbrasil.org.br',
-                        'hboaventura@gmail.com'
+                        'secretaria@swbrasil.org.br'
                     ),
                     'Contato SWBrasil',
                     <<<EOF
