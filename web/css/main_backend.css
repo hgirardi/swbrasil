@@ -53,9 +53,12 @@ form#login fieldset label{
     margin:0px auto;
 }
 
-input#news_title, input#news_source, input#page_title{
-    width:600px;
+input[type=text], textarea{
+    width:600px!important;
 }
-textarea#news_content, textarea#page_content{
-    width:600px;
+form#login input{
+    width:auto;
+}
+div.user input[type=text]{
+    width:300px!important;
 }

@@ -32,7 +32,7 @@
                     }
                 ?>
             </div>
-            <div id="content">
+            <div id="content" class="<?php echo $sf_context->getModuleName() ?>">
                 <?php echo $sf_content ?>
             </div>
         </div>
