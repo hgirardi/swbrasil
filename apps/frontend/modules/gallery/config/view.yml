@@ -1,0 +1,8 @@
+all:
+  stylesheets:    [jquery.lightbox-0.5.css]
+
+  javascripts:    [jquery.lightbox-0.5.min.js, lightbox.js]
+
+  has_layout:     true
+  layout:         layout
+

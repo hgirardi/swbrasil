@@ -16,7 +16,7 @@ class galleryActions extends autoGalleryActions
     public function executeCreate(sfWebRequest $request)
     {
         $gallery = $request->getParameter('gallery');
-        $gallery['slug'] = Util::removeInvalidChar($gallery['title']);
+        $gallery['slug'] = Util::removeInvalidChar($gallery['title']);        
         $request->setParameter('gallery', $gallery);
 
         parent::executeCreate($request);

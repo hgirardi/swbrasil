@@ -210,7 +210,9 @@ div.capa{
             padding-left:5px;
         }
             div.capa div#newsBox ul li{
-                margin-bottom:10px;
+                line-height:20px;
+                margin-bottom:1px;
+                
             }
         div.capa div#newsBox a.leiamais{
             float:right;
@@ -460,6 +462,36 @@ div#content.error{
     }
     div#content.error p{
         font-size:1.5em;
+    }
+
+/**
+ * gallery
+ **/
+div.gallery ul{
+    list-style:none;
+    margin:0px 0px 0px 20px;
+    padding:0px;
+    text-align:center;
+}
+    div.gallery ul li{
+        float:left;
+        height:150px;
+        margin:10px;
+        padding:0px;
+        text-align:center;
+        overflow:hidden;
+        width:142px;
+    }
+    div.gallery ul li span{
+        display:block;
+    }
+div.gallery ul.view{
+    margin-left:20px;
+}
+    div.gallery ul.view li{
+        height:80px;
+        margin:10px;        
+        width:107px;
     }
 
 /**

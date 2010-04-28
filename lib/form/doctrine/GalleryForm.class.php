@@ -59,14 +59,15 @@ class GalleryForm extends BaseGalleryForm
 
             $img = new sfImage($uploadDir . $image, swImageTransform::mime_content_type($uploadDir . $image));
             if($img->getWidth() > $img->getHeight()){
-                $img->resize(470,null);
+                $img->resize(600,null);
             } else {
-                $img->resize(null, 355);
+                $img->resize(null, 480);
             }
             $img->setQuality(95);
+            $img->overlay(new sfImage(sfConfig::get('sf_web_dir') . '/images/marcadagua.png', 'image/png'), 'bottom-right');
             $img->save();
 
-            $img->resize(null,52)->saveAs($uploadDir . 'thumb_' . $image);
+            $img->resize(null,80)->saveAs($uploadDir . 'thumb_' . $image);
         }
         return $return;
     }

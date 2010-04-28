@@ -11,6 +11,7 @@
         <li><?php echo link_to('Profissionais','@professional_list'); ?></li>
         <li><?php echo link_to('Livro de Visitas','@guestbook_list'); ?></li>
         <li><?php echo link_to('Downloads','download/index'); ?></li>
+        <li><?php echo link_to('Álbum de Fotos','@gallery_list'); ?></li>
         <li><?php echo link_to('Links','@links'); ?></li>
         <?php
             }

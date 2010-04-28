@@ -2,7 +2,7 @@
 
 class NewsTable extends Doctrine_Table
 {
-    public function getLastestNew($id,$limit = 5)
+    public function getLastestNew($id,$limit = 7)
     {
         $q = $this->createQuery()
            ->from('News n')

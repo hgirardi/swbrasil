@@ -10,6 +10,14 @@ error:
   url: /error/404
   param: { module: error, action: 404 }
 
+gallery_view:
+  url: /album/:slug
+  param: { module: gallery, action: view }
+
+gallery_list:
+  url: /albuns/*
+  param: { module: gallery, action: list }
+
 download_file:
   url: /download/:file/:type
   param: { module: download, action: download }
