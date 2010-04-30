@@ -19,7 +19,7 @@ class galleryActions extends sfActions
     {
         $page = ($request->getParameter('page') != '') ? $request->getParameter('page') : 1;
         $gallery = Doctrine_Core::getTable('Gallery')->listGalleriesByDate();
-        $this->pager = new sfDoctrinePager('Gallery', 4);
+        $this->pager = new sfDoctrinePager('Gallery', 18);
         $this->pager->setQuery($gallery);
         $this->pager->setPage($page);
         $this->pager->init();
