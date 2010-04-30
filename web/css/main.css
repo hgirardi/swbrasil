@@ -467,6 +467,13 @@ div#content.error{
 /**
  * gallery
  **/
+div.gallery h3{
+    margin-bottom:0px;
+}
+div.gallery small{
+    display:block;
+    margin-bottom:15px;
+}
 div.gallery ul{
     list-style:none;
     margin:0px 0px 0px 20px;

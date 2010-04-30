@@ -6,7 +6,7 @@
     ?>
     <li>
         <?php echo link_to(image_tag('/uploads/gallery/thumb_' . $gallery->photo),'@gallery_view?slug=' . $gallery->slug);?>
-        <span><?php echo link_to($gallery->title . ' (' . format_date($gallery->created_at,'dd/mm/yyyy') . ')' ,'@gallery_view?slug=' . $gallery->slug);?></span>
+        <span><?php echo link_to($gallery->title . ' (' . format_date($gallery->created_at,'dd/MM/yyyy') . ')' ,'@gallery_view?slug=' . $gallery->slug);?></span>
     </li>
     <?php
         }

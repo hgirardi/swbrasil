@@ -1,6 +1,7 @@
-<?php use_helper('jQuery'); ?>
+<?php use_helper('jQuery', 'Date'); ?>
 <h2>Álbum de Fotos</h2>
 <h3><?php echo $gallery->title; ?></h3>
+<small>Adicionado em <?php echo format_date($gallery->created_at,'dd/MM/yyyy');?></small>
 <p><?php echo $gallery->description; ?></p>
 <ul class="view">
     <?php

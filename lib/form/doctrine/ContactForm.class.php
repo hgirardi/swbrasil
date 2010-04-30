@@ -19,13 +19,15 @@ class ContactForm extends sfForm
             'email'    => new sfWidgetFormInput(),
             'telefone' => new sfWidgetFormInput(),
             'mensagem' => new sfWidgetFormTextarea(),
+            'captcha'  => new sfAnotherWidgetFormReCaptcha()
         ));
-
+        
         $this->widgetSchema->setLabels(array(
             'nome'     => 'Nome',
             'email'    => 'E-mail',
             'telefone' => 'Telefone',
             'mensagem' => 'Mensagem',
+            'captcha'  => 'Digite as palavras abaixo', 
         ));
 
         $this->setValidators(array(
@@ -37,7 +39,10 @@ class ContactForm extends sfForm
 
         $this->widgetSchema->setNameFormat('contact[%s]');
 
-
+        $this->validatorSchema->setPostValidator(
+            new sfAnotherValidatorSchemaReCaptcha($this, 'captcha')
+        );
+    
     }
 }
 ?>
