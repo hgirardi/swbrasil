@@ -21,14 +21,6 @@
     }
 ?>
 
-<form action="<?php echo url_for('livrodevisitas/create');?>" method="post">
-    <fieldset>
-        <legend>Deixe uma mensagem</legend>
-        <?php echo $form->render(); ?>
-        <input type="submit" value="Enviar" class="button" />
-    </fieldset>
-</form>
-
 <?php
     if($pager->haveToPaginate()){
 ?>
@@ -57,3 +49,11 @@
 <?php
     }
 ?>
+
+<form action="<?php echo url_for('livrodevisitas/create');?>" method="post">
+    <fieldset>
+        <legend>Deixe uma mensagem</legend>
+        <?php echo $form->render(); ?>
+        <input type="submit" value="Enviar" class="button" />
+    </fieldset>
+</form>
