@@ -32,10 +32,10 @@
     <?php echo link_to(image_tag('/images/grupos_logo.png',array('title' => 'Grupos', 'alt' => 'Logo do Grupos')),'http://www.grupos.com.br/group/absw/SpreadingBox.html?id_grupo=243733&action=subscribe&email='); ?>
 </div>
 <div class="ads_125">
-    <a href="#"><img src="/images/doemedula125x125.jpg" /></a>
+    <a href="http://www.doemedula.com"><img src="/images/doemedula125x125.jpg" /></a>
 </div>
 <div class="ads_125">
-    <a href="#"><img src="/images/onconguia_125x125.jpg" /></a>
+    <a href="http://www.mamainfo.org.br"><img src="/images/onconguia_125x125.jpg" /></a>
 </div>
 <div id="caracteristicas">
     <h3>Características</h3>
@@ -48,7 +48,7 @@
     <?php echo link_to('Leia mais...', '@page_view?slug_category=geral&slug_page=hiperatividade'); ?>
 </div>
 <div id="ads_160">
-    <a href="#"><img src="/images/banner160x320.jpg" /></a>
+    <a href="http://www.miracula.com.br/mps001/lojas/unicef/index.asp?Parceiro=Unicefhomebr"><img src="/images/banner160x320.jpg" /></a>
 </div>
 <div id="guestbook">
     <h3>Livro de Visita</h3>
