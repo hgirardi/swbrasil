@@ -20,6 +20,7 @@
                     <li <?php echo ($sf_request->getParameter('module') == 'news') ? 'class="selected"' : ''; ?>><?php echo link_to('Notícias','@news');?></li>
                     <li <?php echo ($sf_request->getParameter('module') == 'download') ? 'class="selected"' : ''; ?>><?php echo link_to('Downloads','@download');?></li>
                     <li <?php echo ($sf_request->getParameter('module') == 'professional') ? 'class="selected"' : ''; ?>><?php echo link_to('Profissionais','@professional');?></li>
+                    <li <?php echo ($sf_request->getParameter('module') == 'friend') ? 'class="selected"' : ''; ?>><?php echo link_to('Amigos','@friend');?></li>
                     <li <?php echo ($sf_request->getParameter('module') == 'guestbook') ? 'class="selected"' : ''; ?>><?php echo link_to('Livro de Visitas','@guestbook');?></li>
                     <li <?php echo ($sf_request->getParameter('module') == 'link') ? 'class="selected"' : ''; ?>><?php echo link_to('Links','@link');?></li>
                     <li <?php echo ($sf_request->getParameter('module') == 'category') ? 'class="selected"' : ''; ?>><?php echo link_to('Categorias','@category');?></li>

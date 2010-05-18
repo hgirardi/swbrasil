@@ -9,6 +9,7 @@
         <li><?php echo link_to('Capa','@homepage'); ?></li>
         <li><?php echo link_to('Notícias','@news_list_blank'); ?></li>
         <li><?php echo link_to('Profissionais','@professional_list'); ?></li>
+        <li><?php echo link_to('Amigos da ABSW','@friend_list'); ?></li>
         <li><?php echo link_to('Livro de Visitas','@guestbook_list'); ?></li>
         <li><?php echo link_to('Downloads','download/index'); ?></li>
         <li><?php echo link_to('Álbum de Fotos','@gallery_list'); ?></li>
@@ -25,7 +26,6 @@
 <?php
     }
 ?>
-    <h3>Parceiros</h3>
     <ul id="partners">
         <?php
             foreach($partners as $partner){

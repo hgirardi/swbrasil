@@ -8,7 +8,7 @@ class GuestbookTable extends Doctrine_Table
            ->from('Guestbook g')
            ->where('g.approved = true')
            ->orderBy('g.created_at DESC')
-           ->limit(3);
+           ->limit(5);
 
         return $q->execute();
     }

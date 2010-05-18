@@ -86,6 +86,27 @@ Professional:
     email:
       type: string(50)
       notnull: true
+   
+Friend:
+  options:
+    type: MyISAM
+    collate: utf8_unicode_ci
+    charset: utf8
+  actAs:
+    Timestampable: ~
+  columns:
+    name:
+      type: string(150)
+      notnull: true
+    speciality:
+      type: string(150)
+      notnull: true
+    address:
+      type: string(200)
+      notnull: true
+    email:
+      type: string(50)
+      notnull: true
 
 Guestbook:
   options:

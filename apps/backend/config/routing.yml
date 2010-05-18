@@ -79,6 +79,16 @@ professional:
     column:               id
     with_wildcard_routes: true
 
+friend:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                friend 
+    module:               friend 
+    prefix_path:          /friend
+    column:               id
+    with_wildcard_routes: true
+
+
 user:
   class: sfDoctrineRouteCollection
   options:

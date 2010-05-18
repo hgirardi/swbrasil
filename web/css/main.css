@@ -147,11 +147,14 @@ div#sideBar ul{
             font-size:15px;
         }
 div#sideBar ul#partners{
-    padding-left:5px;
+    padding:2px 0px 2px 5px;
 }
-    div#sideBar ul#partners li{
-        border: 0px;
+    div#sideBar ul#partners li {
+        border:none;
     }
+        div#sideBar ul#partners li img{
+            border: 1px solid #F0F0F0;
+        }
 /**
  * gerais
  **/
@@ -272,7 +275,6 @@ div.capa{
     div.capa div#guestbook{
         clear:both;
         float:left;
-        height:220px;    
         width:690px;
     }
         div.capa div#guestbook a{

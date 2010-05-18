@@ -48,7 +48,12 @@ news_list:
   
 professional_list:
   url: /profissionais/*
-  param: { module: professional, action: list }  
+  param: { module: professional, action: list }
+ 
+friend_list:
+  url: /amigos/*
+  param: { module: friend, action: list }  
+
 
 page_view:
   url: /:slug_category/:slug_page
