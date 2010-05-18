@@ -504,6 +504,14 @@ div.gallery ul.view{
     }
 
 /**
+ *
+ */
+div#content.page img{
+    margin: 5px;
+}
+ 
+
+/**
  * footer
  **/
 div#footer{

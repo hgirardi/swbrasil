@@ -6,11 +6,11 @@ default:
     content-type: text/html
 
   metas:
-    #title:        symfony project
-    #description:  symfony project
-    #keywords:     symfony, project
-    #language:     en
-    #robots:       index, follow
+    title:        Website Oficial Da Associação Brasileira da Síndrome de Williams
+    description:  Melhorar a qualidade de vida das pessoas com SW, promovendo campanhas de esclarecimento em geral, quanto às suas reais possibilidades de incluir-se na rede regular de ensino, em cursos profissionalizantes, no mercado de trabalho e em todas as atividades da sociedade a qual pertence
+    keywords:     sindrome, williams, beuren, brasil, trespach
+    language:     pt-BR
+    robots:       index, follow
 
   stylesheets:    [screen.css, main.css, print.css { media: print }, ie.css { condition: IE }]
 
