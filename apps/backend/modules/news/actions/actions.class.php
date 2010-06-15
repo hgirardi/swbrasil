@@ -13,22 +13,4 @@ require_once dirname(__FILE__).'/../lib/newsGeneratorHelper.class.php';
  */
 class newsActions extends autoNewsActions
 {
-    public function executeCreate(sfWebRequest $request)
-    {
-        $news = $request->getParameter('news');
-        $news['slug'] = Util::removeInvalidChar($news['title']);
-        $request->setParameter('news', $news);
-
-        parent::executeCreate($request);
-    }
-
-    public function executeUpdate(sfWebRequest $request)
-    {
-        $news = $request->getParameter('news');
-        $news['slug'] = Util::removeInvalidChar($news['title']);
-        $request->setParameter('news', $news);
-
-        parent::executeUpdate($request);
-    }
-
 }

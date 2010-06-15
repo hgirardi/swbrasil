@@ -7,12 +7,12 @@ gallery:
     column:               id
     with_wildcard_routes: true
 
-page:
+article:
   class: sfDoctrineRouteCollection
   options:
-    model:                page
-    module:               page
-    prefix_path:          /page
+    model:                article
+    module:               article
+    prefix_path:          /article
     column:               id
     with_wildcard_routes: true
 

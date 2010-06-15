@@ -14,10 +14,10 @@ class NewsForm extends BaseNewsForm
     {
         unset(
             $this['created_at'],
-            $this['updated_at']
+            $this['updated_at'],
+            $this['slug']
         );
 
-        $this->widgetSchema['slug'] = new sfWidgetFormInputHidden();
         $this->widgetSchema['content'] = new isicsWidgetFormTinyMCE(array(
             'tiny_options' => sfConfig::get('app_tiny_mce_my_settings', array()))
         );
@@ -36,7 +36,6 @@ class NewsForm extends BaseNewsForm
             'path'                 => sfConfig::get('sf_upload_dir').'/news',
             'mime_types'           => 'web_images'
         ));
-        $this->validatorSchema['slug']             = new sfValidatorString(array('required' => false));
 
     }
 

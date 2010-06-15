@@ -29,14 +29,12 @@ News:
     charset: utf8
   actAs:
     Timestampable: ~
+    Sluggable:
+      fields: [title]
   columns:
     title:
       type: string(100)
       notnull: true
-    slug:
-      type: string(100)
-      notnull: true
-      unique: true
     content:
       type: string
       notnull: true
@@ -180,19 +178,21 @@ Category:
       type: string(50)
       notnull: true
   relations:
-    Pages:
+    Articles:
       type: many
-      class: Page
+      class: Article
       local: id
       foreign: category_id
 
-Page:
+Article:
   options:
     type: MyISAM
     collate: utf8_unicode_ci
     charset: utf8
   actAs:
     Timestampable: ~
+    Sluggable:
+      fields: [title]
   columns:
     category_id:
       type: integer
@@ -200,10 +200,6 @@ Page:
     title:
       type: string(100)
       notnull: true
-    slug:
-      type: string(100)
-      notnull: true
-      unique: true
     content:
       type: string
       notnull: true
@@ -221,14 +217,12 @@ Gallery:
     charset: utf8
   actAs:
     Timestampable: ~
+    Sluggable:
+      fields: [title]
   columns:
     title:
       type: string(100)
       notnull: true
-    slug:
-      type: string(100)
-      notnull: true
-      unique: true
     description:
       type: string
       notnull: false

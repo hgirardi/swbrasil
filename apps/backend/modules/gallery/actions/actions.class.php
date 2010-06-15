@@ -13,22 +13,4 @@ require_once dirname(__FILE__).'/../lib/galleryGeneratorHelper.class.php';
  */
 class galleryActions extends autoGalleryActions
 {
-    public function executeCreate(sfWebRequest $request)
-    {
-        $gallery = $request->getParameter('gallery');
-        $gallery['slug'] = Util::removeInvalidChar($gallery['title']);        
-        $request->setParameter('gallery', $gallery);
-
-        parent::executeCreate($request);
-    }
-
-    public function executeUpdate(sfWebRequest $request)
-    {
-        $gallery = $request->getParameter('gallery');
-        $gallery['slug'] = Util::removeInvalidChar($gallery['title']);
-        $request->setParameter('gallery', $gallery);
-
-        parent::executeUpdate($request);
-    }
-
 }

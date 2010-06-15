@@ -24,7 +24,7 @@
                     <li <?php echo ($sf_request->getParameter('module') == 'guestbook') ? 'class="selected"' : ''; ?>><?php echo link_to('Livro de Visitas','@guestbook');?></li>
                     <li <?php echo ($sf_request->getParameter('module') == 'link') ? 'class="selected"' : ''; ?>><?php echo link_to('Links','@link');?></li>
                     <li <?php echo ($sf_request->getParameter('module') == 'category') ? 'class="selected"' : ''; ?>><?php echo link_to('Categorias','@category');?></li>
-                    <li <?php echo ($sf_request->getParameter('module') == 'page') ? 'class="selected"' : ''; ?>><?php echo link_to('Páginas','@page');?></li>
+                    <li <?php echo ($sf_request->getParameter('module') == 'article') ? 'class="selected"' : ''; ?>><?php echo link_to('Páginas','@article');?></li>
                     <li <?php echo ($sf_request->getParameter('module') == 'partner') ? 'class="selected"' : ''; ?>><?php echo link_to('Parceiros','@partner');?></li>
                     <li <?php echo ($sf_request->getParameter('module') == 'gallery') ? 'class="selected"' : ''; ?>><?php echo link_to('Álbum','@gallery');?></li>
                     <li class="logout"><?php echo link_to('Sair','login/logout'); ?></li>

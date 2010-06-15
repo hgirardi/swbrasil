@@ -19,8 +19,8 @@ class capaActions extends sfActions
     {
         $this->picture = Doctrine::getTable('News')->getLastImage();
         $this->news = Doctrine::getTable('News')->getLastestNew($this->picture->id);
-        $this->caracteristicas = Doctrine::getTable('Page')->findOneBySlug('caracteristicas');
-        $this->hiperatividade = Doctrine::getTable('Page')->findOneBySlug('hiperatividade');
+        $this->caracteristicas = Doctrine::getTable('Article')->findOneBySlug('caracteristicas');
+        $this->hiperatividade = Doctrine::getTable('Article')->findOneBySlug('hiperatividade');
         $this->messages = Doctrine::getTable('Guestbook')->getMessagesCapa();
     }
 }

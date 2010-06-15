@@ -1,76 +1,61 @@
-Page:
+Article:
   SobreABSW:
     title: Sobre a ABSW
-    slug: sobre-a-absw
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
     Category: Geral
   SobreSite:
     title: Sobre o Site
-    slug: sobre-o-site
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
     Category: Geral
   Caracteristicas:
     title: Características
-    slug: caracteristicas
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
     Category: Geral
   Cuidados:
     title: Cuidados
-    slug: cuidados
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
     Category: Geral
   Dicas:
     title: Dicas
-    slug: dicas
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
     Category: Geral
   Hiperatividade:
     title: Hiperatividade
-    slug: hiperatividade
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
     Category: Geral
   Deficit:
     title: Déficit de Atenção
-    slug: deficit-de-atencao
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
     Category: Geral
   Rafael:
     title: Rafael Trespach
-    slug: rafael-trespach
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
     Category: Relatos
   Eric:
     title: Eric
-    slug: reric
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
     Category: Relatos
   Haila:
     title: Haila
-    slug: haile
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
     Category: Relatos
   Jessica:
     title: Jessica
-    slug: Jessica
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
     Category: Relatos
   APAE:
     title: APAE
-    slug: apae
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
     Category: Especialidades
   Generica:
-    title: Genetica
-    slug: genetica
+    title: Genética
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
     Category: Especialidades
   Ensino:
     title: Ensino
-    slug: ensino
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
     Category: Especialidades
   Urologia:
     title: Urologia
-    slug: urologia
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a augue turpis, at eleifend turpis. In hac habitasse platea dictumst. In in neque turpis. Praesent aliquam quam eu lorem faucibus ac cursus elit viverra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean sollicitudin, eros in ultrices eleifend, magna turpis blandit nunc, sed aliquet est ligula ac dolor. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris in blandit libero. Pellentesque eget tellus augue. Nam diam orci, eleifend id mattis quis, rutrum vitae massa. Aenean dignissim pretium cursus. Integer dolor ante, venenatis a pretium sed, pulvinar et velit. 
     Category: Especialidades

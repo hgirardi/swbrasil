@@ -16,7 +16,7 @@
         <li><?php echo link_to('Links','@links'); ?></li>
         <?php
             }
-            foreach($category->Pages as $page){
+            foreach($category->Articles as $page){
         ?>
         <li><?php echo link_to($page->title,'@page_view?slug_category='.strtolower($category->name).'&slug_page=' . $page->slug); ?></li>
         <?php

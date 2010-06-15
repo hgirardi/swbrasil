@@ -17,6 +17,6 @@ class pageActions extends sfActions
      */
     public function executeView(sfWebRequest $request)
     {
-        $this->page = Doctrine::getTable('Page')->findOneBySlug($request->getParameter('slug_page')); 
+        $this->page = Doctrine::getTable('Article')->findOneBySlug($request->getParameter('slug_page'));
     }
 }
