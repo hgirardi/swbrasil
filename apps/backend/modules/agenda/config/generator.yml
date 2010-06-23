@@ -1,0 +1,37 @@
+generator:
+  class: sfDoctrineGenerator
+  param:
+    model_class:           Agenda
+    theme:                 admin
+    non_verbose_templates: true
+    with_show:             false
+    singular:              ~
+    plural:                ~
+    route_prefix:          agenda
+    with_doctrine_route:   true
+    actions_base_class:    sfActions
+
+    config:
+      actions: ~
+      fields:
+        title:
+          label: Evento
+        date:
+          label: Data
+          date_format: dd/MM/yy
+        time:
+          label: Hora
+        place:
+          label: Local
+        info:
+          label: Informações
+      list:
+        display: [title, date]
+        title: Eventos Agendados
+      filter:
+        class: false
+      form: ~
+      edit:
+        title: Alterar Evento "%%title%%"
+      new:
+        title: Criar Evento 
