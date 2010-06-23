@@ -14,6 +14,7 @@
         <li><?php echo link_to('Downloads','download/index'); ?></li>
         <li><?php echo link_to('Álbum de Fotos','@gallery_list'); ?></li>
         <li><?php echo link_to('Links','@links'); ?></li>
+        <li><?php echo link_to('Agenda','@agenda_list'); ?></li>
         <?php
             }
             foreach($category->Articles as $page){

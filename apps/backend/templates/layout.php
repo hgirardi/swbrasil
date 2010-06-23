@@ -27,6 +27,7 @@
                     <li <?php echo ($sf_request->getParameter('module') == 'article') ? 'class="selected"' : ''; ?>><?php echo link_to('Páginas','@article');?></li>
                     <li <?php echo ($sf_request->getParameter('module') == 'partner') ? 'class="selected"' : ''; ?>><?php echo link_to('Parceiros','@partner');?></li>
                     <li <?php echo ($sf_request->getParameter('module') == 'gallery') ? 'class="selected"' : ''; ?>><?php echo link_to('Álbum','@gallery');?></li>
+                    <li <?php echo ($sf_request->getParameter('module') == 'agenda') ? 'class="selected"' : ''; ?>><?php echo link_to('Agenda','@agenda');?></li>
                     <li class="logout"><?php echo link_to('Sair','login/logout'); ?></li>
                 </ul>
                 <?php

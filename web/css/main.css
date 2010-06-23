@@ -504,12 +504,18 @@ div.gallery ul.view{
     }
 
 /**
- *
+ * page
  */
 div#content.page img{
     margin: 5px;
 }
- 
+
+/**
+ * agenda
+ */
+div#content.agenda dl dd.info{
+     margin-bottom:10px;
+}
 
 /**
  * footer

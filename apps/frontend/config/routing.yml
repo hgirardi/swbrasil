@@ -34,6 +34,10 @@ links:
   url: /links
   param: { module: link, action: list }
 
+agenda_list:
+  url: /agenda
+  param: { module: agenda, action: list }
+
 news_view:
   url: /noticia/:slug
   param: { module: news, action: view }

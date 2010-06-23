@@ -1,3 +1,12 @@
+agenda:
+  class: sfDoctrineRouteCollection
+  options:
+    model:                Agenda
+    module:               agenda
+    prefix_path:          /agenda
+    column:               id
+    with_wildcard_routes: true
+
 gallery:
   class: sfDoctrineRouteCollection
   options:
