@@ -28,11 +28,11 @@
 <div id="socialMedia">
     <h3>Grupos Sociais</h3>
     <?php echo link_to(image_tag('/images/orkut_logo.png',array('title' => 'Orkut', 'alt' => 'Logo da rede social Orkut')),'http://www.orkut.com.br/Main#Community.aspx?cmm=6457587'); ?>
-    <?php echo image_tag('/images/skype_logo.png',array('title' => 'Skype - absw-secretaria', 'alt' => 'Logo do Skype - absw-secretaria')); ?>
+    <?php echo link_to(image_tag('/images/facebook.png',array('title' => 'Facebook', 'alt' => 'Logo do Facebook')),'http://pt-br.facebook.com/people/Absw-Sindrome-de-Williams/100001245180390'); ?>
     <?php echo link_to(image_tag('/images/grupos_logo.png',array('title' => 'Grupos', 'alt' => 'Logo do Grupos')),'http://www.grupos.com.br/group/absw/SpreadingBox.html?id_grupo=243733&action=subscribe&email='); ?>
 </div>
 <div class="ads_125">
-    <a href="http://www.doemedula.com"><img src="/images/doemedula125x125.jpg" /></a>
+    <a href="http://www.sorri.com.br/"><img src="/images/zen_logo.jpg" /></a>
 </div>
 <div class="ads_125">
     <a href="http://www.mamainfo.org.br"><img src="/images/onconguia_125x125.jpg" /></a>
