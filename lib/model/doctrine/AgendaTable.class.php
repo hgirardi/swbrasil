@@ -13,8 +13,7 @@ class AgendaTable extends Doctrine_Table
     {
         $q = $this->createQuery()
            ->from('Agenda a')
-           ->orderBy('a.date ASC')
-           ->orderBy('a.time ASC');
+           ->orderBy('a.date ASC');
 
         return $q->execute();
     }
