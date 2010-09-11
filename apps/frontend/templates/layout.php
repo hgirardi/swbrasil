@@ -14,8 +14,9 @@
             <div id="header" class="clear">
                 <h1>Website Oficial Da Associação Brasileira da Síndrome de Williams</h1>
                 <ul id="topMenu">
-                    <li><?php echo link_to('Sobre a ABSW','@page_view?slug_category=geral&slug_page=sobre-a-absw');?></a></li>
-                    <li><?php echo link_to('Sobre o Site','@page_view?slug_category=geral&slug_page=sobre-o-site');?></a></li>
+                    <li><?php echo link_to('Sobre a ABSW','@page_view?slug_category=geral&slug_page=sobre-a-absw');?></li>
+                    <li><?php echo link_to('Sobre o Site','@page_view?slug_category=geral&slug_page=sobre-o-site');?></li>
+                    <li><strong><?php echo link_to('Faça uma Doação','@page_view?slug_category=geral&slug_page=faca-uma-doacao');?></strong></li>
                     <li class="last"><?php echo link_to('Fale Conosco','@contact');?></a></li>
                 </ul>
                 <form method="post" action="#">

@@ -85,7 +85,7 @@ div#header h1{
 }
 div#header ul{
     float:left;
-    margin:22px 0px 0px 225px;
+    margin:22px 0px 0px 195px;
 }
     div#header ul li{
         border-right:1px solid #369;
@@ -100,12 +100,15 @@ div#header ul{
             color:#369;
             font-weight:bold;
         }
+            div#header ul li strong a{
+                color:#c00;
+            }
 div#header fieldset{
     float:left;
     border:0;
     padding:0px;
     margin:15px 0px 0px 30px;
-    width:350px;
+    width:255px;
 }
     div#header fieldset legend{
         display:none;
@@ -114,7 +117,7 @@ div#header fieldset{
         border-radius: 3px;
         -moz-border-radius: 3px;
         -webkit-border-radius: 3px;
-        width:265px;
+        width:170px;
     }
     input.button{
         background-color:#369;
