@@ -1,6 +1,6 @@
 a partir do webroot, execute no terminal:
 -----------------------------------------
-mkdir uploads uploads/ uploads/download  uploads/images  uploads/news  uploads/partner
+mkdir cache/ log/ uploads/ uploads/download  uploads/images  uploads/news  uploads/partner
 chmod 777 uploads -R
-chmod web/js/tiny_mce/plugins/ibrowser/temp
-symfony project:permissions
+chmod 777 web/js/tiny_mce/plugins/ibrowser/temp
+./symfony project:permissions
